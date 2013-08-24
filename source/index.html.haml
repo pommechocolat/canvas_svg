@@ -7,5 +7,11 @@
     %link{:rel => "stylesheet", :href => "stylesheets/all.css"}
     %link{:rel => "stylesheet", :href => "stylesheets/normalize.css"}
   %body
+    %h1
+      CANVAS
     %canvas{:id => "canvas", :width => "400", :height => "300"}
+    %h1
+      SVG
+    %svg{:id => "svg", :width => "400", :height => "300"}
+      %rect#rectangle_svg
   %script{:src => "javascripts/all.js"}
