@@ -1,0 +1,140 @@
+Expérience de développement en javascript
+
+l'idée est de partir dès le départ avec coffee-script et des outils de test adaptés.
+
+La première chose à faire consiste à installer brew. Il faut être administrateur de la machine, car les installations sont placées dans le dossier /usr/local et notamment dans /usr/local/bin pour les exécutable.
+Une fois bref installé il faut, à chaque fois que l'on veut l'utiliser, le mettre à jour avec la commande suivante :
+	brew update
+Pour vérifier que tout va bien, il est conseillé de lancer la commande suivante :
+	brew doctor
+
+Une fois brew installé, il faut installer node.js qui est un serveur http écrit en JavaScript. brew en profite pour installer aussi npm (node package manager) fort utile pour ajouter quelques outils.
+
+	brew install node
+
+Une fois l'installation terminée, il est conseillé d'ajouter dans votre PATH le chemin /usr/local/share/npm/bin ou npm installera les outils complémentaires déployé en global. Sur Mac, c'est le fichier .bash_profile à la racine du home que est lu lors d'un nouveau shell :
+
+  vi .bash_profile
+    PATH=/usr/local/share/npm/bin:$PATH
+  source .bash_profile
+
+ATTENTION : si ce chemin n'est pas ajouté, mocha ne saura pas trouver les modules complémentaires comme chai par exemple !
+
+Si l'on veux écrire du code en CoffeeScript (CS), il faut installer le dit coffee :
+
+  npm install -g coffee-script
+
+Pour les tests, je vais utiliser Mocha et le module Chai
+
+  npm install -g mocha
+  npm install -g chai
+  
+Mocha ajoute de nombreux outils pour améliorer le développement : connecteur growl pour être informé de la réalisation des tests, debug, commander, diff, mkdirp, ms, et jade qui ce veux sur le même principe que HAML et écrit en JavaScript for Node.
+
+Pour construire un test, mocha va chercher dans un dossier test les fichiers de test. Sinon il nous fait une erreur.
+
+  mkdir testCS
+  cd testCS
+  mocha --compilers coffee:coffee-script --watch
+
+fs.js:524
+  return binding.stat(pathModule._makeLong(path));
+                 ^
+Error: ENOENT, no such file or directory 'test.js'
+    at Object.fs.statSync (fs.js:524:18)
+    at lookupFiles (/usr/local/share/npm/lib/node_modules/mocha/bin/_mocha:390:17)
+    at /usr/local/share/npm/lib/node_modules/mocha/bin/_mocha:267:24
+    at Array.forEach (native)
+    at Object.<anonymous> (/usr/local/share/npm/lib/node_modules/mocha/bin/_mocha:266:6)
+    at Module._compile (module.js:449:26)
+    at Object.Module._extensions..js (module.js:467:10)
+    at Module.load (module.js:356:32)
+    at Function.Module._load (module.js:312:12)
+    at Module.runMain (module.js:492:10)
+    at process.startup.processNextTick.process._tickCallback (node.js:244:9)
+
+Mocha va observer les modification dans le dossier courant est les sous dossiers. Mais s'il ne trouve pas un dossier test il est perdu.
+
+  mkdir titi
+
+fs.js:524
+  return binding.stat(pathModule._makeLong(path));
+                 ^
+Error: ENOENT, no such file or directory 'test.js'
+    at Object.fs.statSync (fs.js:524:18)
+    at lookupFiles (/usr/local/share/npm/lib/node_modules/mocha/bin/_mocha:390:17)
+    at /usr/local/share/npm/lib/node_modules/mocha/bin/_mocha:267:24
+    at Array.forEach (native)
+    at Object.<anonymous> (/usr/local/share/npm/lib/node_modules/mocha/bin/_mocha:266:6)
+    at Module._compile (module.js:449:26)
+    at Object.Module._extensions..js (module.js:467:10)
+    at Module.load (module.js:356:32)
+    at Function.Module._load (module.js:312:12)
+    at Module.runMain (module.js:492:10)
+    at process.startup.processNextTick.process._tickCallback (node.js:244:9)
+
+  mv titi/ test.js
+
+Mocha répond 0 tests completed
+Si on change test.js en test… c'est là même chose. Mocha est insensible à la casse du nom de dossier. Bref par convention on va utiliser le nom de dossier tout simple : test
+
+Maintenant on écrit un premier test : 
+
+  console.log 'début test'
+
+On enregistre se fichier sous un nom de type test.coffee. Immédiatement ce fichier est détecté par Mocha en mode watch et début test est affiché. Le nom doit contenir le mot test pour être pris en compte. Avec l'ajout d'un nouveau fichier à suivre, il faut relancer Mocha pour qu'il soit pris en compte.
+
+le premier test, ajouté au fichier de test, va avoir la forme suivante :
+
+  assert = require("assert")
+
+  describe 'premier test :', ->
+    it 'le nombre devrait être égale à', ->
+      t = 3
+      assert.equal 2, t
+
+Et une erreur apparait immédiatement : 
+
+  ✖ 1 of 1 test failed:
+
+  1) premier test le nombre devrait être égale à:
+     
+  AssertionError: 2 == 3
+
+En corrigeant t = 3 par t = 2 le test passe : 
+
+ 1 test complete (0 ms)
+
+Maintenant on veux tester un objet créer dans un autre fichier avec par exemple le test :
+
+  it 'le nœud du graphe doit avoir un nom', ->
+    t = new Noeud 'toto'
+    assert.equal t.name, 'racine'
+
+La réponse est :
+
+  ✖ 1 of 2 tests failed:
+
+  1) premier test : le nœud du graphe doit avoir un nom:
+     ReferenceError: Noeud is not defined
+      at Context.<anonymous> (/Users/metzger9/Documents/Dev/textCS/test/departtestDepart.coffee:16:19)
+      at Test.Runnable.run (/usr/local/share/npm/lib/node_modules/mocha/lib/runnable.js:213:32)
+      at Runner.runTest (/usr/local/share/npm/lib/node_modules/mocha/lib/runner.js:343:10)
+      at Runner.runTests.next (/usr/local/share/npm/lib/node_modules/mocha/lib/runner.js:389:12)
+      at next (/usr/local/share/npm/lib/node_modules/mocha/lib/runner.js:269:14)
+      at Runner.hooks (/usr/local/share/npm/lib/node_modules/mocha/lib/runner.js:278:7)
+      at next (/usr/local/share/npm/lib/node_modules/mocha/lib/runner.js:226:23)
+      at Runner.hook (/usr/local/share/npm/lib/node_modules/mocha/lib/runner.js:246:5)
+      at process.startup.processNextTick.process._tickCallback (node.js:244:9)
+Il faut donc construire le fichier Noeud.coffee.
+
+  class Noeud
+    constructor: (@name) ->
+
+  module.exports = Noeud
+
+ATTENTION : il faut bien ajouter la ligne module.exports sinon le module Noeud, que constitue le fichier, n'est pas accessible. Il faut aussi ajouter dans le fichier qui va utiliser le module la ligne :
+
+  Noeud = require 'pathTo/Noeud' 
+
+
