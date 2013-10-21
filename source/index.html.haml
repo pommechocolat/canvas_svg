@@ -4,8 +4,9 @@
   %head
     %meta{:charset => "utf-8"}
     %title="Canvas_svg"
-    %link{:rel => "stylesheet", :href => "stylesheets/all.css"}
-    %link{:rel => "stylesheet", :href => "stylesheets/normalize.css"}
+    = stylesheet_link_tag "all", "normalize"
+    -# %link{:rel => "stylesheet", :href => "stylesheets/all.css"}
+    -# %link{:rel => "stylesheet", :href => "stylesheets/normalize.css"}
   %body
     %h1
       CANVAS
@@ -16,4 +17,6 @@
       %line#ligne1_svg
       %rect#rectangle1_svg
       %rect#rectangle2_svg
-  %script{:src => "javascripts/all.js"}
+  -# %script{:src => "javascripts/all.js"}
+  = javascript_include_tag "GraphVisu", "NoeudVisu", "ArreteVisu", "draw"
+  
