@@ -1,24 +1,22 @@
-class NoeudVisu
-  @leftPos = 30
-  @topPos  = 30
-  @height  = 50
-  @width   = 50
-  @backgroundColor = "#66F"
+class @NoeudVisu
   
-  drawCanvas = (canvas) ->
+  constructor: (@leftPos=30, @topPos=30, @backgroundColor="#66F", @width=50, @height=50) ->
+  
+  drawCanvas: (canvas) ->
     contexte = canvas.getContext('2d')
     contexte.fillStyle = @backgroundColor
     contexte.fillRect(@leftPos, @topPos, @height, @width);
 
-  drawSvg = (recSvg) ->
+  drawSvg: (recSvg) ->
     recSvg.setAttribute('width', @width)
     recSvg.setAttribute('height', @height)
     recSvg.setAttribute('x', @leftPos)
     recSvg.setAttribute('y', @topPos)
     recSvg.style.fill = @backgroundColor
-    
-  getCenterX ->
+
+  getCenterX: ->
     @leftPos+@width/2
 
-  getCenterY ->
+  getCenterY: ->
     @topPos+@height/2
+
