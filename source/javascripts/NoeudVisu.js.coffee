@@ -15,8 +15,9 @@ class @NoeudVisu
     recSvg.style.fill = @backgroundColor
 
   getCenterX: ->
-    @leftPos+@width/2
+    @leftPos + @width / 2
+    
 
   getCenterY: ->
-    @topPos+@height/2
+    @topPos + @height / 2
 
