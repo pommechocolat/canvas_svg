@@ -17,6 +17,6 @@ describe 'Test ArreteVisu : ', ->
     console.log("lg pere height : "+pere.height)
     lg2 = new arrete.ArreteVisu(pere, fils)
     console.log("lg2 : "+lg2)
-    console.log("lg2.pere : "+lg2.noeud1)
-    
+    console.log("lg2.pere : "+lg2.noeud1.getCenterX())
+    assert.equal lg2.noeud1.getCenterX(), 55
     
