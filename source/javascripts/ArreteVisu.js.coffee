@@ -1,7 +1,6 @@
-noeud = require './NoeudVisu.js'
 class @ArreteVisu
-  
-  constructor: (@noeud1 = nil, @noeud2 = nil)->
+
+  constructor: (@noeud1, @noeud2) ->
     @lineColor = "green"
     @lineWidth = 1
 

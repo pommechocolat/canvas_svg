@@ -13,5 +13,10 @@ describe 'Test ArreteVisu : ', ->
     fils = new noeud.NoeudVisu(130, 130, "#F66")
     lg = new arrete.ArreteVisu
     console.log("lg : "+lg)
+    console.log("lg color : "+lg.lineColor)
+    console.log("lg pere height : "+pere.height)
+    lg2 = new arrete.ArreteVisu(pere, fils)
+    console.log("lg2 : "+lg2)
+    console.log("lg2.pere : "+lg2.noeud1)
     
     

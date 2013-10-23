@@ -1,9 +1,9 @@
 pere = new NoeudVisu
 fils = new NoeudVisu(130, 130, "#F66", 50, 50)
 
-#lg = new ArreteVisu(pere, fils)
-#lg.drawCanvas(document.getElementById('canvas'))
-#lg.drawSvg(document.getElementById('ligne1_svg'))
+lg = new ArreteVisu(pere, fils)
+lg.drawCanvas(document.getElementById('canvas'))
+lg.drawSvg(document.getElementById('ligne1_svg'))
 
 pere.drawCanvas(document.getElementById('canvas'))
 fils.drawCanvas(document.getElementById('canvas'))
