@@ -1,6 +1,6 @@
 class @NoeudVisu
   
-  constructor: (@x=30, @y=30, @backgroundColor="#66F", @width=50, @height=50) ->
+  constructor: (@x=55, @y=55, @backgroundColor="#66F", @width=50, @height=50) ->
   
   drawCanvas: (canvas) ->
     contexte = canvas.getContext('2d')

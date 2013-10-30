@@ -1,6 +1,7 @@
 pere = new NoeudVisu
-fils = new NoeudVisu(130, 130, "#F66", 50, 50)
+fils = new NoeudVisu(155, 155, "#F66", 50, 50)
 ligne = new ArreteVisu(pere, fils)
+
 
 // Canvas
 ligne.drawCanvas(document.getElementById('canvas'))
