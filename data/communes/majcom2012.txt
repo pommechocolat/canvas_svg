@@ -1,0 +1,1207 @@
+ACTUAL	CHEFLIEU	CDC	RANG	REG	DEP	COM	AR	CT	MODIF	POLE	TNCC	ARTMAJ	NCC	ARTMIN	NCCENR	ARTICLCT	NCCCT	MOD	MANIP
+3				82	01	048			1	01245	0		BOHAS		Bohas			35	M
+1	0	0		82	01	077	4	24	1		0		CHALLES-LA-MONTAGNE		Challes-la-Montagne		Poncin	10	M
+1	0	0		82	01	170	4	22	1		0		BEARD-GEOVREISSIAT		Béard-Géovreissiat		Nantua	10	M
+1	0	0		82	01	186	1	28	1		1		HOSTIAZ		Hostiaz		Saint-Rambert-en-Bugey	10	M
+1	0	0		82	01	245	2	07	1		0		BOHAS-MEYRIAT-RIGNAT		Bohas-Meyriat-Rignat		Ceyzériat	36	M
+1	1	0		22	02	163	1	07	1		0		CHARLY-SUR-MARNE		Charly-sur-Marne		Charly-sur-Marne	10	M
+1	0	0		22	02	224	4	04	1		0		COURCELLES-SUR-VESLE		Courcelles-sur-Vesle		Braine	10	M
+1	0	0		22	02	240	3	03	1		0		CROIX-FONSOMME		Croix-Fonsomme		Bohain-en-Vermandois	10	M
+1	0	0		22	02	319	3	39	1		0		FONSOMME		Fonsomme		Saint-Quentin-Nord	10	M
+1	0	0		22	02	419	5	23	1		0		LESCHELLE		Leschelle	(Le)	Nouvion-en-Thiérache	10	M
+1	0	0		93	04	040	3	31	1		2	(LE)	CASTELLARD-MELAN	(Le)	Castellard-Mélan		Digne-les-Bains-Ouest	10	M
+1	0	0		93	04	040	3	31	1		2	(LE)	CASTELLARD-MELAN	(Le)	Castellard-Mélan		Digne-les-Bains-Ouest	36	M
+3				93	04	117			1	04040	0		MELAN		Melan			35	M
+1	0	0		93	04	176	3	21	1		0		SAINTE-CROIX-DU-VERDON		Sainte-Croix-du-Verdon		Riez	10	M
+1	0	0		93	05	014	2	16	1		0		BARRET-SUR-MEOUGE		Barret-sur-Méouge		Ribiers	10	M
+1	0	0		93	06	114	2	43	1		0		SAINT-ANDRE-DE-LA-ROCHE		Saint-André-de-la-Roche		Nice 13e  Canton	10	M
+1	0	0		93	06	128	1	45	1		0		SAINT-PAUL-DE-VENCE		Saint-Paul-de-Vence		Cagnes-sur-Mer-Ouest	10	M
+1	0	0		82	07	002	1	03	1		1		AILHON		Ailhon		Aubenas	42	M
+1	0	0		82	07	003	1	02	1		1		AIZAC		Aizac		Antraigues-sur-Volane	42	M
+1	0	0		82	07	006	2	20	1		1		ALBON-D'ARDECHE		Albon-d'Ardèche		Saint-Pierreville	10	M
+1	1	0		82	07	011	1	02	1		1		ANTRAIGUES-SUR-VOLANE		Antraigues-sur-Volane		Antraigues-sur-Volane	42	M
+1	0	0		82	07	016	1	02	1		1		ASPERJOC		Asperjoc		Antraigues-sur-Volane	42	M
+1	1	0		82	07	019	1	03	1		1		AUBENAS		Aubenas		Aubenas	42	M
+3				82	07	021			1	07207	1		AURIOLLES		Auriolles			35	M
+1	0	0		82	07	032	1	29	1		0		BERZEME		Berzème		Villeneuve-de-Berg	42	M
+1	0	0		82	07	077	1	29	1		0		DARBRES		Darbres		Villeneuve-de-Berg	42	M
+1	0	0		82	07	083	2	13	1		0		DUNIERE-SUR-EYRIEUX		Dunière-sur-Eyrieux		Privas	10	M
+1	0	0		82	07	091	1	03	1		0		FONS		Fons		Aubenas	42	M
+1	0	0		82	07	093	1	02	1		0		GENESTELLE		Genestelle		Antraigues-sur-Volane	42	M
+1	0	0		82	07	111	1	02	1		0		JUVINAS		Juvinas		Antraigues-sur-Volane	42	M
+1	0	0		82	07	112	1	02	1		0		LABASTIDE-SUR-BESORGUES		Labastide-sur-Bésorgues		Antraigues-sur-Volane	42	M
+1	0	0		82	07	116	1	33	1		0		LABEGUDE		Labégude		Vals-les-Bains	42	M
+1	0	0		82	07	120	1	02	1		0		LACHAMP-RAPHAEL		Lachamp-Raphaël		Antraigues-sur-Volane	42	M
+1	0	0		82	07	122	1	03	1		0		LACHAPELLE-SOUS-AUBENAS		Lachapelle-sous-Aubenas		Aubenas	42	M
+1	0	0		82	07	131	1	29	1		0		LANAS		Lanas		Villeneuve-de-Berg	42	M
+1	0	0		82	07	138	1	29	1		0		LAVILLEDIEU		Lavilledieu		Villeneuve-de-Berg	42	M
+1	0	0		82	07	139	1	02	1		0		LAVIOLLE		Laviolle		Antraigues-sur-Volane	42	M
+1	0	0		82	07	141	1	03	1		0		LENTILLERES		Lentillères		Aubenas	42	M
+1	0	0		82	07	145	1	29	1		0		LUSSAS		Lussas		Villeneuve-de-Berg	42	M
+1	0	0		82	07	155	1	03	1		0		MERCUER		Mercuer		Aubenas	42	M
+1	0	0		82	07	158	1	02	1		0		MEZILHAC		Mézilhac		Antraigues-sur-Volane	42	M
+1	0	0		82	07	159	1	29	1		0		MIRABEL		Mirabel		Villeneuve-de-Berg	42	M
+1	0	0		82	07	190	1	29	1		0		ROCHECOLOMBE		Rochecolombe		Villeneuve-de-Berg	42	M
+1	0	0		82	07	207	1	09	1		0		SAINT-ALBAN-AURIOLLES		Saint-Alban-Auriolles		Joyeuse	36	M
+1	0	0		82	07	208	1	29	1		0		SAINT-ANDEOL-DE-BERG		Saint-Andéol-de-Berg		Villeneuve-de-Berg	42	M
+1	0	0		82	07	210	1	02	1		0		SAINT-ANDEOL-DE-VALS		Saint-Andéol-de-Vals		Antraigues-sur-Volane	42	M
+1	0	0		82	07	229	1	03	1		0		SAINT-DIDIER-SOUS-AUBENAS		Saint-Didier-sous-Aubenas		Aubenas	42	M
+1	0	0		82	07	230	1	33	1		0		SAINT-ETIENNE-DE-BOULOGNE		Saint-Étienne-de-Boulogne		Vals-les-Bains	42	M
+1	0	0		82	07	231	1	03	1		0		SAINT-ETIENNE-DE-FONTBELLON		Saint-Étienne-de-Fontbellon		Aubenas	42	M
+1	0	0		82	07	241	1	29	1		0		SAINT-GERMAIN		Saint-Germain		Villeneuve-de-Berg	42	M
+1	0	0		82	07	242	1	29	1		0		SAINT-GINEIS-EN-COIRON		Saint-Gineis-en-Coiron		Villeneuve-de-Berg	42	M
+1	0	0		82	07	247	1	29	1		0		SAINT-JEAN-LE-CENTENIER		Saint-Jean-le-Centenier		Villeneuve-de-Berg	42	M
+1	0	0		82	07	251	1	02	1		0		SAINT-JOSEPH-DES-BANCS		Saint-Joseph-des-Bancs		Antraigues-sur-Volane	42	M
+1	0	0		82	07	254	1	33	1		0		SAINT-JULIEN-DU-SERRE		Saint-Julien-du-Serre		Vals-les-Bains	42	M
+1	0	0		82	07	259	2	04	1		0		SAINT-JUST-D'ARDECHE		Saint-Just-d'Ardèche		Bourg-Saint-Andéol	10	M
+1	0	0		82	07	263	1	29	1		0		SAINT-LAURENT-SOUS-COIRON		Saint-Laurent-sous-Coiron		Villeneuve-de-Berg	42	M
+1	0	0		82	07	272	1	29	1		0		SAINT-MAURICE-D'ARDECHE		Saint-Maurice-d'Ardèche		Villeneuve-de-Berg	42	M
+1	0	0		82	07	273	1	29	1		0		SAINT-MAURICE-D'IBIE		Saint-Maurice-d'Ibie		Villeneuve-de-Berg	42	M
+1	0	0		82	07	277	1	33	1		0		SAINT-MICHEL-DE-BOULOGNE		Saint-Michel-de-Boulogne		Vals-les-Bains	42	M
+1	0	0		82	07	279	2	04	1		0		SAINT-MONTAN		Saint-Montan		Bourg-Saint-Andéol	10	M
+1	0	0		82	07	287	1	29	1		0		SAINT-PONS		Saint-Pons		Villeneuve-de-Berg	42	M
+1	0	0		82	07	289	1	33	1		0		SAINT-PRIVAT		Saint-Privat		Vals-les-Bains	42	M
+1	0	0		82	07	296	1	03	1		0		SAINT-SERNIN		Saint-Sernin		Aubenas	42	M
+1	0	0		82	07	325	1	33	1		1		UCEL		Ucel		Vals-les-Bains	42	M
+1	1	0		82	07	331	1	33	1		0		VALS-LES-BAINS		Vals-les-Bains		Vals-les-Bains	42	M
+1	0	0		82	07	339	1	33	1		0		VESSEAUX		Vesseaux		Vals-les-Bains	42	M
+1	1	0		82	07	341	1	29	1		0		VILLENEUVE-DE-BERG		Villeneuve-de-Berg		Villeneuve-de-Berg	42	M
+1	0	0		82	07	348	1	29	1		0		VOGUE		Vogüé		Villeneuve-de-Berg	42	M
+1	0	0		21	08	386	2	06	1		0		SAINT-LOUP-EN-CHAMPAGNE		Saint-Loup-en-Champagne		Château-Porcien	10	M
+1	0	0		73	09	107	2	10	1		0		DUN		Dun		Mirepoix	36	M
+3				73	09	112			1	09107	1		ENGRAVIES		Engraviès			35	M
+3				73	09	191			1	09107	0		MERVIEL		Merviel			35	M
+3				73	09	288			1	09107	0		SENESSE-DE-SENABUGUE		Senesse-de-Senabugue			35	M
+1	0	0		21	10	038	2	13	1		0		BERCENAY-LE-HAYER		Bercenay-le-Hayer		Marcilly-le-Hayer	21	M
+1	0	0		21	10	054	2	13	1		0		BOURDENAY		Bourdenay		Marcilly-le-Hayer	12	M
+1	0	0		21	10	263	3	11	1		0		NEUVILLE-SUR-VANNE		Neuville-sur-Vanne		Estissac	10	M
+1	0	0		21	10	264	3	10	1		0		NOE-LES-MALLETS		Noé-les-Mallets		Essoyes	10	M
+1	0	0		21	10	383	2	13	1		0		TRANCAULT		Trancault		Marcilly-le-Hayer	21	M
+1	0	0		73	12	133	2	45	1		0		LUC-LA-PRIMAUBE		Luc-la-Primaube		Rodez-Ouest	10	M
+6	1	1	3	93	13	005	3	05	0		1		AUBAGNE		Aubagne		Aubagne-Ouest	24	A
+6	1	1	3	93	13	005	3	54	0		1		AUBAGNE		Aubagne		Aubagne-Est	24	A
+1	1	2	3	93	13	005	3	94	1		1		AUBAGNE		Aubagne		Canton non précisé	24	A
+1	0	0		93	13	022	3	54	1		0		CASSIS		Cassis		Aubagne-Est	43	M
+1	0	0		93	13	030	3	54	1		0		CUGES-LES-PINS		Cuges-les-Pins		Aubagne-Est	43	M
+1	0	0		93	13	042	3	54	1		0		GEMENOS		Gémenos		Aubagne-Est	43	M
+6	1	1	2	93	13	055	3	13	0		0		MARSEILLE		Marseille		Marseille-Belsunce	24	A
+6	1	1	2	93	13	055	3	14	0		0		MARSEILLE		Marseille		Marseille - Notre-Dame-du-Mont	24	A
+6	1	1	2	93	13	055	3	15	0		0		MARSEILLE		Marseille		Marseille III	37	S
+6	1	1	2	93	13	055	3	16	0		0		MARSEILLE		Marseille		Marseille-Les Grands-Carmes	24	A
+6	1	1	2	93	13	055	3	17	0		0		MARSEILLE		Marseille		Marseille-La Belle-de-Mai	24	A
+6	1	1	2	93	13	055	3	18	0		0		MARSEILLE		Marseille		Marseille-Les Cinq-Avenues	24	A
+6	1	1	2	93	13	055	3	19	0		0		MARSEILLE		Marseille		Marseille-Le Camas	24	A
+6	1	1	2	93	13	055	3	20	0		0		MARSEILLE		Marseille		Marseille VIII	37	S
+6	1	1	2	93	13	055	3	21	0		0		MARSEILLE		Marseille		Marseille - Saint-Just	24	A
+6	1	1	2	93	13	055	3	22	0		0		MARSEILLE		Marseille		Marseille-Montolivet	24	A
+6	1	1	2	93	13	055	3	23	0		0		MARSEILLE		Marseille		Marseille-La Capelette	24	A
+6	1	1	2	93	13	055	3	24	0		0		MARSEILLE		Marseille		Marseille - Saint-Giniez	24	A
+6	1	1	2	93	13	055	3	37	0		0		MARSEILLE		Marseille		Marseille - Saint-Lambert	24	A
+6	1	1	2	93	13	055	3	38	0		0		MARSEILLE		Marseille		Marseille - Saint-Mauront	24	A
+6	1	1	2	93	13	055	3	39	0		0		MARSEILLE		Marseille		Marseille-Verduron	24	A
+6	1	1	2	93	13	055	3	40	0		0		MARSEILLE		Marseille		Marseille-La Rose	24	A
+6	1	1	2	93	13	055	3	41	0		0		MARSEILLE		Marseille		Marseille-Les Olives	24	A
+6	1	1	2	93	13	055	3	42	0		0		MARSEILLE		Marseille		Marseille - Saint-Marcel	24	A
+6	1	1	2	93	13	055	3	43	0		0		MARSEILLE		Marseille		Marseille-La Pomme	24	A
+6	1	1	2	93	13	055	3	44	0		0		MARSEILLE		Marseille		Marseille-La Pointe-Rouge	24	A
+6	1	1	2	93	13	055	3	45	0		0		MARSEILLE		Marseille		Marseille - Saint-Barthélemy	24	A
+6	1	1	2	93	13	055	3	46	0		0		MARSEILLE		Marseille		Marseille-Mazargues	24	A
+6	1	1	2	93	13	055	3	55	0		0		MARSEILLE		Marseille		Marseille-La Blancarde	24	A
+6	1	1	2	93	13	055	3	56	0		0		MARSEILLE		Marseille		Marseille-Les Trois Lucs	24	A
+6	1	1	2	93	13	055	3	57	0		0		MARSEILLE		Marseille		Marseille - Notre-Dame-Limite	24	A
+6	1	1	2	93	13	055	3	58	0		0		MARSEILLE		Marseille		Marseille - Sainte-Marguerite	24	A
+6	1	1	2	93	13	055	3	59	0		0		MARSEILLE		Marseille		Marseille-Vauban	24	A
+1	4	2	2	93	13	055	3	99	1		0		MARSEILLE		Marseille		Canton non précisé	24	A
+1	0	0		93	13	085	3	54	1		0		ROQUEFORT-LA-BEDOULE		Roquefort-la-Bédoule		Aubagne-Est	43	M
+1	0	0		93	13	119	3	54	1		0		CARNOUX-EN-PROVENCE		Carnoux-en-Provence		Aubagne-Est	43	M
+1	0	0		25	14	106	2	47	1		0		BREVILLE-LES-MONTS		Bréville-les-Monts		Cabourg	10	M
+3				25	14	133			1	14431	0		CANON		Canon			35	M
+1	0	0		25	14	149	2	06	1		0		CESNY-AUX-VIGNES		Cesny-aux-Vignes		Bourguébus	12	M
+1	1	0		25	14	431	3	24	1		0		MEZIDON-CANON		Mézidon-Canon		Mézidon-Canon	36	M
+1	0	0		25	14	482	2	06	1		1		OUEZY		Ouézy		Bourguébus	21	M
+1	0	0		25	14	750	3	29	1		0		VIEUX-PONT-EN-AUGE		Vieux-Pont-en-Auge		Saint-Pierre-sur-Dives	10	M
+1	0	0		54	16	002	3	24	1		4	(LES)	ADJOTS	(Les)	Adjots		Ruffec	42	M
+1	1	0		54	16	005	3	01	1		1		AIGRE		Aigre		Aigre	42	M
+1	0	0		54	16	017	2	23	1		1		ANVILLE		Anville		Rouillac	42	M
+1	0	0		54	16	023	3	18	1		1		AUNAC		Aunac		Mansle	42	M
+1	0	0		54	16	027	3	01	1		0		BARBEZIERES		Barbezières		Aigre	42	M
+1	0	0		54	16	031	3	24	1		0		BARRO		Barro		Ruffec	42	M
+1	0	0		54	16	033	3	18	1		0		BAYERS		Bayers		Mansle	42	M
+1	0	0		54	16	039	3	29	1		0		BERNAC		Bernac		Villefagnan	42	M
+1	0	0		54	16	042	3	01	1		0		BESSE		Bessé		Aigre	42	M
+1	0	0		54	16	043	2	23	1		0		BIGNAC		Bignac		Rouillac	42	M
+1	0	0		54	16	044	3	24	1		0		BIOUSSAC		Bioussac		Ruffec	42	M
+1	0	0		54	16	051	2	23	1		0		BONNEVILLE		Bonneville		Rouillac	42	M
+1	0	0		54	16	059	3	29	1		0		BRETTES		Brettes		Villefagnan	42	M
+1	0	0		54	16	068	3	18	1		0		CELLEFROUIN		Cellefrouin		Mansle	42	M
+1	0	0		54	16	069	3	18	1		0		CELLETTES		Cellettes		Mansle	42	M
+1	0	0		54	16	083	3	01	1		0		CHARME		Charmé		Aigre	42	M
+1	0	0		54	16	094	3	18	1		0		CHENOMMET		Chenommet		Mansle	42	M
+1	0	0		54	16	095	3	18	1		0		CHENON		Chenon		Mansle	42	M
+1	0	0		54	16	098	3	29	1		3	(LA)	CHEVRERIE	(La)	Chèvrerie		Villefagnan	42	M
+1	0	0		54	16	104	3	24	1		0		CONDAC		Condac		Ruffec	42	M
+1	0	0		54	16	109	2	23	1		0		COURBILLAC		Courbillac		Rouillac	42	M
+1	0	0		54	16	110	3	29	1		0		COURCOME		Courcôme		Villefagnan	42	M
+1	0	0		54	16	114	3	24	1		0		COUTURE		Couture		Ruffec	42	M
+1	0	0		54	16	122	3	01	1		1		EBREON		Ébréon		Aigre	42	M
+1	0	0		54	16	127	3	29	1		1		EMPURE		Empuré		Villefagnan	42	M
+1	0	0		54	16	136	3	29	1		3	(LA)	FAYE	(La)	Faye		Villefagnan	42	M
+1	0	0		54	16	140	3	18	1		0		FONTCLAIREAU		Fontclaireau		Mansle	42	M
+1	0	0		54	16	141	3	18	1		0		FONTENILLE		Fontenille		Mansle	42	M
+1	0	0		54	16	142	3	29	1		3	(LA)	FORET-DE-TESSE	(La)	Forêt-de-Tessé		Villefagnan	42	M
+1	0	0		54	16	144	3	01	1		0		FOUQUEURE		Fouqueure		Aigre	42	M
+1	0	0		54	16	148	2	23	1		0		GENAC		Genac		Rouillac	42	M
+1	0	0		54	16	155	3	01	1		4	(LES)	GOURS	(Les)	Gours		Aigre	42	M
+1	0	0		54	16	156	2	23	1		0		GOURVILLE		Gourville		Rouillac	42	M
+1	0	0		54	16	173	3	18	1		0		JUILLE		Juillé		Mansle	42	M
+1	0	0		54	16	184	3	18	1		0		LICHERES		Lichères		Mansle	42	M
+1	0	0		54	16	185	3	01	1		0		LIGNE		Ligné		Aigre	42	M
+1	0	0		54	16	189	3	29	1		0		LONDIGNY		Londigny		Villefagnan	42	M
+1	0	0		54	16	190	3	29	1		0		LONGRE		Longré		Villefagnan	42	M
+1	0	0		54	16	191	3	18	1		0		LONNES		Lonnes		Mansle	42	M
+1	0	0		54	16	194	3	01	1		0		LUPSAULT		Lupsault		Aigre	42	M
+1	0	0		54	16	196	3	18	1		0		LUXE		Luxé		Mansle	42	M
+1	0	0		54	16	197	3	29	1		3	(LA)	MAGDELEINE	(La)	Magdeleine		Villefagnan	42	M
+1	1	0		54	16	206	3	18	1		0		MANSLE		Mansle		Mansle	42	M
+1	0	0		54	16	207	2	23	1		0		MARCILLAC-LANVILLE		Marcillac-Lanville		Rouillac	42	M
+1	0	0		54	16	208	2	23	1		0		MAREUIL		Mareuil		Rouillac	42	M
+1	0	0		54	16	221	2	23	1		0		MONS		Mons		Rouillac	42	M
+1	0	0		54	16	228	2	23	1		0		MONTIGNE		Montigné		Rouillac	42	M
+1	0	0		54	16	229	3	29	1		0		MONTJEAN		Montjean		Villefagnan	42	M
+1	0	0		54	16	237	3	18	1		0		MOUTON		Mouton		Mansle	42	M
+1	0	0		54	16	238	3	18	1		0		MOUTONNEAU		Moutonneau		Mansle	42	M
+1	0	0		54	16	242	3	24	1		0		NANTEUIL-EN-VALLEE		Nanteuil-en-Vallée		Ruffec	42	M
+1	0	0		54	16	248	3	01	1		1		ORADOUR		Oradour		Aigre	42	M
+1	0	0		54	16	253	3	29	1		0		PAIZAY-NAUDOUIN-EMBOURIE		Paizay-Naudouin-Embourie		Villefagnan	42	M
+1	0	0		54	16	262	2	23	1		0		PLAIZAC		Plaizac		Rouillac	42	M
+1	0	0		54	16	268	3	24	1		0		POURSAC		Poursac		Ruffec	42	M
+1	0	0		54	16	272	3	18	1		0		PUYREAUX		Puyréaux		Mansle	42	M
+1	0	0		54	16	273	3	29	1		0		RAIX		Raix		Villefagnan	42	M
+1	0	0		54	16	275	3	01	1		0		RANVILLE-BREUILLAUD		Ranville-Breuillaud		Aigre	42	M
+1	1	0		54	16	286	2	23	1		0		ROUILLAC		Rouillac		Rouillac	42	M
+1	1	0		54	16	292	3	24	1		0		RUFFEC		Ruffec		Ruffec	42	M
+1	0	0		54	16	296	3	18	1		0		SAINT-AMANT-DE-BONNIEURE		Saint-Amant-de-Bonnieure		Mansle	42	M
+1	0	0		54	16	300	3	18	1		0		SAINT-ANGEAU		Saint-Angeau		Mansle	42	M
+1	0	0		54	16	307	3	18	1		0		SAINT-CIERS-SUR-BONNIEURE		Saint-Ciers-sur-Bonnieure		Mansle	42	M
+1	0	0		54	16	309	3	18	1		0		SAINTE-COLOMBE		Sainte-Colombe		Mansle	42	M
+1	0	0		54	16	312	2	23	1		0		SAINT-CYBARDEAUX		Saint-Cybardeaux		Rouillac	42	M
+1	0	0		54	16	317	3	01	1		0		SAINT-FRAIGNE		Saint-Fraigne		Aigre	42	M
+1	0	0		54	16	318	3	18	1		0		SAINT-FRONT		Saint-Front		Mansle	42	M
+1	0	0		54	16	321	3	24	1		0		SAINT-GEORGES		Saint-Georges		Ruffec	42	M
+1	0	0		54	16	325	3	24	1		0		SAINT-GOURSON		Saint-Gourson		Ruffec	42	M
+1	0	0		54	16	326	3	18	1		0		SAINT-GROUX		Saint-Groux		Mansle	42	M
+1	0	0		54	16	335	3	29	1		0		SAINT-MARTIN-DU-CLOCHER		Saint-Martin-du-Clocher		Villefagnan	42	M
+1	0	0		54	16	339	2	23	1		1		AUGE-SAINT-MEDARD		Auge-Saint-Médard		Rouillac	42	M
+1	0	0		54	16	356	3	24	1		0		SAINT-SULPICE-DE-RUFFEC		Saint-Sulpice-de-Ruffec		Ruffec	42	M
+1	0	0		54	16	361	3	29	1		0		SALLES-DE-VILLEFAGNAN		Salles-de-Villefagnan		Villefagnan	42	M
+1	0	0		54	16	371	2	23	1		0		SONNEVILLE		Sonneville		Rouillac	42	M
+1	0	0		54	16	373	3	29	1		0		SOUVIGNE		Souvigné		Villefagnan	42	M
+1	0	0		54	16	377	3	18	1		3	(LA)	TACHE	(La)	Tâche		Mansle	42	M
+1	0	0		54	16	378	3	24	1		0		TAIZE-AIZIE		Taizé-Aizie		Ruffec	42	M
+1	0	0		54	16	381	3	29	1		0		THEIL-RABIER		Theil-Rabier		Villefagnan	42	M
+1	0	0		54	16	390	3	01	1		0		TUSSON		Tusson		Aigre	42	M
+1	0	0		54	16	391	3	29	1		0		TUZIE		Tuzie		Villefagnan	42	M
+1	0	0		54	16	392	3	18	1		0		VALENCE		Valence		Mansle	42	M
+1	0	0		54	16	395	2	23	1		0		VAUX-ROUILLAC		Vaux-Rouillac		Rouillac	42	M
+1	0	0		54	16	396	3	18	1		0		VENTOUSE		Ventouse		Mansle	42	M
+1	0	0		54	16	397	3	01	1		0		VERDILLE		Verdille		Aigre	42	M
+1	0	0		54	16	400	3	24	1		0		VERTEUIL-SUR-CHARENTE		Verteuil-sur-Charente		Ruffec	42	M
+1	0	0		54	16	404	3	24	1		0		VIEUX-RUFFEC		Vieux-Ruffec		Ruffec	42	M
+1	1	0		54	16	409	3	29	1		0		VILLEFAGNAN		Villefagnan		Villefagnan	42	M
+1	0	0		54	16	410	3	24	1		0		VILLEGATS		Villegats		Ruffec	42	M
+1	0	0		54	16	411	3	01	1		0		VILLEJESUS		Villejésus		Aigre	42	M
+1	0	0		54	16	413	3	29	1		0		VILLIERS-LE-ROUX		Villiers-le-Roux		Villefagnan	42	M
+1	0	0		54	16	414	3	18	1		0		VILLOGNON		Villognon		Mansle	42	M
+1	0	0		54	17	013	5	29	1		1		ANTEZANT-LA-CHAPELLE		Antezant-la-Chapelle		Saint-Jean-d'Angély	36	M
+3				54	17	014			1	17332	1		ANTIGNAC		Antignac			35	M
+3				54	17	088			1	17013	3	(LA)	CHAPELLE-BATON	(La)	Chapelle-Bâton			35	M
+1	0	0		54	17	332	1	27	1		0		SAINT-GEORGES-ANTIGNAC		Saint-Georges-Antignac		Saint-Genis-de-Saintonge	36	M
+1	0	0		54	17	384	5	12	1		0		SAINT-PIERRE-DE-L'ISLE		Saint-Pierre-de-l'Isle		Loulay	10	M
+1	0	0		74	19	026	1	03	1		0		BILHAC		Bilhac		Beaulieu-sur-Dordogne	10	M
+1	0	0		74	19	034	2	16	1		0		CAMPS-SAINT-MATHURIN-LEOBAZEL		Camps-Saint-Mathurin-Léobazel		Mercœur	36	M
+3				74	19	224			1	19034	0		SAINT-MATHURIN-LEOBAZEL		Saint-Mathurin-Léobazel			35	M
+1	0	0		94	2A	215	4	70	1		0		PIANOTTOLI-CALDARELLO		Pianottoli-Caldarello		Figari	10	M
+1	0	0		94	2B	029	5	29	1		0		BARBAGGIO		Barbaggio	(La)	Conca-d'Oro	42	M
+1	0	0		94	2B	036	3	14	1		0		BIGORNO		Bigorno		Alto-di-Casaconi	42	M
+1	0	0		94	2B	054	3	14	1		0		CAMPILE		Campile		Alto-di-Casaconi	42	M
+1	1	0		94	2B	055	3	14	1		0		CAMPITELLO		Campitello		Alto-di-Casaconi	42	M
+1	0	0		94	2B	059	3	14	1		0		CANAVAGGIA		Canavaggia		Alto-di-Casaconi	42	M
+1	0	0		94	2B	069	3	39	1		0		CASABIANCA		Casabianca		Fiumalto-d'Ampugnani	42	M
+1	0	0		94	2B	072	3	39	1		0		CASALTA		Casalta		Fiumalto-d'Ampugnani	42	M
+1	0	0		94	2B	077	3	59	1		0		CASTELLARE-DI-CASINCA		Castellare-di-Casinca		Vescovato	42	M
+1	1	0		94	2B	087	3	16	1		0		CERVIONE		Cervione		Campoloro-di-Moriani	42	M
+1	0	0		94	2B	101	3	39	1		0		CROCE		Croce		Fiumalto-d'Ampugnani	42	M
+1	0	0		94	2B	102	3	14	1		0		CROCICCHIA		Crocicchia		Alto-di-Casaconi	42	M
+1	0	0		94	2B	109	5	29	1		0		FARINOLE		Farinole	(La)	Conca-d'Oro	42	M
+1	0	0		94	2B	113	3	39	1		0		FICAJA		Ficaja		Fiumalto-d'Ampugnani	42	M
+1	0	0		94	2B	125	3	39	1		0		GIOCATOJO		Giocatojo		Fiumalto-d'Ampugnani	42	M
+1	0	0		94	2B	136	5	26	1		0		LAMA		Lama	(Le)	Haut-Nebbio	42	M
+1	0	0		94	2B	140	3	14	1		0		LENTO		Lento		Alto-di-Casaconi	42	M
+1	0	0		94	2B	145	3	59	1		0		LORETO-DI-CASINCA		Loreto-di-Casinca		Vescovato	42	M
+1	0	0		94	2B	166	3	14	1		0		MONTE		Monte		Alto-di-Casaconi	42	M
+1	1	0		94	2B	172	5	26	1		0		MURATO		Murato	(Le)	Haut-Nebbio	42	M
+1	1	0		94	2B	185	5	29	1		1		OLETTA		Oletta	(La)	Conca-d'Oro	42	M
+1	0	0		94	2B	188	5	29	1		1		OLMETA-DI-TUDA		Olmeta-di-Tuda	(La)	Conca-d'Oro	42	M
+1	0	0		94	2B	192	3	14	1		1		OLMO		Olmo		Alto-di-Casaconi	42	M
+1	0	0		94	2B	195	3	14	1		1		ORTIPORIO		Ortiporio		Alto-di-Casaconi	42	M
+1	0	0		94	2B	205	5	29	1		0		PATRIMONIO		Patrimonio	(La)	Conca-d'Oro	42	M
+1	0	0		94	2B	206	3	14	1		0		PENTA-ACQUATELLA		Penta-Acquatella		Alto-di-Casaconi	42	M
+1	0	0		94	2B	207	3	59	1		0		PENTA-DI-CASINCA		Penta-di-Casinca		Vescovato	42	M
+1	0	0		94	2B	210	3	39	1		0		PERO-CASEVECCHIE		Pero-Casevecchie		Fiumalto-d'Ampugnani	42	M
+1	0	0		94	2B	214	3	39	1		0		PIANO		Piano		Fiumalto-d'Ampugnani	42	M
+1	0	0		94	2B	223	5	26	1		0		PIETRALBA		Pietralba	(Le)	Haut-Nebbio	42	M
+1	0	0		94	2B	230	5	26	1		0		PIEVE		Piève	(Le)	Haut-Nebbio	42	M
+1	0	0		94	2B	239	5	29	1		0		POGGIO-D'OLETTA		Poggio-d'Oletta	(La)	Conca-d'Oro	42	M
+1	0	0		94	2B	241	3	39	1		0		POGGIO-MARINACCIO		Poggio-Marinaccio		Fiumalto-d'Ampugnani	42	M
+1	0	0		94	2B	242	3	39	1		0		POGGIO-MEZZANA		Poggio-Mezzana		Fiumalto-d'Ampugnani	42	M
+1	0	0		94	2B	243	3	39	1		0		POLVEROSO		Polveroso		Fiumalto-d'Ampugnani	42	M
+1	0	0		94	2B	245	3	59	1		0		PORRI		Porri		Vescovato	42	M
+1	1	0		94	2B	246	3	39	1		3	(LA)	PORTA	(La)	Porta		Fiumalto-d'Ampugnani	42	M
+1	0	0		94	2B	250	3	14	1		0		PRUNELLI-DI-CASACCONI		Prunelli-di-Casacconi		Alto-di-Casaconi	42	M
+1	0	0		94	2B	252	3	39	1		0		PRUNO		Pruno		Fiumalto-d'Ampugnani	42	M
+1	0	0		94	2B	255	3	39	1		0		QUERCITELLO		Quercitello		Fiumalto-d'Ampugnani	42	M
+1	0	0		94	2B	257	5	26	1		0		RAPALE		Rapale	(Le)	Haut-Nebbio	42	M
+1	0	0		94	2B	265	5	26	1		0		RUTALI		Rutali	(Le)	Haut-Nebbio	42	M
+1	0	0		94	2B	273	3	39	1		0		SCATA		Scata		Fiumalto-d'Ampugnani	42	M
+1	0	0		94	2B	274	3	14	1		0		SCOLCA		Scolca		Alto-di-Casaconi	42	M
+1	0	0		94	2B	280	3	39	1		0		SILVARECCIO		Silvareccio		Fiumalto-d'Ampugnani	42	M
+1	0	0		94	2B	286	3	59	1		0		SORBO-OCAGNANO		Sorbo-Ocagnano		Vescovato	42	M
+1	0	0		94	2B	287	5	26	1		0		SORIO		Sorio	(Le)	Haut-Nebbio	42	M
+1	0	0		94	2B	293	3	16	1		0		SANT'ANDREA-DI-COTONE		Sant'Andréa-di-Cotone		Campoloro-di-Moriani	42	M
+1	0	0		94	2B	297	3	39	1		0		SAN-DAMIANO		San-Damiano		Fiumalto-d'Ampugnani	42	M
+1	0	0		94	2B	298	5	29	1		0		SAINT-FLORENT		Saint-Florent	(La)	Conca-d'Oro	42	M
+1	0	0		94	2B	299	3	39	1		0		SAN-GAVINO-D'AMPUGNANI		San-Gavino-d'Ampugnani		Fiumalto-d'Ampugnani	42	M
+1	0	0		94	2B	301	5	26	1		0		SAN-GAVINO-DI-TENDA		San-Gavino-di-Tenda	(Le)	Haut-Nebbio	42	M
+1	0	0		94	2B	302	3	16	1		0		SAN-GIOVANNI-DI-MORIANI		San-Giovanni-di-Moriani		Campoloro-di-Moriani	42	M
+1	0	0		94	2B	303	3	16	1		0		SAN-GIULIANO		San-Giuliano		Campoloro-di-Moriani	42	M
+1	0	0		94	2B	307	3	16	1		0		SANTA-LUCIA-DI-MORIANI		Santa-Lucia-di-Moriani		Campoloro-di-Moriani	42	M
+1	0	0		94	2B	311	3	16	1		0		SANTA-MARIA-POGGIO		Santa-Maria-Poggio		Campoloro-di-Moriani	42	M
+1	0	0		94	2B	313	3	16	1		0		SAN-NICOLAO		San-Nicolao		Campoloro-di-Moriani	42	M
+1	0	0		94	2B	314	5	26	1		0		SANTO-PIETRO-DI-TENDA		Santo-Pietro-di-Tenda	(Le)	Haut-Nebbio	42	M
+1	0	0		94	2B	317	3	16	1		0		SANTA-REPARATA-DI-MORIANI		Santa-Reparata-di-Moriani		Campoloro-di-Moriani	42	M
+1	0	0		94	2B	318	3	39	1		0		TAGLIO-ISOLACCIO		Taglio-Isolaccio		Fiumalto-d'Ampugnani	42	M
+1	0	0		94	2B	319	3	39	1		0		TALASANI		Talasani		Fiumalto-d'Ampugnani	42	M
+1	0	0		94	2B	332	5	26	1		1		URTACA		Urtaca	(Le)	Haut-Nebbio	42	M
+1	0	0		94	2B	333	5	29	1		0		VALLECALLE		Vallecalle	(La)	Conca-d'Oro	42	M
+1	0	0		94	2B	335	3	16	1		0		VALLE-DI-CAMPOLORO		Valle-di-Campoloro		Campoloro-di-Moriani	42	M
+1	0	0		94	2B	340	3	39	1		0		VELONE-ORNETO		Velone-Orneto		Fiumalto-d'Ampugnani	42	M
+1	0	0		94	2B	343	3	59	1		0		VENZOLASCA		Venzolasca		Vescovato	42	M
+1	1	0		94	2B	346	3	59	1		0		VESCOVATO		Vescovato		Vescovato	42	M
+1	0	0		94	2B	355	3	14	1		0		VOLPAJOLA		Volpajola		Alto-di-Casaconi	42	M
+1	0	0		26	21	084	3	36	1		0		SOURCE-SEINE		Source-Seine		Venarey-les-Laumes	11	M
+1	0	0		26	21	084	3	36	1		0		SOURCE-SEINE		Source-Seine		Venarey-les-Laumes	32	M
+1	0	0		26	21	306	2	35	1		0		GRENANT-LES-SOMBERNON		Grenant-lès-Sombernon		Sombernon	10	M
+1	0	0		26	21	381	3	37	1		0		MARCILLY-ET-DRACY		Marcilly-et-Dracy		Vitteaux	10	M
+1	0	0		26	21	526	3	01	1		0		ROCHEFORT-SUR-BREVON		Rochefort-sur-Brévon		Aignay-le-Duc	10	M
+3				26	21	551			1	21084	0		SAINT-GERMAIN-SOURCE-SEINE		Saint-Germain-Source-Seine			31	M
+1	0	0		26	21	667	2	32	1		0		VERONNES		Véronnes		Selongey	36	M
+3				26	21	668			1	21667	0		VERONNES-LES-PETITES		Véronnes-les-Petites			35	M
+1	0	0		53	22	201	1	24	1		0		PLEVENON		Plévenon		Matignon	21	M
+1	0	0		53	22	391	1	04	1		1		YVIGNAC-LA-TOUR		Yvignac-la-Tour		Broons	10	M
+1	0	0		72	24	026	3	34	1		0		BASSILLAC		Bassillac		Saint-Pierre-de-Chignac	10	M
+1	1	0		72	24	028	1	01	1		0		BEAUMONT-DU-PERIGORD		Beaumont-du-Périgord		Beaumont-du-Périgord	10	M
+1	0	0		72	24	095	2	15	1		0		CHALAIS		Chalais		Jumilhac-le-Grand	10	M
+1	0	0		72	24	168	1	14	1		0		PLAISANCE		Plaisance		Issigeac	36	M
+3				72	24	173			1	24168	0		FALGUEYRAT		Falgueyrat			35	M
+3				72	24	250			1	24168	0		MANDACOU		Mandacou			35	M
+3				72	24	275			1	24549	0		MONBOS		Monbos			35	M
+3				72	24	342			1	24549	0		PUYGUILHEM		Puyguilhem			35	M
+1	1	0		72	24	516	4	35	1		0		SALIGNAC-EYVIGUES		Salignac-Eyvigues		Salignac-Eyvigues	10	M
+1	0	0		72	24	549	1	38	1		0		THENAC		Thénac		Sigoulès	36	M
+1	0	0		43	25	007	3	27	1		1		ADAM-LES-VERCEL		Adam-lès-Vercel		Vercel-Villedieu-le-Camp	42	M
+1	0	0		43	25	028	3	27	1		1		ATHOSE		Athose		Vercel-Villedieu-le-Camp	42	M
+1	0	0		43	25	039	3	27	1		1		AVOUDREY		Avoudrey		Vercel-Villedieu-le-Camp	42	M
+1	0	0		43	25	042	3	25	1		2	(LE)	BARBOUX	(Le)	Barboux	(Le)	Russey	42	M
+1	0	0		43	25	050	3	25	1		2	(LE)	BELIEU	(Le)	Bélieu	(Le)	Russey	42	M
+1	0	0		43	25	052	3	27	1		0		BELMONT		Belmont		Vercel-Villedieu-le-Camp	42	M
+1	0	0		43	25	062	3	25	1		2	(LE)	BIZOT	(Le)	Bizot	(Le)	Russey	42	M
+1	0	0		43	25	074	3	25	1		0		BONNETAGE		Bonnétage	(Le)	Russey	42	M
+1	0	0		43	25	077	3	25	1		3	(LA)	BOSSE	(La)	Bosse	(Le)	Russey	42	M
+1	0	0		43	25	089	3	27	1		0		BREMONDANS		Bremondans		Vercel-Villedieu-le-Camp	42	M
+1	0	0		43	25	095	3	25	1		0		BRETONVILLERS		Bretonvillers	(Le)	Russey	42	M
+1	0	0		43	25	113	3	25	1		0		CHAMESEY		Chamesey	(Le)	Russey	42	M
+1	0	0		43	25	128	3	27	1		0		CHASNANS		Chasnans		Vercel-Villedieu-le-Camp	42	M
+1	0	0		43	25	141	3	27	1		0		CHAUX-LES-PASSAVANT		Chaux-lès-Passavant		Vercel-Villedieu-le-Camp	42	M
+1	0	0		43	25	148	3	25	1		3	(LA)	CHENALOTTE	(La)	Chenalotte	(Le)	Russey	42	M
+1	0	0		43	25	151	3	27	1		0		CHEVIGNEY-LES-VERCEL		Chevigney-lès-Vercel		Vercel-Villedieu-le-Camp	42	M
+3				43	25	158			1	25524	0		COLOMBIER-CHATELOT		Colombier-Châtelot			35	M
+1	0	0		43	25	161	3	19	1		0		CONSOLATION-MAISONNETTES		Consolation-Maisonnettes		Pierrefontaine-les-Varans	42	M
+1	0	0		43	25	175	3	27	1		0		COURTETAIN-ET-SALANS		Courtetain-et-Salans		Vercel-Villedieu-le-Camp	42	M
+1	0	0		43	25	203	3	19	1		0		DOMPREL		Domprel		Pierrefontaine-les-Varans	42	M
+1	0	0		43	25	218	3	27	1		1		EPENOUSE		Épenouse		Vercel-Villedieu-le-Camp	42	M
+1	0	0		43	25	219	3	27	1		1		EPENOY		Épenoy		Vercel-Villedieu-le-Camp	42	M
+1	0	0		43	25	222	3	27	1		1		ETALANS		Étalans		Vercel-Villedieu-le-Camp	42	M
+1	0	0		43	25	227	3	27	1		1		ETRAY		Étray		Vercel-Villedieu-le-Camp	42	M
+1	0	0		43	25	231	3	27	1		1		EYSSON		Eysson		Vercel-Villedieu-le-Camp	42	M
+1	0	0		43	25	233	3	27	1		0		FALLERANS		Fallerans		Vercel-Villedieu-le-Camp	42	M
+1	0	0		43	25	243	3	19	1		0		FLANGEBOUCHE		Flangebouche		Pierrefontaine-les-Varans	42	M
+1	0	0		43	25	248	3	25	1		4	(LES)	FONTENELLES	(Les)	Fontenelles	(Le)	Russey	42	M
+1	0	0		43	25	262	3	19	1		0		FUANS		Fuans		Pierrefontaine-les-Varans	42	M
+1	0	0		43	25	268	3	19	1		0		GERMEFONTAINE		Germéfontaine		Pierrefontaine-les-Varans	42	M
+1	0	0		43	25	286	3	25	1		0		GRAND'COMBE-DES-BOIS		Grand'Combe-des-Bois	(Le)	Russey	42	M
+1	0	0		43	25	288	3	19	1		0		FOURNETS-LUISANS		Fournets-Luisans		Pierrefontaine-les-Varans	36	M
+1	0	0		43	25	288	3	19	1		0		FOURNETS-LUISANS		Fournets-Luisans		Pierrefontaine-les-Varans	42	M
+1	0	0		43	25	289	3	19	1		0		GRANDFONTAINE-SUR-CREUSE		Grandfontaine-sur-Creuse		Pierrefontaine-les-Varans	42	M
+1	0	0		43	25	301	3	19	1		0		GUYANS-VENNES		Guyans-Vennes		Pierrefontaine-les-Varans	42	M
+1	0	0		43	25	302	3	27	1		1		HAUTEPIERRE-LE-CHATELET		Hautepierre-le-Châtelet		Vercel-Villedieu-le-Camp	42	M
+1	0	0		43	25	325	3	19	1		0		LANDRESSE		Landresse		Pierrefontaine-les-Varans	42	M
+1	0	0		43	25	329	3	25	1		0		LAVAL-LE-PRIEURE		Laval-le-Prieuré	(Le)	Russey	42	M
+1	0	0		43	25	333	3	19	1		0		LAVIRON		Laviron		Pierrefontaine-les-Varans	42	M
+1	0	0		43	25	342	3	27	1		0		LONGECHAUX		Longechaux		Vercel-Villedieu-le-Camp	42	M
+1	0	0		43	25	343	3	27	1		0		LONGEMAISON		Longemaison		Vercel-Villedieu-le-Camp	42	M
+1	0	0		43	25	344	3	25	1		0		LONGEVELLE-LES-RUSSEY		Longevelle-lès-Russey	(Le)	Russey	42	M
+1	0	0		43	25	349	3	19	1		0		LORAY		Loray		Pierrefontaine-les-Varans	42	M
+1	0	0		43	25	351	3	25	1		2	(LE)	LUHIER	(Le)	Luhier	(Le)	Russey	42	M
+3				43	25	352			1	25288	0		LUISANS		Luisans			35	M
+1	0	0		43	25	355	3	27	1		0		MAGNY-CHATELARD		Magny-Châtelard		Vercel-Villedieu-le-Camp	42	M
+1	0	0		43	25	373	3	25	1		2	(LE)	MEMONT	(Le)	Mémont	(Le)	Russey	42	M
+1	0	0		43	25	389	3	25	1		0		MONTBELIARDOT		Montbéliardot	(Le)	Russey	42	M
+1	0	0		43	25	391	3	25	1		0		MONT-DE-LAVAL		Mont-de-Laval	(Le)	Russey	42	M
+1	0	0		43	25	421	3	25	1		0		NARBIEF		Narbief	(Le)	Russey	42	M
+1	0	0		43	25	424	3	27	1		0		NODS		Nods		Vercel-Villedieu-le-Camp	42	M
+1	0	0		43	25	425	3	25	1		0		NOEL-CERNEUX		Noël-Cerneux	(Le)	Russey	42	M
+1	0	0		43	25	432	3	19	1		1		ORCHAMPS-VENNES		Orchamps-Vennes		Pierrefontaine-les-Varans	42	M
+1	0	0		43	25	435	3	27	1		1		ORSANS		Orsans		Vercel-Villedieu-le-Camp	42	M
+1	0	0		43	25	441	3	19	1		1		OUVANS		Ouvans		Pierrefontaine-les-Varans	42	M
+1	0	0		43	25	447	3	27	1		0		PASSONFONTAINE		Passonfontaine		Vercel-Villedieu-le-Camp	42	M
+1	1	0		43	25	453	3	19	1		0		PIERREFONTAINE-LES-VARANS		Pierrefontaine-les-Varans		Pierrefontaine-les-Varans	42	M
+1	0	0		43	25	456	3	25	1		0		PLAIMBOIS-DU-MIROIR		Plaimbois-du-Miroir	(Le)	Russey	42	M
+1	0	0		43	25	457	3	19	1		0		PLAIMBOIS-VENNES		Plaimbois-Vennes		Pierrefontaine-les-Varans	42	M
+1	0	0		43	25	480	3	27	1		0		RANTECHAUX		Rantechaux		Vercel-Villedieu-le-Camp	42	M
+1	0	0		43	25	504	3	25	1		0		ROSUREUX		Rosureux	(Le)	Russey	42	M
+1	1	0		43	25	512	3	25	1		2	(LE)	RUSSEY	(Le)	Russey	(Le)	Russey	42	M
+1	0	0		43	25	522	3	25	1		0		SAINT-JULIEN-LES-RUSSEY		Saint-Julien-lès-Russey	(Le)	Russey	42	M
+1	0	0		43	25	524	2	10	1		0		SAINT-MAURICE-COLOMBIER		Saint-Maurice-Colombier	(L')	Isle-sur-le-Doubs	36	M
+1	0	0		43	25	550	3	19	1		3	(LA)	SOMMETTE	(La)	Sommette		Pierrefontaine-les-Varans	42	M
+1	0	0		43	25	578	3	27	1		0		VALDAHON		Valdahon		Vercel-Villedieu-le-Camp	42	M
+1	0	0		43	25	585	3	27	1		0		VANCLANS		Vanclans		Vercel-Villedieu-le-Camp	42	M
+1	0	0		43	25	596	3	19	1		0		VELLEROT-LES-VERCEL		Vellerot-lès-Vercel		Pierrefontaine-les-Varans	42	M
+1	0	0		43	25	600	3	19	1		0		VENNES		Vennes		Pierrefontaine-les-Varans	42	M
+1	1	0		43	25	601	3	27	1		0		VERCEL-VILLEDIEU-LE-CAMP		Vercel-Villedieu-le-Camp		Vercel-Villedieu-le-Camp	42	M
+1	0	0		43	25	605	3	27	1		0		VERNIERFONTAINE		Vernierfontaine		Vercel-Villedieu-le-Camp	42	M
+1	0	0		43	25	610	3	27	1		0		VERRIERES-DU-GROSBOIS		Verrières-du-Grosbois		Vercel-Villedieu-le-Camp	42	M
+1	0	0		43	25	623	3	19	1		0		VILLERS-CHIEF		Villers-Chief		Pierrefontaine-les-Varans	42	M
+1	0	0		43	25	625	3	19	1		0		VILLERS-LA-COMBE		Villers-la-Combe		Pierrefontaine-les-Varans	42	M
+1	0	0		82	26	003	2	10	1		1		ALEYRAC		Aleyrac		Dieulefit	42	M
+1	0	0		82	26	005	2	33	1		1		ALLAN		Allan		Montélimar  2e  Canton	42	M
+1	0	0		82	26	008	2	16	1		1		ANCONE		Ancône		Montélimar  1er Canton	42	M
+1	0	0		82	26	031	2	15	1		3	(LA)	BATIE-ROLLAND	(La)	Bâtie-Rolland		Marsanne	42	M
+1	0	0		82	26	045	2	10	1		3	(LA)	BEGUDE-DE-MAZENC	(La)	Bégude-de-Mazenc		Dieulefit	42	M
+1	0	0		82	26	052	2	15	1		0		BONLIEU-SUR-ROUBION		Bonlieu-sur-Roubion		Marsanne	42	M
+1	0	0		82	26	078	2	15	1		0		CHAROLS		Charols		Marsanne	42	M
+1	0	0		82	26	085	2	33	1		0		CHATEAUNEUF-DU-RHONE		Châteauneuf-du-Rhône		Montélimar  2e  Canton	42	M
+1	0	0		82	26	091	2	20	1		0		CHAUVAC-LAUX-MONTAUX		Chauvac-Laux-Montaux		Rémuzat	11	M
+1	0	0		82	26	091	2	20	1		0		CHAUVAC-LAUX-MONTAUX		Chauvac-Laux-Montaux		Rémuzat	32	M
+1	0	0		82	26	095	2	15	1		0		CLEON-D'ANDRAN		Cléon-d'Andran		Marsanne	42	M
+1	0	0		82	26	101	2	10	1		0		COMPS		Comps		Dieulefit	42	M
+1	0	0		82	26	102	2	15	1		0		CONDILLAC		Condillac		Marsanne	42	M
+1	0	0		82	26	106	2	15	1		3	(LA)	COUCOURDE	(La)	Coucourde		Marsanne	42	M
+1	1	0		82	26	114	2	10	1		0		DIEULEFIT		Dieulefit		Dieulefit	42	M
+1	0	0		82	26	121	2	33	1		1		ESPELUCHE		Espeluche		Montélimar  2e  Canton	42	M
+1	0	0		82	26	131	2	10	1		1		EYZAHUT		Eyzahut		Dieulefit	42	M
+1	0	0		82	26	157	2	15	1		3	(LA)	LAUPIE	(La)	Laupie		Marsanne	42	M
+3				82	26	158			1	26091	0		LAUX-MONTAUX		Laux-Montaux			31	M
+1	0	0		82	26	169	2	33	1		0		MALATAVERNE		Malataverne		Montélimar  2e  Canton	42	M
+1	0	0		82	26	171	2	15	1		0		MANAS		Manas		Marsanne	42	M
+1	1	0		82	26	176	2	15	1		0		MARSANNE		Marsanne		Marsanne	42	M
+1	0	0		82	26	191	2	33	1		0		MONTBOUCHER-SUR-JABRON		Montboucher-sur-Jabron		Montélimar  2e  Canton	42	M
+1	0	0		82	26	192	2	12	1		0		MONTBRISON-SUR-LEZ		Montbrison-sur-Lez		Grignan	10	M
+6	1	1	3	82	26	198	2	16	0		0		MONTELIMAR		Montélimar		Montélimar  1er Canton	42	M
+6	1	1	3	82	26	198	2	33	0		0		MONTELIMAR		Montélimar		Montélimar  2e  Canton	42	M
+1	1	2	3	82	26	198	2	96	1		0		MONTELIMAR		Montélimar		Canton non précisé	42	M
+1	0	0		82	26	202	2	10	1		0		MONTJOUX		Montjoux		Dieulefit	42	M
+1	0	0		82	26	222	2	10	1		1		ORCINAS		Orcinas		Dieulefit	42	M
+1	0	0		82	26	243	2	10	1		2	(LE)	POET-LAVAL	(Le)	Poët-Laval		Dieulefit	42	M
+1	0	0		82	26	249	2	10	1		0		PONT-DE-BARRET		Pont-de-Barret		Dieulefit	42	M
+1	0	0		82	26	251	2	33	1		0		PORTES-EN-VALDAINE		Portes-en-Valdaine		Montélimar  2e  Canton	42	M
+1	0	0		82	26	257	2	33	1		0		PUYGIRON		Puygiron		Montélimar  2e  Canton	42	M
+1	0	0		82	26	268	2	10	1		0		ROCHEBAUDIN		Rochebaudin		Dieulefit	42	M
+1	0	0		82	26	272	2	33	1		0		ROCHEFORT-EN-VALDAINE		Rochefort-en-Valdaine		Montélimar  2e  Canton	42	M
+1	0	0		82	26	276	2	10	1		0		ROCHE-SAINT-SECRET-BECONNE		Roche-Saint-Secret-Béconne		Dieulefit	42	M
+1	0	0		82	26	287	2	15	1		0		ROYNAC		Roynac		Marsanne	42	M
+1	0	0		82	26	305	2	15	1		0		SAINT-GERVAIS-SUR-ROUBION		Saint-Gervais-sur-Roubion		Marsanne	42	M
+1	0	0		82	26	312	2	15	1		0		SAINT-MARCEL-LES-SAUZET		Saint-Marcel-lès-Sauzet		Marsanne	42	M
+1	0	0		82	26	334	2	10	1		0		SALETTES		Salettes		Dieulefit	42	M
+1	0	0		82	26	338	2	15	1		0		SAUZET		Sauzet		Marsanne	42	M
+1	0	0		82	26	339	2	15	1		0		SAVASSE		Savasse		Marsanne	42	M
+1	0	0		82	26	343	2	10	1		0		SOUSPIERRE		Souspierre		Dieulefit	42	M
+1	0	0		82	26	350	2	10	1		0		TEYSSIERES		Teyssières		Dieulefit	42	M
+1	0	0		82	26	352	2	33	1		3	(LA)	TOUCHE	(La)	Touche		Montélimar  2e  Canton	42	M
+1	0	0		82	26	353	2	15	1		4	(LES)	TOURRETTES	(Les)	Tourrettes		Marsanne	42	M
+1	0	0		82	26	373	2	10	1		0		VESC		Vesc		Dieulefit	42	M
+1	0	0		23	27	003	1	39	1		1		ACQUIGNY		Acquigny		Louviers-Sud	42	M
+1	1	0		23	27	011	2	01	1		1		AMFREVILLE-LA-CAMPAGNE		Amfreville-la-Campagne		Amfreville-la-Campagne	42	M
+1	0	0		23	27	014	1	39	1		1		AMFREVILLE-SUR-ITON		Amfreville-sur-Iton		Louviers-Sud	42	M
+1	0	0		23	27	015	1	21	1		1		ANDE		Andé		Louviers-Nord	42	M
+1	0	0		23	27	053	2	01	1		2	(LE)	BEC-THOMAS	(Le)	Bec-Thomas		Amfreville-la-Campagne	42	M
+1	0	0		23	27	184	1	39	1		0		CRASVILLE		Crasville		Louviers-Sud	42	M
+1	0	0		23	27	261	2	01	1		0		FOUQUEVILLE		Fouqueville		Amfreville-la-Campagne	42	M
+1	0	0		23	27	296	2	03	1		0		GRANCHAIN		Granchain		Beaumesnil	10	M
+1	0	0		23	27	302	2	01	1		2	(LE)	GROS-THEIL	(Le)	Gros-Theil		Amfreville-la-Campagne	42	M
+1	0	0		23	27	313	2	01	1		3	(LA)	HARENGERE	(La)	Harengère		Amfreville-la-Campagne	42	M
+1	0	0		23	27	320	2	01	1		3	(LA)	HAYE-DU-THEIL	(La)	Haye-du-Theil		Amfreville-la-Campagne	42	M
+1	0	0		23	27	321	1	39	1		3	(LA)	HAYE-LE-COMTE	(La)	Haye-le-Comte		Louviers-Sud	42	M
+1	0	0		23	27	322	1	39	1		3	(LA)	HAYE-MALHERBE	(La)	Haye-Malherbe		Louviers-Sud	42	M
+1	0	0		23	27	332	1	21	1		1		HEUDEBOUVILLE		Heudebouville		Louviers-Nord	42	M
+1	0	0		23	27	339	1	39	1		0		HONDOUVILLE		Hondouville		Louviers-Sud	42	M
+1	0	0		23	27	344	2	01	1		0		HOULBEC-PRES-LE-GROS-THEIL		Houlbec-près-le-Gros-Theil		Amfreville-la-Campagne	42	M
+1	0	0		23	27	351	1	21	1		1		INCARVILLE		Incarville		Louviers-Nord	42	M
+6	1	1	3	23	27	375	1	21	0		0		LOUVIERS		Louviers		Louviers-Nord	42	M
+6	1	1	3	23	27	375	1	39	0		0		LOUVIERS		Louviers		Louviers-Sud	42	M
+1	1	2	3	23	27	375	1	98	1		0		LOUVIERS		Louviers		Canton non précisé	42	M
+1	0	0		23	27	382	2	01	1		0		MANDEVILLE		Mandeville		Amfreville-la-Campagne	42	M
+1	0	0		23	27	403	1	39	1		2	(LE)	MESNIL-JOURDAIN	(Le)	Mesnil-Jourdain		Louviers-Sud	42	M
+1	0	0		23	27	456	1	39	1		0		PINTERVILLE		Pinterville		Louviers-Sud	42	M
+1	0	0		23	27	482	2	01	1		3	(LA)	PYLE	(La)	Pyle		Amfreville-la-Campagne	42	M
+1	0	0		23	27	483	1	39	1		0		QUATREMARE		Quatremare		Louviers-Sud	42	M
+1	0	0		23	27	506	2	01	1		0		SAINT-AMAND-DES-HAUTES-TERRES		Saint-Amand-des-Hautes-Terres		Amfreville-la-Campagne	42	M
+1	0	0		23	27	529	2	01	1		0		SAINT-CYR-LA-CAMPAGNE		Saint-Cyr-la-Campagne		Amfreville-la-Campagne	42	M
+1	0	0		23	27	534	2	01	1		0		SAINT-DIDIER-DES-BOIS		Saint-Didier-des-Bois		Amfreville-la-Campagne	42	M
+1	0	0		23	27	537	1	21	1		0		SAINT-ETIENNE-DU-VAUVRAY		Saint-Étienne-du-Vauvray		Louviers-Nord	42	M
+1	0	0		23	27	545	2	01	1		0		SAINT-GERMAIN-DE-PASQUIER		Saint-Germain-de-Pasquier		Amfreville-la-Campagne	42	M
+1	0	0		23	27	572	2	01	1		0		SAINT-MESLIN-DU-BOSC		Saint-Meslin-du-Bosc		Amfreville-la-Campagne	42	M
+1	0	0		23	27	574	2	01	1		0		SAINT-NICOLAS-DU-BOSC		Saint-Nicolas-du-Bosc		Amfreville-la-Campagne	42	M
+1	0	0		23	27	579	2	01	1		0		SAINT-OUEN-DE-PONTCHEUIL		Saint-Ouen-de-Pontcheuil		Amfreville-la-Campagne	42	M
+1	0	0		23	27	593	2	01	1		0		SAINT-PIERRE-DES-FLEURS		Saint-Pierre-des-Fleurs		Amfreville-la-Campagne	42	M
+1	0	0		23	27	595	2	01	1		0		SAINT-PIERRE-DU-BOSGUERARD		Saint-Pierre-du-Bosguérard		Amfreville-la-Campagne	42	M
+1	0	0		23	27	598	1	21	1		0		SAINT-PIERRE-DU-VAUVRAY		Saint-Pierre-du-Vauvray		Louviers-Nord	42	M
+1	0	0		23	27	616	2	01	1		3	(LA)	SAUSSAYE	(La)	Saussaye		Amfreville-la-Campagne	42	M
+1	0	0		23	27	623	1	39	1		0		SURTAUVILLE		Surtauville		Louviers-Sud	42	M
+1	0	0		23	27	624	1	39	1		0		SURVILLE		Surville		Louviers-Sud	42	M
+1	0	0		23	27	636	2	01	1		2	(LE)	THUIT-ANGER	(Le)	Thuit-Anger		Amfreville-la-Campagne	42	M
+1	0	0		23	27	638	2	01	1		2	(LE)	THUIT-SIGNOL	(Le)	Thuit-Signol		Amfreville-la-Campagne	42	M
+1	0	0		23	27	639	2	01	1		2	(LE)	THUIT-SIMER	(Le)	Thuit-Simer		Amfreville-la-Campagne	42	M
+1	0	0		23	27	654	2	01	1		0		TOURVILLE-LA-CAMPAGNE		Tourville-la-Campagne		Amfreville-la-Campagne	42	M
+1	0	0		23	27	666	1	39	1		3	(LA)	VACHERIE	(La)	Vacherie		Louviers-Sud	42	M
+1	0	0		23	27	697	1	21	1		0		VIRONVAY		Vironvay		Louviers-Nord	42	M
+1	0	0		23	27	700	2	01	1		0		VRAIVILLE		Vraiville		Amfreville-la-Campagne	42	M
+2				24	28	042			1	28361	0		BLEURY		Bleury			33	M
+1	0	0		24	28	361	1	18	1		0		BLEURY - SAINT-SYMPHORIEN		Bleury - Saint-Symphorien		Maintenon	11	M
+1	0	0		24	28	361	1	18	1		0		BLEURY - SAINT-SYMPHORIEN		Bleury - Saint-Symphorien		Maintenon	34	M
+1	0	0		53	29	145	4	33	1		0		CONFORT-MEILARS		Confort-Meilars		Pont-Croix	10	M
+1	0	0		53	29	165	4	49	1		0		PLOBANNALEC-LESCONIL		Plobannalec-Lesconil		Guilvinec	10	M
+1	0	0		53	29	186	3	19	1		0		PLOUEZOC'H		Plouezoc'h		Lanmeur	10	M
+1	0	0		53	29	272	4	37	1		0		SAINT-YVI		Saint-Yvi		Rosporden	10	M
+1	0	0		91	30	141	2	23	1		0		LAUDUN-L'ARDOISE		Laudun-l'Ardoise		Roquemaure	10	M
+1	0	0		91	30	195	3	25	1		0		PEYROLLES		Peyrolles		Saint-André-de-Valborgne	10	M
+1	0	0		91	30	249	2	32	1		0		SAINT-DIONISY		Saint-Dionisy		Sommières	10	M
+1	0	0		73	31	300	2	29	1		0		LIEOUX		Lieoux		Saint-Gaudens	21	M
+1	1	0		73	31	455	1	27	1		0		RIEUX-VOLVESTRE		Rieux-Volvestre		Rieux-Volvestre	10	M
+1	0	0		73	31	479	2	06	1		0		SAINT-FERREOL-DE-COMMINGES		Saint-Ferréol-de-Comminges		Boulogne-sur-Gesse	10	M
+1	0	0		73	31	492	1	27	1		0		SAINT-JULIEN-SUR-GARONNE		Saint-Julien-sur-Garonne		Rieux-Volvestre	10	M
+1	0	0		72	33	005	6	02	1		1		ANDERNOS-LES-BAINS		Andernos-les-Bains		Audenge	42	M
+1	0	0		72	33	007	3	36	1		1		ARBANATS		Arbanats		Podensac	42	M
+1	2	0		72	33	009	6	01	1		1		ARCACHON		Arcachon		Arcachon	42	M
+1	0	0		72	33	010	4	20	1		1		ARCINS		Arcins		Castelnau-de-Médoc	42	M
+1	0	0		72	33	011	6	02	1		1		ARES		Arès		Audenge	42	M
+1	0	0		72	33	012	4	20	1		1		ARSAC		Arsac		Castelnau-de-Médoc	42	M
+1	0	0		72	33	018	1	39	1		1		AUBIE-ET-ESPESSAS		Aubie-et-Espessas		Saint-André-de-Cubzac	42	M
+1	1	0		72	33	019	6	02	1		1		AUDENGE		Audenge		Audenge	42	M
+1	0	0		72	33	022	4	20	1		1		AVENSAN		Avensan		Castelnau-de-Médoc	42	M
+1	0	0		72	33	029	6	05	1		2	(LE)	BARP	(Le)	Barp		Belin-Béliet	42	M
+1	0	0		72	33	030	3	36	1		0		BARSAC		Barsac		Podensac	42	M
+1	0	0		72	33	040	3	17	1		0		BEGUEY		Béguey		Cadillac	42	M
+1	1	0		72	33	042	6	05	1		0		BELIN-BELIET		Belin-Béliet		Belin-Béliet	42	M
+1	0	0		72	33	051	6	02	1		0		BIGANOS		Biganos		Audenge	42	M
+1	0	0		72	33	070	4	20	1		0		BRACH		Brach		Castelnau-de-Médoc	42	M
+1	0	0		72	33	076	3	36	1		0		BUDOS		Budos		Podensac	42	M
+1	1	0		72	33	081	3	17	1		0		CADILLAC		Cadillac		Cadillac	42	M
+1	0	0		72	33	091	4	20	1		0		CANTENAC		Cantenac		Castelnau-de-Médoc	42	M
+1	0	0		72	33	093	3	17	1		0		CAPIAN		Capian		Cadillac	42	M
+1	0	0		72	33	098	3	17	1		0		CARDAN		Cardan		Cadillac	42	M
+1	1	0		72	33	104	4	20	1		0		CASTELNAU-DE-MEDOC		Castelnau-de-Médoc		Castelnau-de-Médoc	42	M
+1	0	0		72	33	120	3	36	1		0		CERONS		Cérons		Podensac	42	M
+1	0	0		72	33	143	1	39	1		0		CUBZAC-LES-PONTS		Cubzac-les-Ponts		Saint-André-de-Cubzac	42	M
+1	0	0		72	33	146	4	20	1		0		CUSSAC-FORT-MEDOC		Cussac-Fort-Médoc		Castelnau-de-Médoc	42	M
+1	0	0		72	33	152	3	17	1		0		DONZAC		Donzac		Cadillac	42	M
+1	0	0		72	33	176	3	17	1		0		GABARNAC		Gabarnac		Cadillac	42	M
+1	0	0		72	33	183	1	39	1		0		GAURIAGUET		Gauriaguet		Saint-André-de-Cubzac	42	M
+1	0	0		72	33	197	3	36	1		0		GUILLOS		Guillos		Podensac	42	M
+1	0	0		72	33	199	6	49	1		0		GUJAN-MESTRAS		Gujan-Mestras	(La)	Teste-de-Buch	42	M
+1	0	0		72	33	205	3	36	1		1		ILLATS		Illats		Podensac	42	M
+1	0	0		72	33	211	4	20	1		0		LABARDE		Labarde		Castelnau-de-Médoc	42	M
+1	0	0		72	33	214	4	20	1		0		LACANAU		Lacanau		Castelnau-de-Médoc	42	M
+1	0	0		72	33	220	4	20	1		0		LAMARQUE		Lamarque		Castelnau-de-Médoc	42	M
+1	0	0		72	33	225	3	36	1		0		LANDIRAS		Landiras		Podensac	42	M
+1	0	0		72	33	226	3	17	1		0		LANGOIRAN		Langoiran		Cadillac	42	M
+1	0	0		72	33	229	6	02	1		0		LANTON		Lanton		Audenge	42	M
+1	0	0		72	33	231	3	17	1		0		LAROQUE		Laroque		Cadillac	42	M
+1	0	0		72	33	236	6	02	1		0		LEGE-CAP-FERRET		Lège-Cap-Ferret		Audenge	42	M
+1	0	0		72	33	241	3	17	1		0		LESTIAC-SUR-GARONNE		Lestiac-sur-Garonne		Cadillac	42	M
+1	0	0		72	33	248	4	20	1		0		LISTRAC-MEDOC		Listrac-Médoc		Castelnau-de-Médoc	42	M
+1	0	0		72	33	253	3	17	1		0		LOUPIAC		Loupiac		Cadillac	42	M
+1	0	0		72	33	260	6	05	1		0		LUGOS		Lugos		Belin-Béliet	42	M
+1	0	0		72	33	268	4	20	1		0		MARGAUX		Margaux		Castelnau-de-Médoc	42	M
+1	0	0		72	33	284	6	02	1		0		MIOS		Mios		Audenge	42	M
+1	0	0		72	33	288	3	17	1		0		MONPRIMBLANC		Monprimblanc		Cadillac	42	M
+1	0	0		72	33	297	4	20	1		0		MOULIS-EN-MEDOC		Moulis-en-Médoc		Castelnau-de-Médoc	42	M
+1	0	0		72	33	308	3	17	1		1		OMET		Omet		Cadillac	42	M
+1	0	0		72	33	311	3	17	1		0		PAILLET		Paillet		Cadillac	42	M
+1	0	0		72	33	321	1	39	1		0		PEUJARD		Peujard		Saint-André-de-Cubzac	42	M
+1	1	0		72	33	327	3	36	1		0		PODENSAC		Podensac		Podensac	42	M
+1	0	0		72	33	333	4	20	1		2	(LE)	PORGE	(Le)	Porge		Castelnau-de-Médoc	42	M
+1	0	0		72	33	334	3	36	1		0		PORTETS		Portets		Podensac	42	M
+1	0	0		72	33	337	3	36	1		0		PREIGNAC		Preignac		Podensac	42	M
+1	0	0		72	33	343	3	36	1		0		PUJOLS-SUR-CIRON		Pujols-sur-Ciron		Podensac	42	M
+1	0	0		72	33	355	3	17	1		0		RIONS		Rions		Cadillac	42	M
+1	1	0		72	33	366	1	39	1		0		SAINT-ANDRE-DE-CUBZAC		Saint-André-de-Cubzac		Saint-André-de-Cubzac	42	M
+1	0	0		72	33	371	1	39	1		0		SAINT-ANTOINE		Saint-Antoine		Saint-André-de-Cubzac	42	M
+1	0	0		72	33	392	3	17	1		0		SAINTE-CROIX-DU-MONT		Sainte-Croix-du-Mont		Cadillac	42	M
+1	0	0		72	33	415	1	39	1		0		SAINT-GERVAIS		Saint-Gervais		Saint-André-de-Cubzac	42	M
+1	0	0		72	33	417	4	20	1		0		SAINTE-HELENE		Sainte-Hélène		Castelnau-de-Médoc	42	M
+1	0	0		72	33	425	1	39	1		0		SAINT-LAURENT-D'ARCE		Saint-Laurent-d'Arce		Saint-André-de-Cubzac	42	M
+1	0	0		72	33	436	6	05	1		0		SAINT-MAGNE		Saint-Magne		Belin-Béliet	42	M
+1	0	0		72	33	452	3	36	1		0		SAINT-MICHEL-DE-RIEUFRET		Saint-Michel-de-Rieufret		Podensac	42	M
+1	0	0		72	33	494	4	20	1		0		SALAUNES		Salaunes		Castelnau-de-Médoc	42	M
+1	0	0		72	33	495	1	39	1		0		SALIGNAC		Salignac		Saint-André-de-Cubzac	42	M
+1	0	0		72	33	498	6	05	1		0		SALLES		Salles		Belin-Béliet	42	M
+1	0	0		72	33	503	4	20	1		0		SAUMOS		Saumos		Castelnau-de-Médoc	42	M
+1	0	0		72	33	517	4	20	1		0		SOUSSANS		Soussans		Castelnau-de-Médoc	42	M
+1	0	0		72	33	527	6	49	1		2	(LE)	TEICH	(Le)	Teich	(La)	Teste-de-Buch	42	M
+1	0	0		72	33	528	4	20	1		2	(LE)	TEMPLE	(Le)	Temple		Castelnau-de-Médoc	42	M
+1	1	0		72	33	529	6	49	1		3	(LA)	TESTE-DE-BUCH	(La)	Teste-de-Buch	(La)	Teste-de-Buch	42	M
+1	0	0		72	33	549	3	17	1		0		VILLENAVE-DE-RIONS		Villenave-de-Rions		Cadillac	42	M
+1	0	0		72	33	552	3	36	1		0		VIRELADE		Virelade		Podensac	42	M
+1	0	0		72	33	553	1	39	1		0		VIRSAC		Virsac		Saint-André-de-Cubzac	42	M
+1	0	0		72	33	555	6	02	1		0		MARCHEPRIME		Marcheprime		Audenge	42	M
+1	0	0		91	34	005	2	13	1		1		AGONES		Agonès		Ganges	42	M
+1	1	0		91	34	010	2	02	1		1		ANIANE		Aniane		Aniane	42	M
+1	0	0		91	34	012	2	02	1		1		ARGELLIERS		Argelliers		Aniane	42	M
+1	0	0		91	34	035	2	02	1		3	(LA)	BOISSIERE	(La)	Boissière		Aniane	42	M
+1	0	0		91	34	042	2	13	1		0		BRISSAC		Brissac		Ganges	42	M
+1	0	0		91	34	060	2	32	1		0		CAUSSE-DE-LA-SELLE		Causse-de-la-Selle		Saint-Martin-de-Londres	42	M
+1	0	0		91	34	067	2	13	1		0		CAZILHAC		Cazilhac		Ganges	42	M
+1	1	0		91	34	111	2	13	1		0		GANGES		Ganges		Ganges	42	M
+1	0	0		91	34	115	2	13	1		0		GORNIES		Gorniès		Ganges	42	M
+1	0	0		91	34	128	2	13	1		0		LAROQUE		Laroque		Ganges	42	M
+1	0	0		91	34	152	2	32	1		0		MAS-DE-LONDRES		Mas-de-Londres		Saint-Martin-de-Londres	42	M
+1	0	0		91	34	163	2	02	1		0		MONTARNAUD		Montarnaud		Aniane	42	M
+1	0	0		91	34	171	2	13	1		0		MONTOULIEU		Montoulieu		Ganges	42	M
+1	0	0		91	34	174	2	13	1		0		MOULES-ET-BAUCELS		Moulès-et-Baucels		Ganges	42	M
+1	0	0		91	34	185	2	32	1		0		NOTRE-DAME-DE-LONDRES		Notre-Dame-de-Londres		Saint-Martin-de-Londres	42	M
+1	0	0		91	34	195	2	32	1		0		PEGAIROLLES-DE-BUEGES		Pégairolles-de-Buèges		Saint-Martin-de-Londres	42	M
+1	0	0		91	34	221	2	02	1		0		PUECHABON		Puéchabon		Aniane	42	M
+1	0	0		91	34	236	2	32	1		0		ROUET		Rouet		Saint-Martin-de-Londres	42	M
+1	0	0		91	34	238	2	32	1		0		SAINT-ANDRE-DE-BUEGES		Saint-André-de-Buèges		Saint-Martin-de-Londres	42	M
+1	0	0		91	34	243	2	13	1		0		SAINT-BAUZILLE-DE-PUTOIS		Saint-Bauzille-de-Putois		Ganges	42	M
+1	0	0		91	34	261	2	02	1		0		SAINT-GUILHEM-LE-DESERT		Saint-Guilhem-le-Désert		Aniane	42	M
+1	0	0		91	34	264	2	32	1		0		SAINT-JEAN-DE-BUEGES		Saint-Jean-de-Buèges		Saint-Martin-de-Londres	42	M
+1	1	0		91	34	274	2	32	1		0		SAINT-MARTIN-DE-LONDRES		Saint-Martin-de-Londres		Saint-Martin-de-Londres	42	M
+1	0	0		91	34	282	2	02	1		0		SAINT-PAUL-ET-VALMALLE		Saint-Paul-et-Valmalle		Aniane	42	M
+1	0	0		91	34	342	2	32	1		0		VIOLS-EN-LAVAL		Viols-en-Laval		Saint-Martin-de-Londres	42	M
+1	0	0		91	34	343	2	32	1		0		VIOLS-LE-FORT		Viols-le-Fort		Saint-Martin-de-Londres	42	M
+1	0	0		53	35	005	1	33	1		1		ARBRISSEL		Arbrissel		Retiers	42	M
+1	1	0		53	35	006	1	02	1		1		ARGENTRE-DU-PLESSIS		Argentré-du-Plessis		Argentré-du-Plessis	42	M
+1	0	0		53	35	008	1	15	1		1		AVAILLES-SUR-SEICHE		Availles-sur-Seiche	(La)	Guerche-de-Bretagne	42	M
+1	0	0		53	35	014	1	15	1		0		BAIS		Bais	(La)	Guerche-de-Bretagne	42	M
+1	0	0		53	35	015	1	42	1		0		BALAZE		Balazé		Vitré-Est	42	M
+3				53	35	020			1	35130	0		BAZOUGES-SOUS-HEDE		Bazouges-sous-Hédé			35	M
+1	0	0		53	35	038	1	42	1		0		BREAL-SOUS-VITRE		Bréal-sous-Vitré		Vitré-Est	42	M
+1	0	0		53	35	042	1	02	1		0		BRIELLES		Brielles		Argentré-du-Plessis	42	M
+1	0	0		53	35	052	1	43	1		0		CHAMPEAUX		Champeaux		Vitré-Ouest	42	M
+1	0	0		53	35	061	1	42	1		3	(LA)	CHAPELLE-ERBREE	(La)	Chapelle-Erbrée		Vitré-Est	42	M
+1	1	0		53	35	068	1	06	1		0		CHATEAUBOURG		Châteaubourg		Châteaubourg	42	M
+1	0	0		53	35	072	1	42	1		0		CHATILLON-EN-VENDELAIS		Châtillon-en-Vendelais		Vitré-Est	42	M
+1	0	0		53	35	077	1	15	1		0		CHELUN		Chelun	(La)	Guerche-de-Bretagne	42	M
+1	0	0		53	35	082	1	33	1		0		COESMES		Coësmes		Retiers	42	M
+1	0	0		53	35	087	1	43	1		0		CORNILLE		Cornillé		Vitré-Ouest	42	M
+1	0	0		53	35	090	2	03	1		0		CREVIN		Crevin		Bain-de-Bretagne	10	M
+1	0	0		53	35	096	1	06	1		0		DOMAGNE		Domagné		Châteaubourg	42	M
+1	0	0		53	35	097	1	02	1		0		DOMALAIN		Domalain		Argentré-du-Plessis	42	M
+1	0	0		53	35	102	1	15	1		0		DROUGES		Drouges	(La)	Guerche-de-Bretagne	42	M
+1	0	0		53	35	103	1	15	1		1		EANCE		Eancé	(La)	Guerche-de-Bretagne	42	M
+1	0	0		53	35	105	1	42	1		1		ERBREE		Erbrée		Vitré-Est	42	M
+1	0	0		53	35	108	1	33	1		1		ESSE		Essé		Retiers	42	M
+1	0	0		53	35	109	1	02	1		1		ETRELLES		Étrelles		Argentré-du-Plessis	42	M
+1	0	0		53	35	114	1	33	1		0		FORGES-LA-FORET		Forges-la-Forêt		Retiers	42	M
+1	0	0		53	35	119	1	02	1		0		GENNES-SUR-SEICHE		Gennes-sur-Seiche		Argentré-du-Plessis	42	M
+1	1	0		53	35	125	1	15	1		3	(LA)	GUERCHE-DE-BRETAGNE	(La)	Guerche-de-Bretagne	(La)	Guerche-de-Bretagne	42	M
+1	1	0		53	35	130	3	17	1		0		HEDE-BAZOUGES		Hédé-Bazouges		Hédé-Bazouges	10	M
+1	1	0		53	35	130	3	17	1		0		HEDE-BAZOUGES		Hédé-Bazouges		Hédé-Bazouges	36	M
+1	0	0		53	35	141	1	43	1		0		LANDAVRAN		Landavran		Vitré-Ouest	42	M
+1	0	0		53	35	161	1	06	1		0		LOUVIGNE-DE-BAIS		Louvigné-de-Bais		Châteaubourg	42	M
+1	0	0		53	35	165	1	33	1		0		MARCILLE-ROBERT		Marcillé-Robert		Retiers	42	M
+1	0	0		53	35	166	1	43	1		0		MARPIRE		Marpiré		Vitré-Ouest	42	M
+1	0	0		53	35	167	1	33	1		0		MARTIGNE-FERCHAUD		Martigné-Ferchaud		Retiers	42	M
+1	0	0		53	35	170	1	43	1		0		MECE		Mecé		Vitré-Ouest	42	M
+1	0	0		53	35	183	1	42	1		0		MONDEVERT		Mondevert		Vitré-Est	42	M
+1	0	0		53	35	185	1	42	1		0		MONTAUTOUR		Montautour		Vitré-Est	42	M
+1	0	0		53	35	192	1	43	1		0		MONTREUIL-DES-LANDES		Montreuil-des-Landes		Vitré-Ouest	42	M
+1	0	0		53	35	194	1	43	1		0		MONTREUIL-SOUS-PEROUSE		Montreuil-sous-Pérouse		Vitré-Ouest	42	M
+1	0	0		53	35	198	1	15	1		0		MOULINS		Moulins	(La)	Guerche-de-Bretagne	42	M
+1	0	0		53	35	199	1	15	1		0		MOUSSE		Moussé	(La)	Guerche-de-Bretagne	42	M
+1	0	0		53	35	200	1	15	1		0		MOUTIERS		Moutiers	(La)	Guerche-de-Bretagne	42	M
+1	0	0		53	35	209	1	06	1		1		OSSE		Ossé		Châteaubourg	42	M
+1	0	0		53	35	217	1	02	1		2	(LE)	PERTRE	(Le)	Pertre		Argentré-du-Plessis	42	M
+1	0	0		53	35	229	1	43	1		0		POCE-LES-BOIS		Pocé-les-Bois		Vitré-Ouest	42	M
+1	0	0		53	35	232	1	42	1		0		PRINCE		Princé		Vitré-Est	42	M
+1	0	0		53	35	235	1	15	1		0		RANNEE		Rannée	(La)	Guerche-de-Bretagne	42	M
+1	1	0		53	35	239	1	33	1		0		RETIERS		Retiers		Retiers	42	M
+1	0	0		53	35	252	1	43	1		0		SAINT-AUBIN-DES-LANDES		Saint-Aubin-des-Landes		Vitré-Ouest	42	M
+1	0	0		53	35	260	1	43	1		0		SAINT-CHRISTOPHE-DES-BOIS		Saint-Christophe-des-Bois		Vitré-Ouest	42	M
+1	0	0		53	35	262	1	33	1		0		SAINTE-COLOMBE		Sainte-Colombe		Retiers	42	M
+1	0	0		53	35	264	1	06	1		0		SAINT-DIDIER		Saint-Didier		Châteaubourg	42	M
+1	0	0		53	35	272	1	02	1		0		SAINT-GERMAIN-DU-PINEL		Saint-Germain-du-Pinel		Argentré-du-Plessis	42	M
+1	0	0		53	35	283	1	06	1		0		SAINT-JEAN-SUR-VILAINE		Saint-Jean-sur-Vilaine		Châteaubourg	42	M
+1	0	0		53	35	300	1	42	1		0		SAINT-M'HERVE		Saint-M'Hervé		Vitré-Est	42	M
+1	0	0		53	35	317	3	17	1		0		SAINT-SYMPHORIEN		Saint-Symphorien		Hédé-Bazouges	21	M
+1	0	0		53	35	325	1	15	1		3	(LA)	SELLE-GUERCHAISE	(La)	Selle-Guerchaise	(La)	Guerche-de-Bretagne	42	M
+1	0	0		53	35	330	1	43	1		0		TAILLIS		Taillis		Vitré-Ouest	42	M
+1	0	0		53	35	333	1	33	1		2	(LE)	THEIL-DE-BRETAGNE	(Le)	Theil-de-Bretagne		Retiers	42	M
+1	0	0		53	35	335	1	33	1		0		THOURIE		Thourie		Retiers	42	M
+1	0	0		53	35	338	1	02	1		0		TORCE		Torcé		Argentré-du-Plessis	42	M
+1	0	0		53	35	347	1	43	1		0		VAL-D'IZE		Val-d'Izé		Vitré-Ouest	42	M
+1	0	0		53	35	350	1	02	1		0		VERGEAL		Vergéal		Argentré-du-Plessis	42	M
+1	0	0		53	35	359	1	15	1		0		VISSEICHE		Visseiche	(La)	Guerche-de-Bretagne	42	M
+6	1	1	3	53	35	360	1	42	0		0		VITRE		Vitré		Vitré-Est	42	M
+6	1	1	3	53	35	360	1	43	0		0		VITRE		Vitré		Vitré-Ouest	42	M
+1	1	2	3	53	35	360	1	99	1		0		VITRE		Vitré		Canton non précisé	42	M
+1	0	0		82	38	216	1	42	1		0		MALLEVAL-EN-VERCORS		Malleval-en-Vercors		Vinay	10	M
+1	0	0		82	38	280	1	20	1		0		NOTRE-DAME-DE-VAULX		Notre-Dame-de-Vaulx	(La)	Mure	10	M
+1	0	0		43	39	049	2	23	1		0		BERSAILLIN		Bersaillin		Poligny	36	M
+1	0	0		43	39	060	2	07	1		0		BOIS-DE-GAND		Bois-de-Gand		Chaumergy	42	M
+3				43	39	067			1	39049	2	(LE)	BOUCHAUD	(Le)	Bouchaud			35	M
+1	0	0		43	39	093	1	31	1		0		CHAMBLAY		Chamblay		Villers-Farlay	42	M
+1	0	0		43	39	095	1	31	1		0		CHAMPAGNE-SUR-LOUE		Champagne-sur-Loue		Villers-Farlay	42	M
+1	0	0		43	39	112	2	07	1		3	(LA)	CHASSAGNE	(La)	Chassagne		Chaumergy	42	M
+1	1	0		43	39	124	2	07	1		0		CHAUMERGY		Chaumergy		Chaumergy	42	M
+1	0	0		43	39	132	2	07	1		3	(LA)	CHAUX-EN-BRESSE	(La)	Chaux-en-Bresse		Chaumergy	42	M
+1	0	0		43	39	140	2	07	1		0		CHENE-SEC		Chêne-Sec		Chaumergy	42	M
+1	0	0		43	39	160	2	07	1		0		COMMENAILLES		Commenailles		Chaumergy	42	M
+1	0	0		43	39	176	1	31	1		0		CRAMANS		Cramans		Villers-Farlay	42	M
+1	0	0		43	39	196	2	07	1		4	(LES)	DEUX-FAYS	(Les)	Deux-Fays		Chaumergy	42	M
+1	0	0		43	39	206	1	31	1		1		ECLEUX		Écleux		Villers-Farlay	42	M
+3				43	39	231			1	39436	0		FONTENY		Fonteny			35	M
+1	0	0		43	39	234	2	07	1		0		FOULENAY		Foulenay		Chaumergy	42	M
+1	0	0		43	39	236	2	07	1		0		FRANCHEVILLE		Francheville		Chaumergy	42	M
+1	0	0		43	39	238	1	18	1		0		FRASNE-LES-MEULIERES		Frasne-les-Meulières		Montmirey-le-Château	10	M
+1	0	0		43	39	243	2	07	1		0		FROIDEVILLE		Froideville		Chaumergy	42	M
+1	0	0		43	39	259	1	31	1		0		GRANGE-DE-VAIVRE		Grange-de-Vaivre		Villers-Farlay	42	M
+1	0	0		43	39	367	3	19	1		0		MORBIER		Morbier		Morez	32	M
+1	0	0		43	39	370	1	31	1		0		MOUCHARD		Mouchard		Villers-Farlay	42	M
+3				43	39	374			1	39436	0		MOUTAINE		Moutaine			35	M
+1	0	0		43	39	399	1	31	1		1		OUNANS		Ounans		Villers-Farlay	42	M
+1	0	0		43	39	403	1	31	1		0		PAGNOZ		Pagnoz		Villers-Farlay	42	M
+1	0	0		43	39	436	2	29	1		0		PONT-D'HERY		Pont-d'Héry		Salins-les-Bains	36	M
+1	0	0		43	39	439	1	31	1		0		PORT-LESNEY		Port-Lesney		Villers-Farlay	42	M
+1	0	0		43	39	454	2	07	1		0		RECANOZ		Recanoz		Chaumergy	42	M
+1	0	0		43	39	472	2	07	1		0		RYE		Rye		Chaumergy	42	M
+1	0	0		43	39	511	2	07	1		0		SERGENAUX		Sergenaux		Chaumergy	42	M
+1	0	0		43	39	512	2	07	1		0		SERGENON		Sergenon		Chaumergy	42	M
+3				43	39	524			1	39367	0		TANCUA		Tancua			31	M
+1	0	0		43	39	565	1	31	1		0		VILLENEUVE-D'AVAL		Villeneuve-d'Aval		Villers-Farlay	42	M
+1	1	0		43	39	569	1	31	1		0		VILLERS-FARLAY		Villers-Farlay		Villers-Farlay	42	M
+1	0	0		43	39	575	2	07	1		2	(LE)	VILLEY	(Le)	Villey		Chaumergy	42	M
+1	0	0		43	39	577	2	07	1		0		VINCENT		Vincent		Chaumergy	42	M
+3				43	39	580			1	39049	2	(LE)	VISENEY	(Le)	Viseney			35	M
+1	0	0		72	40	145	2	07	1		0		LARRIVIERE-SAINT-SAVIN		Larrivière-Saint-Savin		Grenade-sur-l'Adour	10	M
+1	0	0		24	41	042	3	18	1		0		CHATEAUVIEUX		Châteauvieux		Saint-Aignan	42	M
+1	0	0		24	41	043	3	18	1		0		CHATILLON-SUR-CHER		Châtillon-sur-Cher		Saint-Aignan	42	M
+1	0	0		24	41	049	3	18	1		0		CHEMERY		Chémery		Saint-Aignan	42	M
+1	0	0		24	41	054	3	18	1		0		CHOUSSY		Choussy		Saint-Aignan	42	M
+1	0	0		24	41	062	3	18	1		0		COUDDES		Couddes		Saint-Aignan	42	M
+1	0	0		24	41	063	3	18	1		0		COUFFY		Couffy		Saint-Aignan	42	M
+1	0	0		24	41	126	3	18	1		0		MAREUIL-SUR-CHER		Mareuil-sur-Cher		Saint-Aignan	42	M
+1	0	0		24	41	132	3	18	1		0		MEHERS		Méhers		Saint-Aignan	42	M
+1	0	0		24	41	139	3	18	1		0		MEUSNES		Meusnes		Saint-Aignan	42	M
+1	0	0		24	41	164	3	18	1		0		NOYERS-SUR-CHER		Noyers-sur-Cher		Saint-Aignan	42	M
+1	0	0		24	41	181	3	18	1		0		POUILLE		Pouillé		Saint-Aignan	42	M
+1	1	0		24	41	198	3	18	1		0		SAINT-AIGNAN		Saint-Aignan		Saint-Aignan	42	M
+1	0	0		24	41	229	3	18	1		0		SAINT-ROMAIN-SUR-CHER		Saint-Romain-sur-Cher		Saint-Aignan	42	M
+1	0	0		24	41	230	1	27	1		0		SAINT-SULPICE-DE-POMMERAY		Saint-Sulpice-de-Pommeray		Blois  5e  Canton	10	M
+1	0	0		24	41	239	3	18	1		0		SEIGY		Seigy		Saint-Aignan	42	M
+1	0	0		24	41	258	3	18	1		0		THESEE		Thésée		Saint-Aignan	42	M
+1	0	0		82	42	151	1	09	1		0		MORNAND-EN-FOREZ		Mornand-en-Forez		Montbrison	10	M
+1	0	0		82	42	239	2	34	1		0		SAINT-JEAN-SAINT-MAURICE-SUR-LOIRE		Saint-Jean-Saint-Maurice-sur-Loire		Roanne-Sud	36	M
+3				82	42	263			1	42239	0		SAINT-MAURICE-SUR-LOIRE		Saint-Maurice-sur-Loire			35	M
+1	0	0		82	42	321	1	11	1		3	(LA)	VALLA-SUR-ROCHEFORT	(La)	Valla-sur-Rochefort		Noirétable	10	M
+1	0	0		83	43	054	1	25	1		0		CHANALEILLES		Chanaleilles		Saugues	42	M
+1	0	0		83	43	081	1	25	1		0		CROISANCES		Croisances		Saugues	42	M
+1	0	0		83	43	083	1	25	1		0		CUBELLES		Cubelles		Saugues	42	M
+1	0	0		83	43	090	1	25	1		1		ESPLANTAS		Esplantas		Saugues	42	M
+1	0	0		83	43	104	1	25	1		0		GREZES		Grèzes		Saugues	42	M
+1	0	0		83	43	136	1	25	1		0		MONISTROL-D'ALLIER		Monistrol-d'Allier		Saugues	42	M
+1	0	0		83	43	173	1	25	1		0		SAINT-CHRISTOPHE-D'ALLIER		Saint-Christophe-d'Allier		Saugues	42	M
+1	0	0		83	43	220	1	25	1		0		SAINT-PREJET-D'ALLIER		Saint-Préjet-d'Allier		Saugues	42	M
+1	0	0		83	43	225	1	25	1		0		SAINT-VENERAND		Saint-Vénérand		Saugues	42	M
+1	1	0		83	43	234	1	25	1		0		SAUGUES		Saugues		Saugues	42	M
+1	0	0		83	43	245	1	25	1		0		THORAS		Thoras		Saugues	42	M
+1	0	0		83	43	255	1	25	1		0		VAZEILLES-PRES-SAUGUES		Vazeilles-près-Saugues		Saugues	42	M
+1	0	0		83	43	256	1	25	1		0		VENTEUGES		Venteuges		Saugues	42	M
+1	1	0		52	44	131	3	32	1		0		PORNIC		Pornic		Pornic	36	M
+3				52	44	177			1	44131	0		SAINTE-MARIE		Sainte-Marie			35	M
+1	0	0		24	45	033	3	30	1		0		BOESSES		Boësses		Puiseaux	10	M
+1	1	0		24	45	145	1	12	1		0		FERRIERES-EN-GATINAIS		Ferrières-en-Gâtinais		Ferrières-en-Gâtinais	10	M
+1	0	0		24	45	265	1	11	1		0		ROZOY-LE-VIEIL		Rozoy-le-Vieil		Courtenay	10	M
+1	0	0		72	47	112	2	08	1		0		GRATELOUP-SAINT-GAYRAND		Grateloup-Saint-Gayrand		Castelmoron-sur-Lot	10	M
+1	0	0		72	47	112	2	08	1		0		GRATELOUP-SAINT-GAYRAND		Grateloup-Saint-Gayrand		Castelmoron-sur-Lot	36	M
+1	0	0		72	47	163	2	38	1		0		MAUVEZIN-SUR-GUPIE		Mauvezin-sur-Gupie		Marmande-Ouest	21	M
+1	0	0		72	47	227	2	05	1		0		RUFFIAC		Ruffiac		Bouglon	21	M
+3				72	47	243			1	47112	0		SAINT-GAYRAND		Saint-Gayrand			35	M
+1	0	0		52	49	157	3	04	1		2	(LE)	GUEDENIAU	(Le)	Guédeniau		Baugé	10	M
+1	1	0		52	49	206	2	19	1		0		MONTFAUCON-MONTIGNE		Montfaucon-Montigné		Montfaucon-Montigné	11	M
+1	1	0		52	49	206	2	19	1		0		MONTFAUCON-MONTIGNE		Montfaucon-Montigné		Montfaucon-Montigné	32	M
+3				52	49	210			1	49206	0		MONTIGNE-SUR-MOINE		Montigné-sur-Moine			31	M
+1	0	0		52	49	369	3	17	1		0		VERNOIL-LE-FOURRIER		Vernoil-le-Fourrier		Longué-Jumelles	10	M
+1	0	0		25	50	102	1	42	1		0		CAROLLES		Carolles		Sartilly	21	M
+6	1	1	4	25	50	129	2	11	0		0		CHERBOURG-OCTEVILLE		Cherbourg-Octeville		Cherbourg-Octeville-Nord-Ouest	11	M
+6	1	1	4	25	50	129	2	11	0		0		CHERBOURG-OCTEVILLE		Cherbourg-Octeville		Cherbourg-Octeville-Nord-Ouest	24	A
+6	1	1	4	25	50	129	2	11	0		0		CHERBOURG-OCTEVILLE		Cherbourg-Octeville		Cherbourg-Octeville-Nord-Ouest	32	M
+6	1	1	4	25	50	129	2	25	0		0		CHERBOURG-OCTEVILLE		Cherbourg-Octeville		Cherbourg-Octeville-Sud-Ouest	11	M
+6	1	1	4	25	50	129	2	25	0		0		CHERBOURG-OCTEVILLE		Cherbourg-Octeville		Cherbourg-Octeville-Sud-Ouest	24	A
+6	1	1	4	25	50	129	2	25	0		0		CHERBOURG-OCTEVILLE		Cherbourg-Octeville		Cherbourg-Octeville-Sud-Ouest	32	M
+6	1	1	4	25	50	129	2	49	0		0		CHERBOURG-OCTEVILLE		Cherbourg-Octeville		Cherbourg-Octeville-Sud-Est	11	M
+6	1	1	4	25	50	129	2	49	0		0		CHERBOURG-OCTEVILLE		Cherbourg-Octeville		Cherbourg-Octeville-Sud-Est	24	A
+6	1	1	4	25	50	129	2	49	0		0		CHERBOURG-OCTEVILLE		Cherbourg-Octeville		Cherbourg-Octeville-Sud-Est	32	M
+1	2	2	4	25	50	129	2	96	1		0		CHERBOURG-OCTEVILLE		Cherbourg-Octeville		Canton non précisé	11	M
+1	2	2	4	25	50	129	2	96	1		0		CHERBOURG-OCTEVILLE		Cherbourg-Octeville		Canton non précisé	24	A
+1	2	2	4	25	50	129	2	96	1		0		CHERBOURG-OCTEVILLE		Cherbourg-Octeville		Canton non précisé	32	M
+1	0	0		25	50	216	4	34	1		0		GRAIGNES-MESNIL-ANGOT		Graignes-Mesnil-Angot		Saint-Jean-de-Daye	11	M
+1	0	0		25	50	216	4	34	1		0		GRAIGNES-MESNIL-ANGOT		Graignes-Mesnil-Angot		Saint-Jean-de-Daye	32	M
+3				25	50	303			1	50216	2	(LE)	MESNIL-ANGOT	(Le)	Mesnil-Angot			31	M
+3				25	50	383			1	50129	1		OCTEVILLE		Octeville			31	M
+1	0	0		21	51	007	2	03	1		1		AMBONNAY		Ambonnay		Ay	42	M
+1	0	0		21	51	028	2	03	1		1		AVENAY-VAL-D'OR		Avenay-Val-d'Or		Ay	42	M
+1	1	0		21	51	030	2	03	1		1		AY		Ay		Ay	42	M
+1	0	0		21	51	064	2	03	1		0		BISSEUIL		Bisseuil		Ay	42	M
+1	0	0		21	51	079	2	03	1		0		BOUZY		Bouzy		Ay	42	M
+1	0	0		21	51	119	2	03	1		0		CHAMPILLON		Champillon		Ay	42	M
+1	0	0		21	51	173	2	03	1		0		CORMOYEUX		Cormoyeux		Ay	42	M
+1	0	0		21	51	201	3	07	1		0		CUISLES		Cuisles		Châtillon-sur-Marne	21	M
+1	0	0		21	51	202	2	03	1		0		CUMIERES		Cumières		Ay	42	M
+1	0	0		21	51	210	2	03	1		0		DIZY		Dizy		Ay	42	M
+1	0	0		21	51	256	2	03	1		0		FONTAINE-SUR-AY		Fontaine-sur-Ay		Ay	42	M
+1	0	0		21	51	266	2	03	1		0		GERMAINE		Germaine		Ay	42	M
+1	0	0		21	51	287	2	03	1		1		HAUTVILLERS		Hautvillers		Ay	42	M
+1	0	0		21	51	331	2	03	1		0		LOUVOIS		Louvois		Ay	42	M
+1	0	0		21	51	347	2	03	1		0		MAREUIL-SUR-AY		Mareuil-sur-Ay		Ay	42	M
+1	0	0		21	51	392	2	03	1		0		MUTIGNY		Mutigny		Ay	42	M
+1	0	0		21	51	465	2	03	1		0		ROMERY		Romery		Ay	42	M
+1	0	0		21	51	488	2	03	1		0		SAINT-IMOGES		Saint-Imoges		Ay	42	M
+1	0	0		21	51	564	2	03	1		0		TAUXIERES-MUTRY		Tauxières-Mutry		Ay	42	M
+1	0	0		21	51	576	2	03	1		0		TOURS-SUR-MARNE		Tours-sur-Marne		Ay	42	M
+1	0	0		21	51	599	1	27	1		0		VAUDEMANGE		Vaudemange		Suippes	10	M
+1	0	0		21	51	663	2	03	1		0		MAGENTA		Magenta		Ay	42	M
+1	0	0		21	52	033	2	19	1		1		AVRECOURT		Avrecourt		Val-de-Meuse	21	M
+1	0	0		21	52	044	3	10	1		0		ROCHES-BETTAINCOURT		Roches-Bettaincourt		Doulaincourt-Saucourt	36	M
+1	0	0		21	52	124	2	26	1		0		CHEZEAUX		Chézeaux		Varennes-sur-Amance	21	M
+1	1	0		21	52	197	2	12	1		0		FAYL-BILLOT		Fayl-Billot		Fayl-Billot	10	M
+1	0	0		21	52	266	3	18	1		0		LANEUVILLE-A-REMY		Laneuville-à-Rémy		Montier-en-Der	21	M
+1	0	0		21	52	278	1	14	1		0		LAVILLENEUVE-AU-ROI		Lavilleneuve-au-Roi		Juzennecourt	21	M
+1	0	0		21	52	359	3	11	1		0		NULLY		Nully		Doulevant-le-Château	12	M
+1	0	0		21	52	376	3	22	1		0		PANSEY		Pansey		Poissons	10	M
+1	0	0		21	52	427	3	18	1		0		ROBERT-MAGNY		Robert-Magny		Montier-en-Der	12	M
+3				21	52	430			1	52044	0		ROCHES-SUR-ROGNON		Roches-sur-Rognon			35	M
+1	0	0		21	52	465	2	19	1		0		SAULXURES		Saulxures		Val-de-Meuse	21	M
+1	0	0		21	52	495	3	11	1		0		TREMILLY		Trémilly		Doulevant-le-Château	21	M
+1	1	0		21	52	504	2	26	1		0		VARENNES-SUR-AMANCE		Varennes-sur-Amance		Varennes-sur-Amance	12	M
+3				52	53	024			1	53062	0		BAZOUGES		Bazouges			35	M
+6	1	1	3	52	53	062	1	06	0		0		CHATEAU-GONTIER		Château-Gontier		Château-Gontier-Ouest	36	M
+6	1	1	3	52	53	062	1	31	0		0		CHATEAU-GONTIER		Château-Gontier		Château-Gontier-Est	36	M
+1	2	2	3	52	53	062	1	97	1		0		CHATEAU-GONTIER		Château-Gontier		Canton non précisé	36	M
+1	0	0		52	53	135	1	09	1		0		LIVRE-LA-TOUCHE		Livré-la-Touche		Craon	10	M
+1	0	0		52	53	160	3	14	1		0		MONTREUIL-POULAY		Montreuil-Poulay	(Le)	Horps	36	M
+3				52	53	183			1	53160	0		POULAY		Poulay			35	M
+1	0	0		41	54	050	2	01	1		0		BATHELEMONT		Bathelémont		Arracourt	10	M
+1	0	0		41	55	068	3	04	1		0		BRABANT-EN-ARGONNE		Brabant-en-Argonne		Clermont-en-Argonne	21	M
+1	0	0		41	55	082	3	04	1		0		BROCOURT-EN-ARGONNE		Brocourt-en-Argonne		Clermont-en-Argonne	21	M
+1	0	0		41	55	094	3	08	1		0		BUZY-DARMONT		Buzy-Darmont		Étain	36	M
+1	0	0		41	55	118	3	07	1		0		CLERY-LE-GRAND		Cléry-le-Grand		Dun-sur-Meuse	10	M
+1	0	0		41	55	119	3	07	1		0		CLERY-LE-PETIT		Cléry-le-Petit		Dun-sur-Meuse	10	M
+3				41	55	147			1	55094	0		DARMONT		Darmont			35	M
+1	0	0		53	56	229	3	08	1		0		SAINT-MARTIN-SUR-OUST		Saint-Martin-sur-Oust	(La)	Gacilly	10	M
+1	0	0		41	57	073	3	41	1		0		BETTING		Betting		Freyming-Merlebach	10	M
+1	0	0		41	57	197	6	28	1		1		ERNESTVILLER		Ernestviller		Sarralbe	42	M
+1	0	0		41	57	259	7	31	1		0		GRINDORFF-BIZING		Grindorff-Bizing		Sierck-les-Bains	10	M
+1	0	0		41	57	267	6	28	1		2	(LE)	VAL-DE-GUEBLANGE	(Le)	Val-de-Guéblange		Sarralbe	42	M
+1	0	0		41	57	308	6	28	1		1		HAZEMBOURG		Hazembourg		Sarralbe	42	M
+1	0	0		41	57	325	6	28	1		1		HILSPRICH		Hilsprich		Sarralbe	42	M
+1	0	0		41	57	330	6	28	1		1		HOLVING		Holving		Sarralbe	42	M
+1	0	0		41	57	357	6	28	1		0		KAPPELKINGER		Kappelkinger		Sarralbe	42	M
+1	0	0		41	57	366	6	28	1		0		KIRVILLER		Kirviller		Sarralbe	42	M
+1	0	0		41	57	497	6	28	1		0		NELLING		Nelling		Sarralbe	42	M
+1	0	0		41	57	556	6	28	1		0		PUTTELANGE-AUX-LACS		Puttelange-aux-Lacs		Sarralbe	42	M
+1	0	0		41	57	571	6	28	1		0		REMERING-LES-PUTTELANGE		Rémering-lès-Puttelange		Sarralbe	42	M
+1	0	0		41	57	581	6	28	1		0		RICHELING		Richeling		Sarralbe	42	M
+1	0	0		41	57	615	6	28	1		0		SAINT-JEAN-ROHRBACH		Saint-Jean-Rohrbach		Sarralbe	42	M
+1	1	0		41	57	628	6	28	1		0		SARRALBE		Sarralbe		Sarralbe	42	M
+1	0	0		41	57	679	1	09	1		0		TRITTELING-REDLACH		Tritteling-Redlach		Faulquemont	10	M
+1	0	0		41	57	746	6	28	1		0		WILLERWALD		Willerwald		Sarralbe	42	M
+1	0	0		26	58	248	4	18	1		0		SAINT-LAURENT-L'ABBAYE		Saint-Laurent-l'Abbaye		Pouilly-sur-Loire	10	M
+1	0	0		31	59	154	4	72	1		0		COUDEKERQUE-VILLAGE		Coudekerque-Village		Coudekerque-Branche	10	M
+6	1	1	5	31	59	183	4	25	0		0		DUNKERQUE		Dunkerque		Dunkerque-Est	34	M
+6	1	1	5	31	59	183	4	26	0		0		DUNKERQUE		Dunkerque		Dunkerque-Ouest	34	M
+6	0	1	5	31	59	183	4	72	0		0		DUNKERQUE		Dunkerque		Coudekerque-Branche	34	M
+6	0	1	5	31	59	183	4	73	0		0		DUNKERQUE		Dunkerque		Grande-Synthe	34	M
+1	2	2	5	31	59	183	4	90	1		0		DUNKERQUE		Dunkerque		Canton non précisé	34	M
+2				31	59	248			1	59183	0		FORT-MARDYCK		Fort-Mardyck			33	M
+6	1	1	1	31	59	350	5	34	0		0		LILLE		Lille		Lille-Centre	24	A
+6	1	1	1	31	59	350	5	34	0		0		LILLE		Lille		Lille-Centre	34	M
+6	1	1	1	31	59	350	5	35	0		0		LILLE		Lille		Lille-Est	24	A
+6	1	1	1	31	59	350	5	35	0		0		LILLE		Lille		Lille-Est	34	M
+6	1	1	1	31	59	350	5	36	0		0		LILLE		Lille		Lille-Nord	24	A
+6	1	1	1	31	59	350	5	36	0		0		LILLE		Lille		Lille-Nord	34	M
+6	1	1	1	31	59	350	5	37	0		0		LILLE		Lille		Lille-Nord-Est	24	A
+6	1	1	1	31	59	350	5	37	0		0		LILLE		Lille		Lille-Nord-Est	34	M
+6	1	1	1	31	59	350	5	38	0		0		LILLE		Lille		Lille-Ouest	24	A
+6	1	1	1	31	59	350	5	38	0		0		LILLE		Lille		Lille-Ouest	34	M
+6	1	1	1	31	59	350	5	39	0		0		LILLE		Lille		Lille-Sud	24	A
+6	1	1	1	31	59	350	5	39	0		0		LILLE		Lille		Lille-Sud	34	M
+6	1	1	1	31	59	350	5	40	0		0		LILLE		Lille		Lille-Sud-Est	24	A
+6	1	1	1	31	59	350	5	40	0		0		LILLE		Lille		Lille-Sud-Est	34	M
+6	1	1	1	31	59	350	5	41	0		0		LILLE		Lille		Lille-Sud-Ouest	24	A
+6	1	1	1	31	59	350	5	41	0		0		LILLE		Lille		Lille-Sud-Ouest	34	M
+6	1	1	1	31	59	350	5	74	0		0		LILLE		Lille		Lomme	24	A
+6	1	1	1	31	59	350	5	74	0		0		LILLE		Lille		Lomme	34	M
+1	4	2	1	31	59	350	5	92	1		0		LILLE		Lille		Canton non précisé	24	A
+1	4	2	1	31	59	350	5	92	1		0		LILLE		Lille		Canton non précisé	34	M
+2				31	59	355			1	59350	0		LOMME		Lomme			33	M
+2				31	59	540			1	59183	0		SAINT-POL-SUR-MER		Saint-Pol-sur-Mer			33	M
+1	0	0		31	59	633	1	64	1		0		WALLERS-EN-FAGNE		Wallers-en-Fagne		Trélon	10	M
+1	0	0		22	60	150	3	32	1		0		CHIRY-OURSCAMP		Chiry-Ourscamp		Ribécourt-Dreslincourt	10	M
+3				22	60	202			1	60537	0		DRESLINCOURT		Dreslincourt			35	M
+1	0	0		22	60	456	2	33	1		3	(LA)	NEUVILLE-ROY	(La)	Neuville-Roy		Saint-Just-en-Chaussée	10	M
+1	0	0		22	60	485	2	16	1		1		OURSEL-MAISON		Oursel-Maison		Froissy	10	M
+1	1	0		22	60	537	3	32	1		0		RIBECOURT-DRESLINCOURT		Ribécourt-Dreslincourt		Ribécourt-Dreslincourt	36	M
+3				25	61	022			1	61483	0		BAGNOLES-DE-L'ORNE		Bagnoles-de-l'Orne			31	M
+1	0	0		25	61	136	2	13	1		0		COUVAINS		Couvains	(La)	Ferté-Frênel	32	M
+3				25	61	254			1	61136	0		MARNEFER		Marnefer			31	M
+1	0	0		25	61	483	1	17	1		0		BAGNOLES-DE-L'ORNE		Bagnoles-de-l'Orne		Juvigny-sous-Andaine	11	M
+1	0	0		25	61	483	1	17	1		0		BAGNOLES-DE-L'ORNE		Bagnoles-de-l'Orne		Juvigny-sous-Andaine	32	M
+1	0	0		31	62	050	4	39	1		1		AUCHY-LES-HESDIN		Auchy-lès-Hesdin	(Le)	Parcq	42	M
+1	1	0		31	62	065	7	52	1		1		AVION		Avion		Avion	42	M
+1	0	0		31	62	069	4	39	1		1		AZINCOURT		Azincourt	(Le)	Parcq	42	M
+1	0	0		31	62	090	4	39	1		0		BEALENCOURT		Béalencourt	(Le)	Parcq	42	M
+1	0	0		31	62	138	4	39	1		0		BLANGY-SUR-TERNOISE		Blangy-sur-Ternoise	(Le)	Parcq	42	M
+1	0	0		31	62	142	4	39	1		0		BLINGEL		Blingel	(Le)	Parcq	42	M
+1	0	0		31	62	277	7	67	1		0		DROCOURT		Drocourt		Rouvroy	42	M
+1	0	0		31	62	282	4	39	1		1		ECLIMEUX		Éclimeux	(Le)	Parcq	42	M
+1	0	0		31	62	335	4	39	1		0		FILLIEVRES		Fillièvres	(Le)	Parcq	42	M
+1	0	0		31	62	357	4	39	1		0		FRESNOY		Fresnoy	(Le)	Parcq	42	M
+1	0	0		31	62	365	4	39	1		0		GALAMETZ		Galametz	(Le)	Parcq	42	M
+1	0	0		31	62	388	4	39	1		0		GRIGNY		Grigny	(Le)	Parcq	42	M
+1	0	0		31	62	470	4	39	1		1		INCOURT		Incourt	(Le)	Parcq	42	M
+1	0	0		31	62	477	1	05	1		1		IZEL-LES-HAMEAU		Izel-lès-Hameau		Aubigny-en-Artois	10	M
+1	0	0		31	62	541	4	39	1		0		MAISONCELLE		Maisoncelle	(Le)	Parcq	42	M
+6	0	1	3	31	62	570	7	52	0		0		MERICOURT		Méricourt		Avion	42	M
+6	0	1	3	31	62	570	7	67	0		0		MERICOURT		Méricourt		Rouvroy	42	M
+1	0	2	3	31	62	570	7	90	1		0		MERICOURT		Méricourt		Canton non précisé	42	M
+1	0	0		31	62	605	4	39	1		0		NEULETTE		Neulette	(Le)	Parcq	42	M
+1	0	0		31	62	625	4	39	1		0		NOYELLES-LES-HUMIERES		Noyelles-lès-Humières	(Le)	Parcq	42	M
+1	1	0		31	62	647	4	39	1		2	(LE)	PARCQ	(Le)	Parcq	(Le)	Parcq	42	M
+1	0	0		31	62	677	4	39	1		2	(LE)	QUESNOY-EN-ARTOIS	(Le)	Quesnoy-en-Artois	(Le)	Parcq	42	M
+1	0	0		31	62	719	4	39	1		0		ROLLANCOURT		Rollancourt	(Le)	Parcq	42	M
+1	1	0		31	62	724	7	67	1		0		ROUVROY		Rouvroy		Rouvroy	42	M
+1	0	0		31	62	749	4	39	1		0		SAINT-GEORGES		Saint-Georges	(Le)	Parcq	42	M
+1	0	0		31	62	828	4	39	1		0		TRAMECOURT		Tramecourt	(Le)	Parcq	42	M
+1	0	0		31	62	834	4	39	1		0		VACQUERIETTE-ERQUIERES		Vacqueriette-Erquières	(Le)	Parcq	42	M
+1	0	0		31	62	847	2	70	1		0		VERQUIGNEUL		Verquigneul		Béthune-Est	21	M
+1	0	0		31	62	850	4	39	1		0		VIEIL-HESDIN		Vieil-Hesdin	(Le)	Parcq	42	M
+1	0	0		31	62	868	4	39	1		0		WAIL		Wail	(Le)	Parcq	42	M
+1	0	0		31	62	872	4	39	1		0		WAMIN		Wamin	(Le)	Parcq	42	M
+1	0	0		31	62	890	4	39	1		0		WILLEMAN		Willeman	(Le)	Parcq	42	M
+1	0	0		83	63	103	4	33	1		0		CHATEL-GUYON		Châtel-Guyon		Riom-Est	10	M
+1	0	0		83	63	103	4	33	1		0		CHATEL-GUYON		Châtel-Guyon		Riom-Est	36	M
+1	0	0		83	63	181	4	14	1		0		JOZERAND		Jozerand		Combronde	10	M
+3				83	63	361			1	63103	0		SAINT-HIPPOLYTE		Saint-Hippolyte			35	M
+6	0	1	3	72	64	269	3	23	0		0		IDRON		Idron		Morlaàs	37	S
+1	0	0		72	64	269	3	31	1		1		IDRON		Idron		Pau-Est	12	M
+6	0	1	3	72	64	269	3	31	0		0		IDRON		Idron		Pau-Est	37	S
+1	0	0		72	64	439	3	31	1		1		OUSSE		Ousse		Pau-Est	21	M
+1	0	0		72	64	479	3	29	1		0		SAINT-GIRONS-EN-BEARN		Saint-Girons-en-Béarn		Orthez	10	M
+1	0	0		72	64	518	3	23	1		0		SENDETS		Sendets		Morlaàs	21	M
+1	0	0		73	65	024	2	04	1		1		ARGELES-BAGNERES		Argelès-Bagnères		Bagnères-de-Bigorre	10	M
+1	0	0		42	67	057	4	04	1		0		BOSSELSHAUSEN		Bosselshausen		Bouxwiller	21	M
+1	0	0		42	67	098	3	14	1		0		DINSHEIM-SUR-BRUCHE		Dinsheim-sur-Bruche		Molsheim	10	M
+1	0	0		42	67	242	4	04	1		0		KIRRWILLER		Kirrwiller		Bouxwiller	12	M
+1	0	0		82	69	013	2	53	1		1		ARNAS		Arnas		Gleizé	43	M
+1	0	0		82	69	023	2	53	1		0		BLACE		Blacé		Gleizé	43	M
+1	0	0		82	69	040	1	52	1		0		CHAMPAGNE-AU-MONT-D'OR		Champagne-au-Mont-d'Or		Écully	43	M
+1	0	0		82	69	061	2	53	1		0		COGNY		Cogny		Gleizé	43	M
+1	0	0		82	69	072	1	52	1		0		DARDILLY		Dardilly		Écully	43	M
+1	0	0		82	69	074	2	53	1		0		DENICE		Denicé		Gleizé	43	M
+1	1	0		82	69	081	1	52	1		1		ECULLY		Écully		Écully	43	M
+1	1	0		82	69	092	2	53	1		0		GLEIZE		Gleizé		Gleizé	43	M
+1	0	0		82	69	105	2	53	1		0		LACENAS		Lacenas		Gleizé	43	M
+1	0	0		82	69	115	2	53	1		0		LIMAS		Limas		Gleizé	43	M
+6	1	1	1	82	69	123	1	11	0		0		LYON		Lyon		Lyon-I	24	A
+6	1	1	1	82	69	123	1	12	0		0		LYON		Lyon		Lyon  2e  Canton	37	S
+6	1	1	1	82	69	123	1	13	0		0		LYON		Lyon		Lyon-II	24	A
+6	1	1	1	82	69	123	1	14	0		0		LYON		Lyon		Lyon-III	24	A
+6	1	1	1	82	69	123	1	15	0		0		LYON		Lyon		Lyon-IV	24	A
+6	1	1	1	82	69	123	1	16	0		0		LYON		Lyon		Lyon-V	24	A
+6	1	1	1	82	69	123	1	17	0		0		LYON		Lyon		Lyon-VI	24	A
+6	1	1	1	82	69	123	1	18	0		0		LYON		Lyon		Lyon-VII	24	A
+6	1	1	1	82	69	123	1	19	0		0		LYON		Lyon		Lyon-VIII	24	A
+6	1	1	1	82	69	123	1	20	0		0		LYON		Lyon		Lyon-IX	24	A
+6	1	1	1	82	69	123	1	21	0		0		LYON		Lyon		Lyon-XIII	24	A
+6	1	1	1	82	69	123	1	22	0		0		LYON		Lyon		Lyon-XIV	24	A
+6	1	1	1	82	69	123	1	36	0		0		LYON		Lyon		Lyon-X	24	A
+6	1	1	1	82	69	123	1	54	0		0		LYON		Lyon		Lyon-XI	24	A
+6	1	1	1	82	69	123	1	55	0		0		LYON		Lyon		Lyon-XII	24	A
+1	4	2	1	82	69	123	1	99	1		0		LYON		Lyon		Canton non précisé	24	A
+1	0	0		82	69	137	2	53	1		0		MONTMELAS-SAINT-SORLIN		Montmelas-Saint-Sorlin		Gleizé	43	M
+1	0	0		82	69	151	2	53	1		2	(LE)	PERREON	(Le)	Perréon		Gleizé	43	M
+1	0	0		82	69	167	2	53	1		0		RIVOLET		Rivolet		Gleizé	43	M
+1	0	0		82	69	172	2	53	1		0		SALLES-ARBUISSONNAS-EN-BEAUJOLAIS		Salles-Arbuissonnas-en-Beaujolais		Gleizé	43	M
+1	0	0		82	69	192	2	53	1		0		SAINT-CYR-LE-CHATOUX		Saint-Cyr-le-Chatoux		Gleizé	43	M
+1	0	0		82	69	215	2	53	1		0		SAINT-JULIEN		Saint-Julien		Gleizé	43	M
+1	0	0		82	69	257	2	53	1		0		VAUX-EN-BEAUJOLAIS		Vaux-en-Beaujolais		Gleizé	43	M
+3				26	71	211			1	71443	0		GEANGES		Géanges			31	M
+1	0	0		26	71	353	5	49	1		0		PLOTTES		Plottes		Tournus	21	M
+1	0	0		26	71	443	2	51	1		0		SAINT-LOUP-GEANGES		Saint-Loup-Géanges		Verdun-sur-le-Doubs	11	M
+1	0	0		26	71	443	2	51	1		0		SAINT-LOUP-GEANGES		Saint-Loup-Géanges		Verdun-sur-le-Doubs	32	M
+1	0	0		52	72	004	1	15	1		1		AMNE		Amné		Loué	42	M
+1	0	0		52	72	007	2	24	1		1		ARDENAY-SUR-MERIZE		Ardenay-sur-Mérize		Montfort-le-Gesnois	42	M
+1	0	0		52	72	017	1	15	1		1		AUVERS-SOUS-MONTFAUCON		Auvers-sous-Montfaucon		Loué	42	M
+1	0	0		52	72	027	1	06	1		0		BEAUMONT-SUR-DEME		Beaumont-sur-Dême	(La)	Chartre-sur-le-Loir	42	M
+1	0	0		52	72	028	1	07	1		0		BEAUMONT-PIED-DE-BOEUF		Beaumont-Pied-de-Bœuf		Château-du-Loir	42	M
+1	0	0		52	72	032	2	33	1		0		BERFAY		Berfay		Vibraye	42	M
+1	0	0		52	72	033	2	08	1		0		BERNAY-EN-CHAMPAGNE		Bernay-en-Champagne		Conlie	10	M
+1	0	0		52	72	033	2	08	1		0		BERNAY-EN-CHAMPAGNE		Bernay-en-Champagne		Conlie	42	M
+1	0	0		52	72	035	2	28	1		0		BESSE-SUR-BRAYE		Bessé-sur-Braye		Saint-Calais	42	M
+1	1	0		52	72	042	2	04	1		0		BOULOIRE		Bouloire		Bouloire	42	M
+1	0	0		52	72	045	1	15	1		0		BRAINS-SUR-GEE		Brains-sur-Gée		Loué	42	M
+1	0	0		52	72	046	2	24	1		2	(LE)	BREIL-SUR-MERIZE	(Le)	Breil-sur-Mérize		Montfort-le-Gesnois	42	M
+1	0	0		52	72	052	1	06	1		0		CHAHAIGNES		Chahaignes	(La)	Chartre-sur-le-Loir	42	M
+1	0	0		52	72	054	2	24	1		0		CHAMPAGNE		Champagné		Montfort-le-Gesnois	42	M
+1	0	0		52	72	063	1	06	1		3	(LA)	CHAPELLE-GAUGAIN	(La)	Chapelle-Gaugain	(La)	Chartre-sur-le-Loir	42	M
+1	0	0		52	72	064	2	28	1		3	(LA)	CHAPELLE-HUON	(La)	Chapelle-Huon		Saint-Calais	42	M
+1	0	0		52	72	066	2	08	1		3	(LA)	CHAPELLE-SAINT-FRAY	(La)	Chapelle-Saint-Fray		Conlie	42	M
+1	1	0		52	72	068	1	06	1		3	(LA)	CHARTRE-SUR-LE-LOIR	(La)	Chartre-sur-le-Loir	(La)	Chartre-sur-le-Loir	42	M
+1	0	0		52	72	070	1	15	1		0		CHASSILLE		Chassillé		Loué	42	M
+1	1	0		52	72	071	1	07	1		0		CHATEAU-DU-LOIR		Château-du-Loir		Château-du-Loir	42	M
+1	0	0		52	72	074	1	15	1		0		CHEMIRE-EN-CHARNIE		Chemiré-en-Charnie		Loué	42	M
+1	0	0		52	72	075	1	31	1		0		CHEMIRE-LE-GAUDIN		Chemiré-le-Gaudin	(La)	Suze-sur-Sarthe	42	M
+1	0	0		52	72	085	2	28	1		0		COGNERS		Cogners		Saint-Calais	42	M
+1	0	0		52	72	087	2	28	1		0		CONFLANS-SUR-ANILLE		Conflans-sur-Anille		Saint-Calais	42	M
+1	1	0		52	72	089	2	08	1		0		CONLIE		Conlie		Conlie	42	M
+1	0	0		52	72	090	2	24	1		0		CONNERRE		Connerré		Montfort-le-Gesnois	42	M
+1	0	0		52	72	094	2	04	1		0		COUDRECIEUX		Coudrecieux		Bouloire	42	M
+1	0	0		52	72	096	1	15	1		0		COULANS-SUR-GEE		Coulans-sur-Gée		Loué	42	M
+1	0	0		52	72	103	1	13	1		0		COURDEMANCHE		Courdemanche	(Le)	Grand-Lucé	42	M
+1	0	0		52	72	107	1	15	1		0		CRANNES-EN-CHAMPAGNE		Crannes-en-Champagne		Loué	42	M
+1	0	0		52	72	109	2	30	1		0		CRISSE		Crissé		Sillé-le-Guillaume	42	M
+1	0	0		52	72	111	2	08	1		0		CURES		Cures		Conlie	42	M
+1	0	0		52	72	113	2	08	1		0		DEGRE		Degré		Conlie	42	M
+1	0	0		52	72	115	1	07	1		0		DISSAY-SOUS-COURCILLON		Dissay-sous-Courcillon		Château-du-Loir	42	M
+1	0	0		52	72	118	2	33	1		0		DOLLON		Dollon		Vibraye	42	M
+1	0	0		52	72	119	2	08	1		0		DOMFRONT-EN-CHAMPAGNE		Domfront-en-Champagne		Conlie	42	M
+1	0	0		52	72	125	2	28	1		1		ECORPAIN		Écorpain		Saint-Calais	42	M
+1	0	0		52	72	126	1	15	1		1		EPINEU-LE-CHEVREUIL		Épineu-le-Chevreuil		Loué	42	M
+1	0	0		52	72	127	1	31	1		1		ETIVAL-LES-LE-MANS		Étival-lès-le-Mans	(La)	Suze-sur-Sarthe	42	M
+1	0	0		52	72	128	2	28	1		1		EVAILLE		Évaillé		Saint-Calais	42	M
+1	0	0		52	72	129	2	24	1		0		FATINES		Fatines		Montfort-le-Gesnois	42	M
+1	0	0		52	72	131	1	31	1		0		FERCE-SUR-SARTHE		Fercé-sur-Sarthe	(La)	Suze-sur-Sarthe	42	M
+1	0	0		52	72	133	1	31	1		0		FILLE		Fillé	(La)	Suze-sur-Sarthe	42	M
+1	0	0		52	72	134	1	07	1		0		FLEE		Flée		Château-du-Loir	42	M
+1	1	0		52	72	143	1	13	1		2	(LE)	GRAND-LUCE	(Le)	Grand-Lucé	(Le)	Grand-Lucé	42	M
+1	0	0		52	72	145	2	30	1		2	(LE)	GREZ	(Le)	Grez		Sillé-le-Guillaume	42	M
+1	0	0		52	72	146	1	31	1		0		GUECELARD		Guécélard	(La)	Suze-sur-Sarthe	42	M
+1	0	0		52	72	149	1	15	1		0		JOUE-EN-CHARNIE		Joué-en-Charnie		Loué	42	M
+1	0	0		52	72	153	1	07	1		0		JUPILLES		Jupilles		Château-du-Loir	42	M
+1	0	0		52	72	157	2	08	1		0		LAVARDIN		Lavardin		Conlie	42	M
+1	0	0		52	72	158	2	33	1		0		LAVARE		Lavaré		Vibraye	42	M
+1	0	0		52	72	159	1	06	1		0		LAVENAY		Lavenay	(La)	Chartre-sur-le-Loir	42	M
+1	0	0		52	72	161	1	06	1		0		LHOMME		Lhomme	(La)	Chartre-sur-le-Loir	42	M
+1	0	0		52	72	165	2	24	1		0		LOMBRON		Lombron		Montfort-le-Gesnois	42	M
+1	0	0		52	72	166	1	15	1		0		LONGNES		Longnes		Loué	42	M
+1	1	0		52	72	168	1	15	1		0		LOUE		Loué		Loué	42	M
+1	0	0		52	72	169	1	31	1		0		LOUPLANDE		Louplande	(La)	Suze-sur-Sarthe	42	M
+1	0	0		52	72	173	1	07	1		0		LUCEAU		Luceau		Château-du-Loir	42	M
+1	0	0		52	72	178	2	04	1		0		MAISONCELLES		Maisoncelles		Bouloire	42	M
+1	0	0		52	72	183	1	06	1		0		MARCON		Marçon	(La)	Chartre-sur-le-Loir	42	M
+1	0	0		52	72	190	2	28	1		0		MAROLLES-LES-SAINT-CALAIS		Marolles-lès-Saint-Calais		Saint-Calais	42	M
+1	0	0		52	72	197	2	08	1		0		MEZIERES-SOUS-LAVARDIN		Mézières-sous-Lavardin		Conlie	42	M
+1	0	0		52	72	203	1	07	1		0		MONTABON		Montabon		Château-du-Loir	42	M
+1	0	0		52	72	204	2	28	1		0		MONTAILLE		Montaillé		Saint-Calais	42	M
+1	0	0		52	72	210	1	13	1		0		MONTREUIL-LE-HENRI		Montreuil-le-Henri	(Le)	Grand-Lucé	42	M
+1	0	0		52	72	211	2	30	1		0		MONT-SAINT-JEAN		Mont-Saint-Jean		Sillé-le-Guillaume	42	M
+1	0	0		52	72	216	2	08	1		0		NEUVILLALAIS		Neuvillalais		Conlie	42	M
+1	0	0		52	72	218	2	30	1		0		NEUVILLETTE-EN-CHARNIE		Neuvillette-en-Charnie		Sillé-le-Guillaume	42	M
+1	0	0		52	72	219	2	08	1		0		NEUVY-EN-CHAMPAGNE		Neuvy-en-Champagne		Conlie	42	M
+1	0	0		52	72	221	1	07	1		0		NOGENT-SUR-LOIR		Nogent-sur-Loir		Château-du-Loir	42	M
+1	0	0		52	72	224	2	24	1		0		NUILLE-LE-JALAIS		Nuillé-le-Jalais		Montfort-le-Gesnois	42	M
+1	0	0		52	72	229	2	30	1		0		PARENNES		Parennes		Sillé-le-Guillaume	42	M
+1	0	0		52	72	230	1	31	1		0		PARIGNE-LE-POLIN		Parigné-le-Pôlin	(La)	Suze-sur-Sarthe	42	M
+1	0	0		52	72	234	2	30	1		0		PEZE-LE-ROBERT		Pezé-le-Robert		Sillé-le-Guillaume	42	M
+1	0	0		52	72	240	1	06	1		0		PONCE-SUR-LE-LOIR		Poncé-sur-le-Loir	(La)	Chartre-sur-le-Loir	42	M
+1	1	0		52	72	241	2	24	1		0		MONTFORT-LE-GESNOIS		Montfort-le-Gesnois		Montfort-le-Gesnois	42	M
+1	0	0		52	72	248	1	13	1		0		PRUILLE-L'EGUILLE		Pruillé-l'Éguillé	(Le)	Grand-Lucé	42	M
+1	0	0		52	72	249	2	08	1		3	(LA)	QUINTE	(La)	Quinte		Conlie	42	M
+1	0	0		52	72	250	2	28	1		0		RAHAY		Rahay		Saint-Calais	42	M
+1	0	0		52	72	253	1	31	1		0		ROEZE-SUR-SARTHE		Roézé-sur-Sarthe	(La)	Suze-sur-Sarthe	42	M
+1	0	0		52	72	255	2	30	1		0		ROUESSE-VASSE		Rouessé-Vassé		Sillé-le-Guillaume	42	M
+1	0	0		52	72	256	2	30	1		0		ROUEZ		Rouez		Sillé-le-Guillaume	42	M
+1	0	0		52	72	261	2	08	1		0		RUILLE-EN-CHAMPAGNE		Ruillé-en-Champagne		Conlie	42	M
+1	0	0		52	72	262	1	06	1		0		RUILLE-SUR-LOIR		Ruillé-sur-Loir	(La)	Chartre-sur-le-Loir	42	M
+1	1	0		52	72	269	2	28	1		0		SAINT-CALAIS		Saint-Calais		Saint-Calais	42	M
+1	0	0		52	72	271	2	24	1		0		SAINT-CELERIN		Saint-Célerin		Montfort-le-Gesnois	42	M
+1	0	0		52	72	272	2	28	1		0		SAINTE-CEROTTE		Sainte-Cérotte		Saint-Calais	42	M
+1	0	0		52	72	275	2	24	1		0		SAINT-CORNEILLE		Saint-Corneille		Montfort-le-Gesnois	42	M
+1	0	0		52	72	278	1	15	1		0		SAINT-DENIS-D'ORQUES		Saint-Denis-d'Orques		Loué	42	M
+1	0	0		52	72	279	1	13	1		0		SAINT-GEORGES-DE-LA-COUEE		Saint-Georges-de-la-Couée	(Le)	Grand-Lucé	42	M
+1	0	0		52	72	286	2	28	1		0		SAINT-GERVAIS-DE-VIC		Saint-Gervais-de-Vic		Saint-Calais	42	M
+1	0	0		52	72	298	2	04	1		0		SAINT-MARS-DE-LOCQUENAY		Saint-Mars-de-Locquenay		Bouloire	42	M
+1	0	0		52	72	300	2	24	1		0		SAINT-MARS-LA-BRIERE		Saint-Mars-la-Brière		Montfort-le-Gesnois	42	M
+1	0	0		52	72	303	2	04	1		0		SAINT-MICHEL-DE-CHAVAIGNES		Saint-Michel-de-Chavaignes		Bouloire	42	M
+1	0	0		52	72	304	2	28	1		0		SAINTE-OSMANE		Sainte-Osmane		Saint-Calais	42	M
+1	0	0		52	72	311	1	07	1		0		SAINT-PIERRE-DE-CHEVILLE		Saint-Pierre-de-Chevillé		Château-du-Loir	42	M
+1	0	0		52	72	314	1	13	1		0		SAINT-PIERRE-DU-LOROUER		Saint-Pierre-du-Lorouër	(Le)	Grand-Lucé	42	M
+1	0	0		52	72	315	2	30	1		0		SAINT-REMY-DE-SILLE		Saint-Rémy-de-Sillé		Sillé-le-Guillaume	42	M
+1	0	0		52	72	319	2	08	1		0		SAINTE-SABINE-SUR-LONGEVE		Sainte-Sabine-sur-Longève		Conlie	42	M
+1	0	0		52	72	321	2	08	1		0		SAINT-SYMPHORIEN		Saint-Symphorien		Conlie	42	M
+1	0	0		52	72	325	1	13	1		0		SAINT-VINCENT-DU-LOROUER		Saint-Vincent-du-Lorouër	(Le)	Grand-Lucé	42	M
+1	0	0		52	72	333	2	33	1		0		SEMUR-EN-VALLON		Semur-en-Vallon		Vibraye	42	M
+1	1	0		52	72	334	2	30	1		0		SILLE-LE-GUILLAUME		Sillé-le-Guillaume		Sillé-le-Guillaume	42	M
+1	0	0		52	72	335	2	24	1		0		SILLE-LE-PHILIPPE		Sillé-le-Philippe		Montfort-le-Gesnois	42	M
+1	0	0		52	72	339	1	31	1		0		SOULIGNE-FLACE		Souligné-Flacé	(La)	Suze-sur-Sarthe	42	M
+1	0	0		52	72	341	2	24	1		0		SOULITRE		Soulitré		Montfort-le-Gesnois	42	M
+1	0	0		52	72	344	1	31	1		0		SPAY		Spay	(La)	Suze-sur-Sarthe	42	M
+1	0	0		52	72	345	2	24	1		0		SURFONDS		Surfonds		Montfort-le-Gesnois	42	M
+1	1	0		52	72	346	1	31	1		3	(LA)	SUZE-SUR-SARTHE	(La)	Suze-sur-Sarthe	(La)	Suze-sur-Sarthe	42	M
+1	0	0		52	72	348	1	15	1		0		TASSILLE		Tassillé		Loué	42	M
+1	0	0		52	72	351	2	08	1		0		TENNIE		Tennie		Conlie	42	M
+1	0	0		52	72	356	1	07	1		0		THOIRE-SUR-DINAN		Thoiré-sur-Dinan		Château-du-Loir	42	M
+1	0	0		52	72	358	2	04	1		0		THORIGNE-SUR-DUE		Thorigné-sur-Dué		Bouloire	42	M
+1	0	0		52	72	359	2	24	1		0		TORCE-EN-VALLEE		Torcé-en-Vallée		Montfort-le-Gesnois	42	M
+1	0	0		52	72	361	2	04	1		0		TRESSON		Tresson		Bouloire	42	M
+1	0	0		52	72	366	2	33	1		0		VALENNES		Valennes		Vibraye	42	M
+1	0	0		52	72	367	1	15	1		0		VALLON-SUR-GEE		Vallon-sur-Gée		Loué	42	M
+1	0	0		52	72	368	2	28	1		0		VANCE		Vancé		Saint-Calais	42	M
+1	1	0		52	72	373	2	33	1		0		VIBRAYE		Vibraye		Vibraye	42	M
+1	0	0		52	72	376	1	13	1		0		VILLAINES-SOUS-LUCE		Villaines-sous-Lucé	(Le)	Grand-Lucé	42	M
+1	0	0		52	72	381	1	31	1		0		VOIVRES-LES-LE-MANS		Voivres-lès-le-Mans	(La)	Suze-sur-Sarthe	42	M
+1	0	0		52	72	382	2	04	1		0		VOLNAY		Volnay		Bouloire	42	M
+1	0	0		52	72	384	1	07	1		0		VOUVRAY-SUR-LOIR		Vouvray-sur-Loir		Château-du-Loir	42	M
+1	0	0		82	74	014	2	10	1		1		ARACHES-LA-FRASSE		Arâches-la-Frasse		Cluses	10	M
+3				82	74	017			1	74077	1		ARCINE		Arcine			35	M
+1	0	0		82	74	077	3	15	1		0		CLARAFOND-ARCINE		Clarafond-Arcine		Frangy	10	M
+1	0	0		82	74	077	3	15	1		0		CLARAFOND-ARCINE		Clarafond-Arcine		Frangy	36	M
+1	0	0		82	74	106	4	34	1		0		DRAILLANT		Draillant		Thonon-les-Bains-Ouest	21	M
+3				82	74	125			1	74217	0		FERRIERES		Ferrières			35	M
+1	0	0		82	74	217	1	30	1		0		PRINGY		Pringy		Annecy-le-Vieux	36	M
+1	1	0		82	74	220	3	16	1		0		REIGNIER-ESERY		Reignier-Ésery		Reignier-Ésery	10	M
+2				23	76	095			1	76108	0		BIHOREL		Bihorel			33	M
+1	1	0		23	76	108	3	60	1		0		BOIS-GUILLAUME - BIHOREL		Bois-Guillaume - Bihorel		Bois-Guillaume - Bihorel	11	M
+1	1	0		23	76	108	3	60	1		0		BOIS-GUILLAUME - BIHOREL		Bois-Guillaume - Bihorel		Bois-Guillaume - Bihorel	34	M
+1	0	0		23	76	167	2	37	1		0		CAUVILLE-SUR-MER		Cauville-sur-Mer		Montivilliers	10	M
+1	0	0		11	77	030	3	26	1		0		BELLOT		Bellot		Rebais	42	M
+1	0	0		11	77	031	3	27	1		0		BERNAY-VILBERT		Bernay-Vilbert		Rozay-en-Brie	42	M
+1	0	0		11	77	043	3	26	1		0		BOITRON		Boitron		Rebais	42	M
+1	0	0		11	77	087	3	27	1		3	(LA)	CHAPELLE-IGER	(La)	Chapelle-Iger		Rozay-en-Brie	42	M
+1	0	0		11	77	091	3	27	1		4	(LES)	CHAPELLES-BOURBON	(Les)	Chapelles-Bourbon		Rozay-en-Brie	42	M
+1	0	0		11	77	106	3	26	1		0		CHAUFFRY		Chauffry		Rebais	42	M
+1	0	0		11	77	135	3	27	1		0		COURPALAY		Courpalay		Rozay-en-Brie	42	M
+1	0	0		11	77	144	3	27	1		0		CREVECOEUR-EN-BRIE		Crèvecœur-en-Brie		Rozay-en-Brie	42	M
+1	0	0		11	77	154	3	27	1		0		DAMMARTIN-SUR-TIGEAUX		Dammartin-sur-Tigeaux		Rozay-en-Brie	42	M
+1	0	0		11	77	162	3	26	1		0		DOUE		Doue		Rebais	42	M
+1	0	0		11	77	192	3	27	1		0		FONTENAY-TRESIGNY		Fontenay-Trésigny		Rozay-en-Brie	42	M
+1	0	0		11	77	224	3	27	1		1		HAUTEFEUILLE		Hautefeuille		Rozay-en-Brie	42	M
+1	0	0		11	77	228	3	26	1		1		HONDEVILLIERS		Hondevilliers		Rebais	42	M
+1	0	0		11	77	229	3	27	1		3	(LA)	HOUSSAYE-EN-BRIE	(La)	Houssaye-en-Brie		Rozay-en-Brie	42	M
+1	0	0		11	77	264	3	27	1		0		LUMIGNY-NESLES-ORMEAUX		Lumigny-Nesles-Ormeaux		Rozay-en-Brie	42	M
+1	0	0		11	77	277	3	27	1		0		MARLES-EN-BRIE		Marles-en-Brie		Rozay-en-Brie	42	M
+1	0	0		11	77	303	3	26	1		0		MONTDAUPHIN		Montdauphin		Rebais	42	M
+1	0	0		11	77	304	3	26	1		0		MONTENILS		Montenils		Rebais	42	M
+1	0	0		11	77	318	3	27	1		0		MORTCERF		Mortcerf		Rozay-en-Brie	42	M
+1	0	0		11	77	336	3	27	1		0		NEUFMOUTIERS-EN-BRIE		Neufmoutiers-en-Brie		Rozay-en-Brie	42	M
+1	0	0		11	77	345	3	26	1		1		ORLY-SUR-MORIN		Orly-sur-Morin		Rebais	42	M
+1	0	0		11	77	360	3	27	1		0		PEZARCHES		Pézarches		Rozay-en-Brie	42	M
+1	0	0		11	77	365	3	27	1		2	(LE)	PLESSIS-FEU-AUSSOUX	(Le)	Plessis-Feu-Aussoux		Rozay-en-Brie	42	M
+1	1	0		11	77	385	3	26	1		0		REBAIS		Rebais		Rebais	42	M
+1	1	0		11	77	393	3	27	1		0		ROZAY-EN-BRIE		Rozay-en-Brie		Rozay-en-Brie	42	M
+1	0	0		11	77	398	3	26	1		0		SABLONNIERES		Sablonnières		Rebais	42	M
+1	0	0		11	77	405	3	26	1		0		SAINT-CYR-SUR-MORIN		Saint-Cyr-sur-Morin		Rebais	42	M
+1	0	0		11	77	406	3	26	1		0		SAINT-DENIS-LES-REBAIS		Saint-Denis-lès-Rebais		Rebais	42	M
+1	0	0		11	77	411	3	26	1		0		SAINT-GERMAIN-SOUS-DOUE		Saint-Germain-sous-Doue		Rebais	42	M
+1	0	0		11	77	417	3	26	1		0		SAINT-LEGER		Saint-Léger		Rebais	42	M
+1	0	0		11	77	429	3	26	1		0		SAINT-OUEN-SUR-MORIN		Saint-Ouen-sur-Morin		Rebais	42	M
+1	0	0		11	77	466	3	27	1		0		TIGEAUX		Tigeaux		Rozay-en-Brie	42	M
+1	0	0		11	77	469	3	27	1		0		TOUQUIN		Touquin		Rozay-en-Brie	42	M
+1	0	0		11	77	472	3	26	1		3	(LA)	TRETOIRE	(La)	Trétoire		Rebais	42	M
+1	0	0		11	77	486	3	27	1		0		VAUDOY-EN-BRIE		Vaudoy-en-Brie		Rozay-en-Brie	42	M
+1	0	0		11	77	492	3	26	1		0		VERDELOT		Verdelot		Rebais	42	M
+1	0	0		11	77	508	3	27	1		0		VILLENEUVE-LE-COMTE		Villeneuve-le-Comte		Rozay-en-Brie	42	M
+1	0	0		11	77	510	3	27	1		0		VILLENEUVE-SAINT-DENIS		Villeneuve-Saint-Denis		Rozay-en-Brie	42	M
+1	0	0		11	77	512	3	26	1		0		VILLENEUVE-SUR-BELLOT		Villeneuve-sur-Bellot		Rebais	42	M
+1	0	0		11	77	527	3	27	1		0		VOINSLES		Voinsles		Rozay-en-Brie	42	M
+1	0	0		11	78	193	2	05	1		0		DAMPIERRE-EN-YVELINES		Dampierre-en-Yvelines		Chevreuse	36	M
+3				11	78	357			1	78193	0		MAINCOURT-SUR-YVETTE		Maincourt-sur-Yvette			35	M
+1	1	0		11	78	401	1	14	1		0		MEULAN-EN-YVELINES		Meulan-en-Yvelines		Meulan-en-Yvelines	10	M
+1	1	0		54	79	013	1	02	1		1		ARGENTON-LES-VALLEES		Argenton-les-Vallées		Argenton-les-Vallées	11	M
+1	1	0		54	79	013	1	02	1		1		ARGENTON-LES-VALLEES		Argenton-les-Vallées		Argenton-les-Vallées	32	M
+3				54	79	017			1	79195	4	(LES)	AUBIERS	(Les)	Aubiers			31	M
+1	1	0		54	79	031	2	03	1		0		BEAUVOIR-SUR-NIORT		Beauvoir-sur-Niort		Beauvoir-sur-Niort	36	M
+3				54	79	037			1	79013	0		BOESSE		Boësse			31	M
+1	0	0		54	79	091	1	07	1		0		CIRIERES		Cirières		Cerizay	10	M
+3				54	79	097			1	79031	2	(LE)	CORMENIER	(Le)	Cormenier			35	M
+1	0	0		54	79	195	1	09	1		0		NUEIL-LES-AUBIERS		Nueil-les-Aubiers		Mauléon	11	M
+1	0	0		54	79	195	1	09	1		0		NUEIL-LES-AUBIERS		Nueil-les-Aubiers		Mauléon	32	M
+3				54	79	227			1	79031	3	(LA)	REVETIZON	(La)	Revêtizon			35	M
+3				54	79	305			1	79013	0		SANZAY		Sanzay			31	M
+1	0	0		54	79	328	2	03	1		0		THORIGNY-SUR-LE-MIGNON		Thorigny-sur-le-Mignon		Beauvoir-sur-Niort	10	M
+1	0	0		54	79	337	2	12	1		2	(LE)	VANNEAU-IRLEAU	(Le)	Vanneau-Irleau		Frontenay-Rohan-Rohan	10	M
+1	0	0		22	80	022	1	32	1		1		ANDAINVILLE		Andainville		Oisemont	42	M
+1	0	0		22	80	040	1	32	1		1		AUMATRE		Aumâtre		Oisemont	42	M
+1	0	0		22	80	048	1	32	1		1		AVESNES-CHAUSSOY		Avesnes-Chaussoy		Oisemont	42	M
+1	0	0		22	80	084	1	32	1		0		BERMESNIL		Bermesnil		Oisemont	42	M
+1	0	0		22	80	169	1	32	1		0		CANNESSIERES		Cannessières		Oisemont	42	M
+1	0	0		22	80	269	1	32	1		1		EPAUMESNIL		Épaumesnil		Oisemont	42	M
+1	0	0		22	80	297	1	32	1		1		ETREJUST		Étréjust		Oisemont	42	M
+3				22	80	309			1	80566	0		FIEFFES		Fieffes			35	M
+1	0	0		22	80	324	1	32	1		0		FONTAINE-LE-SEC		Fontaine-le-Sec		Oisemont	42	M
+1	0	0		22	80	330	1	32	1		0		FORCEVILLE-EN-VIMEU		Forceville-en-Vimeu		Oisemont	42	M
+1	0	0		22	80	336	1	32	1		0		FOUCAUCOURT-HORS-NESLE		Foucaucourt-Hors-Nesle		Oisemont	42	M
+1	0	0		22	80	354	1	32	1		0		FRESNES-TILLOLOY		Fresnes-Tilloloy		Oisemont	42	M
+1	0	0		22	80	355	1	32	1		0		FRESNEVILLE		Fresneville		Oisemont	42	M
+1	0	0		22	80	356	1	32	1		0		FRESNOY-ANDAINVILLE		Fresnoy-Andainville		Oisemont	42	M
+1	0	0		22	80	361	1	32	1		0		FRETTECUISSE		Frettecuisse		Oisemont	42	M
+1	0	0		22	80	369	2	12	1		0		FROHEN-SUR-AUTHIE		Frohen-sur-Authie		Bernaville	11	M
+1	0	0		22	80	369	2	12	1		0		FROHEN-SUR-AUTHIE		Frohen-sur-Authie		Bernaville	32	M
+3				22	80	370			1	80369	0		FROHEN-LE-PETIT		Frohen-le-Petit			31	M
+1	0	0		22	80	437	1	32	1		1		HEUCOURT-CROQUOISON		Heucourt-Croquoison		Oisemont	42	M
+1	0	0		22	80	450	1	32	1		1		INVAL-BOIRON		Inval-Boiron		Oisemont	42	M
+1	0	0		22	80	480	1	32	1		0		LIGNIERES-EN-VIMEU		Lignières-en-Vimeu		Oisemont	42	M
+1	0	0		22	80	522	1	32	1		2	(LE)	MAZIS	(Le)	Mazis		Oisemont	42	M
+1	0	0		22	80	566	2	20	1		0		FIEFFES-MONTRELET		Fieffes-Montrelet		Domart-en-Ponthieu	36	M
+1	0	0		22	80	575	1	32	1		0		MOUFLIERES		Mouflières		Oisemont	42	M
+1	0	0		22	80	586	1	32	1		0		NESLE-L'HOPITAL		Nesle-l'Hôpital		Oisemont	42	M
+1	0	0		22	80	587	1	32	1		0		NESLETTE		Neslette		Oisemont	42	M
+1	0	0		22	80	591	1	32	1		0		NEUVILLE-AU-BOIS		Neuville-au-Bois		Oisemont	42	M
+1	0	0		22	80	592	1	32	1		0		NEUVILLE-COPPEGUEULE		Neuville-Coppegueule		Oisemont	42	M
+1	1	0		22	80	606	1	32	1		1		OISEMONT		Oisemont		Oisemont	42	M
+1	0	0		22	80	699	1	32	1		0		SAINT-AUBIN-RIVIERE		Saint-Aubin-Rivière		Oisemont	42	M
+1	0	0		22	80	707	1	32	1		0		SAINT-LEGER-SUR-BRESLE		Saint-Léger-sur-Bresle		Oisemont	42	M
+1	0	0		22	80	709	1	32	1		0		SAINT-MAULVIS		Saint-Maulvis		Oisemont	42	M
+1	0	0		22	80	732	1	32	1		0		SENARPONT		Senarpont		Oisemont	42	M
+1	0	0		22	80	788	1	32	1		0		VERGIES		Vergies		Oisemont	42	M
+1	0	0		22	80	796	1	32	1		0		VILLEROY		Villeroy		Oisemont	42	M
+1	0	0		22	80	828	1	32	1		0		WOIREL		Woirel		Oisemont	42	M
+3				73	81	107			1	81132	0		GUITALENS		Guitalens			31	M
+1	0	0		73	81	132	2	35	1		0		GUITALENS-L'ALBAREDE		Guitalens-L'Albarède		Vielmur-sur-Agout	11	M
+1	0	0		73	81	132	2	35	1		0		GUITALENS-L'ALBAREDE		Guitalens-L'Albarède		Vielmur-sur-Agout	32	M
+1	0	0		73	81	217	1	07	1		0		PUYCELSI		Puycelsi		Castelnau-de-Montmiral	10	M
+1	0	0		93	83	094	1	14	1		2	(LE)	PLAN-DE-LA-TOUR	(Le)	Plan-de-la-Tour		Grimaud	10	M
+1	0	0		52	85	036	2	13	1		3	(LA)	BRETONNIERE-LA-CLAYE	(La)	Bretonnière-la-Claye		Mareuil-sur-Lay-Dissais	11	M
+1	0	0		52	85	036	2	13	1		3	(LA)	BRETONNIERE-LA-CLAYE	(La)	Bretonnière-la-Claye		Mareuil-sur-Lay-Dissais	34	M
+2				52	85	068			1	85036	3	(LA)	CLAYE	(La)	Claye			33	M
+1	0	0		52	85	243	3	26	1		0		BREM-SUR-MER		Brem-sur-Mer		Saint-Gilles-Croix-de-Vie	36	M
+3				52	85	258			1	85243	0		SAINT-NICOLAS-DE-BREM		Saint-Nicolas-de-Brem			35	M
+6	1	1	3	41	88	413	3	24	0		0		SAINT-DIE-DES-VOSGES		Saint-Dié-des-Vosges		Saint-Dié-des-Vosges-Est	10	M
+6	1	1	3	41	88	413	3	31	0		0		SAINT-DIE-DES-VOSGES		Saint-Dié-des-Vosges		Saint-Dié-des-Vosges-Ouest	10	M
+1	2	2	3	41	88	413	3	98	1		0		SAINT-DIE-DES-VOSGES		Saint-Dié-des-Vosges		Canton non précisé	10	M
+1	0	0		26	89	288	1	07	1		0		PAROY-EN-OTHE		Paroy-en-Othe		Brienon-sur-Armançon	21	M
+1	0	0		26	89	326	3	40	1		0		ROSOY		Rosoy		Sens-Sud-Est	21	M
+1	0	0		26	89	431	2	17	1		0		VASSY-SOUS-PISY		Vassy-sous-Pisy		Guillon	10	M
+1	0	0		11	95	019	2	35	1		1		ARNOUVILLE		Arnouville		Villiers-le-Bel	10	M
+1	1	0		11	95	428	2	18	1		0		MONTMORENCY		Montmorency		Montmorency	52	M
+6	1	1	3	11	95	585	2	23	0		0		SARCELLES		Sarcelles		Sarcelles-Nord-Est	52	M
+6	1	1	3	11	95	585	2	33	0		0		SARCELLES		Sarcelles		Sarcelles-Sud-Ouest	52	M
+1	2	2	3	11	95	585	2	98	1		0		SARCELLES		Sarcelles		Canton non précisé	52	M
+1	1	0		04	974	01	2	01	1		4	(LES)	AVIRONS	(Les)	Avirons	(Les)	Avirons	42	M
+1	1	0		04	974	04	2	04	1		5	(L')	ETANG-SALE	(L')	Étang-Salé	(L')	Étang-Salé	42	M
+6	1	1	3	04	974	07	4	07	0		2	(LE)	PORT	(Le)	Port	(Le)	Port 1er Canton Nord	42	M
+6	1	1	3	04	974	07	4	37	0		2	(LE)	PORT	(Le)	Port	(Le)	Port 2e  Canton Sud	42	M
+1	1	2	3	04	974	07	4	91	1		2	(LE)	PORT	(Le)	Port		Canton non précisé	42	M
+1	1	0		04	974	08	4	08	1		3	(LA)	POSSESSION	(La)	Possession	(La)	Possession	42	M
