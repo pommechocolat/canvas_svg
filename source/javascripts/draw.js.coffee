@@ -1,5 +1,5 @@
 pere = new NoeudVisu
-fils = new NoeudVisu(130, 130, "#F66", 50, 50)
+fils = new NoeudVisu(155, 155, "#F66", 50, 50)
 
 lg = new ArreteVisu(pere, fils)
 lg.drawCanvas(document.getElementById('canvas'))
