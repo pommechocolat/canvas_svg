@@ -4,14 +4,15 @@ ligne = new ArreteVisu(pere, fils)
 
 
 # Canvas
-ligne.drawCanvas(document.getElementById('canvas'))
+canvas = document.getElementById('canvas')
+ligne.drawCanvas(canvas)
 
-pere.drawCanvas(document.getElementById('canvas'))
-fils.drawCanvas(document.getElementById('canvas'))
+pere.drawCanvas(canvas)
+fils.drawCanvas(canvas)
 
 # SVG
-ligne.drawSvg(document.getElementById('ligne1_svg'))
-
-pere.drawSvg(document.getElementById('rectangle1_svg'))
-fils.drawSvg(document.getElementById('rectangle2_svg'))
+svg = document.getElementById('svg')
+ligne.drawSvg(svg)
+pere.drawSvg(svg)
+fils.drawSvg(svg)
 

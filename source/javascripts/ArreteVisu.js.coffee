@@ -12,10 +12,12 @@ class @ArreteVisu
     contexte.lineTo(@noeud2.getCenterX(), @noeud2.getCenterY())
     contexte.stroke();
 
-  drawSvg: (lineSvg) ->
-    lineSvg.setAttribute('x1', @noeud1.getCenterX())
-    lineSvg.setAttribute('y1', @noeud1.getCenterY())
-    lineSvg.setAttribute('x2', @noeud2.getCenterX())
-    lineSvg.setAttribute('y2', @noeud2.getCenterY())
-    lineSvg.setAttribute('stroke', @lineColor)
-    lineSvg.setAttribute('stroke-width', @lineWidth)
+  drawSvg: (svg) ->
+    lineSvg = document.createElementNS('http://www.w3.org/2000/svg','line')
+    svg.appendChild(lineSvg)
+    lineSvg.setAttributeNS(null, 'x1', @noeud1.getCenterX())
+    lineSvg.setAttributeNS(null, 'y1', @noeud1.getCenterY())
+    lineSvg.setAttributeNS(null, 'x2', @noeud2.getCenterX())
+    lineSvg.setAttributeNS(null, 'y2', @noeud2.getCenterY())
+    lineSvg.setAttributeNS(null, 'stroke', @lineColor)
+    lineSvg.setAttributeNS(null, 'stroke-width', @lineWidth)

@@ -14,11 +14,6 @@
     %h1
       SVG
     %svg{:id => "svg", :width => "400", :height => "300"}
-      %line#ligne1_svg
-      %rect#rectangle1_svg
-      %rect#rectangle2_svg
-  -# %script{:src => "javascripts/all.js"}
-  -# "GraphVisu"
   -# il faut mettre la définition des class, méthodes et fonctions avant leur appel !! draw devra donc être en dernier.
   = javascript_include_tag "NoeudVisu", "ArreteVisu", "draw"
   

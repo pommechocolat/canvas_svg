@@ -7,11 +7,14 @@ class @NoeudVisu
     contexte.fillStyle = @backgroundColor
     contexte.fillRect(@top(), @left(), @height, @width);
 
-  drawSvg: (recSvg) ->
-    recSvg.setAttribute('width', @width)
-    recSvg.setAttribute('height', @height)
-    recSvg.setAttribute('x', @left())
-    recSvg.setAttribute('y', @top())
+  drawSvg: (svg) ->
+    recSvg= document.createElementNS('http://www.w3.org/2000/svg','rect')
+    svg.appendChild(recSvg)
+    #svg.insertBefore(lineSvg, first)
+    recSvg.setAttributeNS(null, 'width', @width)
+    recSvg.setAttributeNS(null, 'height', @height)
+    recSvg.setAttributeNS(null, 'x', @left())
+    recSvg.setAttributeNS(null, 'y', @top())
     recSvg.style.fill = @backgroundColor
 
   getCenterX: ->
