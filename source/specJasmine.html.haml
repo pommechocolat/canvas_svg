@@ -9,25 +9,5 @@
     = javascript_include_tag "spec/jasmine", "spec/jasmine-html"
     = javascript_include_tag "Player.js", "Song.js"
     = javascript_include_tag "spec/SpecHelper.js", "spec/PlayerSpec.js"
-    -# = javascript_include_tag "spec/jasmineRun"
-    %script{:type => "text/javascript"}
-      (function() {
-      var jasmineEnv = jasmine.getEnv();
-      jasmineEnv.updateInterval = 1000;
-      var htmlReporter = new jasmine.HtmlReporter();
-      jasmineEnv.addReporter(htmlReporter);
-      jasmineEnv.specFilter = function(spec) {
-      return htmlReporter.specFilter(spec);
-      };
-      var currentWindowOnload = window.onload;
-      window.onload = function() {
-      if (currentWindowOnload) {
-      currentWindowOnload();
-      }
-      execJasmine();
-      };
-      function execJasmine() {
-      jasmineEnv.execute();
-      }
-      })();
+    = javascript_include_tag "spec/lancementJasmine"
   %body
