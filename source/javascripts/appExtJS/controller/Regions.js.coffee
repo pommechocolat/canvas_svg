@@ -4,10 +4,17 @@ Ext.define('AM.controller.Regions'
   views: ['vueListeRegions'] #charge le fichier présent dans le dossier view
   
   init: ->
-    #@control(
-    #  'viewport > panel': 
-    #   render: @onPanelRendered
-    #)
+    @control(
+      #'viewport > panel': 
+      # render: @onPanelRendered
+      'listeRegions':
+        itemdblclick: @editRegion
+    )
+    null
   #onPanelRendered: ->
   #  console.log('le Panel a été affiché')
+  #  null
+  editRegion: (grid, record)->
+    console.log('Double click sur '+record.get('NCCENR'))
+    null
 )
