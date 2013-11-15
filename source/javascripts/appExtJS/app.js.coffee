@@ -7,9 +7,9 @@ Ext.application(
     Ext.create('Ext.container.Viewport'
       layout: 'fit',
       items: [
-        xtype: 'panel'
-        title: 'Régions'
-        html: 'la liste des régions va s\'afficher ici'
+        xtype: 'listeRegions'
+        #title: 'Régions'
+        #html: 'la liste des régions va s\'afficher ici'
       ]
     )
 )

@@ -1,5 +1,8 @@
 Ext.define('AM.controller.Regions'
   extend: Ext.app.Controller
+  
+  views: ['vueListeRegions'] #charge le fichier présent dans le dossier view
+  
   init: ->
     @control(
       'viewport > panel': 
