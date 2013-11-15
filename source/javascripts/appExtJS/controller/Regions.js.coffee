@@ -1,7 +1,7 @@
 Ext.define('AM.controller.Regions'
   extend: 'Ext.app.Controller'
   stores: ['storeRegions'] #charge le magasin depuis le dossier store.
-  views: ['vueListeRegions'] #charge le fichier présent dans le dossier view
+  views: ['vueListeRegions', 'formEditRegion'] #charge le fichier présent dans le dossier view
   
   init: ->
     @control(
@@ -16,5 +16,6 @@ Ext.define('AM.controller.Regions'
   #  null
   editRegion: (grid, record)->
     console.log('Double click sur '+record.get('NCCENR'))
-    null
+    view = Ext.widget('editRegion')
+    view.down('form').loadRecord(record)
 )
