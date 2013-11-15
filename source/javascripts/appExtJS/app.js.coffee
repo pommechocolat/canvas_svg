@@ -8,8 +8,6 @@ Ext.application(
       layout: 'fit',
       items: [
         xtype: 'listeRegions'
-        #title: 'Régions'
-        #html: 'la liste des régions va s\'afficher ici'
       ]
     )
 )
