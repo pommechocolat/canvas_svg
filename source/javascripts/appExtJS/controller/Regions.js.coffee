@@ -28,4 +28,5 @@ Ext.define('AM.controller.Regions'
     values = form.getValues()
     record.set(values)
     win.close()
+    @getStoreRegionsStore().sync()
 )

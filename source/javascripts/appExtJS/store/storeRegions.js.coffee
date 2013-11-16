@@ -4,7 +4,9 @@ Ext.define('AM.store.storeRegions'
   autoLoad: true
   proxy:
     type: 'ajax'
-    url: 'data/dataRegion.json'
+    api:
+      read: 'data/dataRegion.json'
+      update: 'data/updateRegion.json'
     reader:
       type: 'json'
       root: 'Regions'
