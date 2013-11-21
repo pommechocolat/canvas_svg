@@ -3,11 +3,13 @@ Ext.define('AM.store.storeRegions'
   fields: ['region', 'NCCENR', 'chefLieu', 'TNCC']
   autoLoad: true
   proxy:
-    type: 'ajax'
+    type: 'jsonp'
     api:
-      read: 'data/dataRegion.json'
-      update: 'data/updateRegion.json'
+      read: "http://localhost/~metzger9/testPHP/connecteurMySQL.php"
+      update: "http://localhost/~metzger9/testPHP/index.php"
     reader:
       type: 'json'
-      root: 'Regions'
+      root: 'results'
+    extraParams:
+      query: "select * from regions"
 )
