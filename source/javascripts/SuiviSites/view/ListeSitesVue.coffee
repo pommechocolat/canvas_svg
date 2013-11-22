@@ -1,7 +1,6 @@
-Ext.define('SSudl.view.vueListeRegions'
+Ext.define('SSudl.view.ListeSitesVue'
   extend: 'Ext.grid.Panel'
   alias: 'widget.listeSites'
-  console.log('creation grid')
   
   title: 'Touts les Sites web de l\'UL'
   #store: 'StoreSites'
