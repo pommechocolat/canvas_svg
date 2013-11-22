@@ -1,9 +1,9 @@
-Ext.define('AM.view.vueListeRegions'
+Ext.define('SAjlm.view.VueListeRegions'
   extend: 'Ext.grid.Panel'
   alias: 'widget.listeRegions'
   
   title: 'Toutes les régions'
-  store: 'storeRegions'
+  store: 'StoreRegions'
   
   initComponent: ->
     @columns = [

@@ -1,4 +1,4 @@
-Ext.define('AM.store.storeRegions'
+Ext.define('SAjlm.store.StoreRegions'
   extend: 'Ext.data.Store'
   fields: ['region', 'NCCENR', 'chefLieu', 'TNCC']
   autoLoad: true

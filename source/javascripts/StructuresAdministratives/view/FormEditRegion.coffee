@@ -1,4 +1,4 @@
-Ext.define('AM.view.formEditRegion'
+Ext.define('SAjlm.view.FormEditRegion'
   extend: 'Ext.window.Window'
   alias: 'widget.editRegion'
   title: 'Edition d\'une région'

@@ -1,9 +1,10 @@
 Ext.application(
   require: ['Ext.container.Viewport']
-  name: 'AM'
-  appFolder: 'javascripts/appExtJS'
-  controllers: [ 'Regions']
+  name: 'SAjlm'
+  appFolder: 'javascripts/StructuresAdministratives'
+  controllers: ['RegionsCtrl']
   launch: ->
+    console.log('launch app')
     Ext.create('Ext.container.Viewport'
       layout: 'fit',
       items: [
