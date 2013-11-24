@@ -9,10 +9,10 @@ describe "Basket class", ->
     test.basket.add(test.item2, 1)
     
 #    #describe "Test set 1", ->
-#  afterEach -> 
-#    test.basket = null
-#    test.item = null
-#    test.item2 = null
+  afterEach -> 
+    test.basket = null
+    test.item = null
+    test.item2 = null
     
   it "Should be able to add item to basket", ->
     priorCountVal = test.basket.distinctCount
