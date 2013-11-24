@@ -1,4 +1,4 @@
-Ext.define('SAjlm.view.VueListeRegions'
+Ext.define 'SAjlm.view.VueListeRegions',
   extend: 'Ext.grid.Panel'
   alias: 'widget.listeRegions'
   
@@ -24,4 +24,3 @@ Ext.define('SAjlm.view.VueListeRegions'
       flex: 1
     ]
     @callParent(arguments)
-)

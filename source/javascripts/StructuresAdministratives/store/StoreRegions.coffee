@@ -1,4 +1,4 @@
-Ext.define('SAjlm.store.StoreRegions'
+Ext.define 'SAjlm.store.StoreRegions',
   extend: 'Ext.data.Store'
   fields: ['region', 'NCCENR', 'chefLieu', 'TNCC']
   autoLoad: true
@@ -12,4 +12,4 @@ Ext.define('SAjlm.store.StoreRegions'
       root: 'results'
     extraParams:
       query: "select * from regions"
-)
+

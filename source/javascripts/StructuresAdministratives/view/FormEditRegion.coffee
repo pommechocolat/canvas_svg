@@ -1,4 +1,4 @@
-Ext.define('SAjlm.view.FormEditRegion'
+Ext.define 'SAjlm.view.FormEditRegion',
   extend: 'Ext.window.Window'
   alias: 'widget.editRegion'
   title: 'Edition d\'une région'
@@ -27,4 +27,3 @@ Ext.define('SAjlm.view.FormEditRegion'
       handler: @.close
     ]
     @callParent(arguments)
-)
