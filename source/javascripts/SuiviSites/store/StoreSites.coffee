@@ -1,10 +1,11 @@
-Ext.define('SSudl.store.storeRegions'
+Ext.define 'SSudl.store.StoreSites',
   extend: 'Ext.data.Store'
   fields: ['parent', 'supannTypeEntite', 'structure', 'Directeur', 'Statut', 'URL', 'techno', 'ServerAdmin', 'Alias', 'Commentaire', 'serveur', 'supannCodeEntite', 'Aspect_UL', 'urlEx', 'Techno', 'crdate', 'realisation']
+  groupField: 'supannTypeEntite'
   autoLoad: true
   proxy:
     type: "jsonp"
-    url: "http://localhost/~metzger9/extJS/index.php"
+    url: "http://localhost/~metzger9/canvas_svg/php/index.php"
     reader:
       type: 'json'
       root: 'results'
@@ -13,6 +14,6 @@ Ext.define('SSudl.store.storeRegions'
       from excel e 
       left join tx_waz_site t on t.sit_name=e.url and t.sit_under_control=1 
       left join (select p.supannCodeEntite as codePArent, s.supannCodeEntite, s.commentaire, s.supannTypeEntite, p.eduOrgLegalName as parent, s.eduOrgLegalName as structure from StructuresLDAP s join StructuresLDAP p on s.codeParent=p.supannCodeEntite) pp on pp.supannCodeEntite=e.code 
-      where url is not null order by e.URL"
+     where url is not null order by e.URL"
       
-)
+

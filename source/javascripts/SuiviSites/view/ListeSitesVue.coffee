@@ -1,48 +1,56 @@
-Ext.define('SSudl.view.ListeSitesVue'
+#groupingFeature = Ext.create 'Ext.grid.feature.Grouping',
+#  groupHeaderTpl: 'Group: {name} ({rows.length})',
+#  startCollapsed: true
+
+Ext.define 'SSudl.view.ListeSitesVue',
   extend: 'Ext.grid.Panel'
   alias: 'widget.listeSites'
   
   title: 'Touts les Sites web de l\'UL'
-  #store: 'StoreSites'
-  
-  initComponent: ->
-    console.log('init de la vue grid')
-    @columns = [
+  store: 'StoreSites'
+  viewConfig:
+    enableTextSelection: true
+#    startCollapsed: true   
+  features: [
+    ftype: 'grouping'
+    #ftype: 'groupingsummary'
+  ]
+  columns: [
       text: 'Parent'
       flex: 1
-      #dataIndex: 'parent'
+      dataIndex: 'parent'
       hidden: true
     ,
-      text: 'TypeStructure'
-      flex: 1
-      #dataIndex: 'supannTypeEntite'
+      text: 'Type Structure'
+      width: 70
+      dataIndex: 'supannTypeEntite'
       #hidden: true
     ,
       text: 'Nom structure (composante/labo)'
       flex: 1
-      #dataIndex: 'structure'
+      dataIndex: 'structure'
       #hidden: true
     ,
       text: 'Directeur'
-      #dataIndex: 'Directeur'
+      dataIndex: 'Directeur'
       width: 150
     ,
       text: 'Webmestre'
-      #dataIndex: 'ServerAdmin'
+      dataIndex: 'ServerAdmin'
       width: 150
       hidden: true
     ,
       text: 'Url'
-      #dataIndex: 'URL'
+      dataIndex: 'URL'
       width: 200
       renderer: (value) ->
         myURL = value
-        if value != null and value.indexOf " " <= 0
+        if value != null and value.indexOf(" ") <= 0
           myURL = '<a href="http://'+value+'" target="_blank">'+value+'</a>'
         return myURL
     ,
       text: 'Alias'
-      #dataIndex: 'Alias'
+      dataIndex: 'Alias'
       width: 200
       renderer: (value) ->
         retour = ''
@@ -54,7 +62,7 @@ Ext.define('SSudl.view.ListeSitesVue'
           return retour
     ,
       text: 'Statut URL UL'
-      #dataIndex: 'Statut'
+      dataIndex: 'Statut'
       width: 60
       renderer: (value, metaData) ->
         if value == 'ok'
@@ -68,20 +76,22 @@ Ext.define('SSudl.view.ListeSitesVue'
         return value
     ,
       text: "Etat Migration"
-      #dataIndex: 'Aspect_UL'
+      dataIndex: 'Aspect_UL'
       width: 150
     ,
-      text: 'date création'
-      #dataIndex: 'crdate'
+      text: 'Création'
+      dataIndex: 'crdate'
+      width: 60
     ,
-      text: 'date réalisation'
-      #dataIndex: 'realisation'
+      text: 'Réalisation'
+      dataIndex: 'realisation'
+      width: 60
     ,
       text: 'Hebergement'
-      #dataIndex: 'serveur'
+      dataIndex: 'serveur'
     ,
       text: 'Technologie'
-      #dataIndex: 'techno'
+      dataIndex: 'techno'
       width: 75
       renderer: (value) ->
         myTechno = value
@@ -90,28 +100,26 @@ Ext.define('SSudl.view.ListeSitesVue'
         return myTechno
     ,
       text: 'Commentaire'
-      #dataIndex: 'Commentaire'
+      dataIndex: 'Commentaire'
       flex: 1
       renderer: (value, metaData) ->
         metaData.style='white-space: pre-wrap'
         return value
     ,
       text: 'Code'
-      #dataIndex: 'supannCodeEntite'
+      dataIndex: 'supannCodeEntite'
       hidden: true
     ,
       text: 'AutreAlias'
-      #dataIndex: 'urlEx'
+      dataIndex: 'urlEx'
       hidden: true
       renderer: (value) ->
         myURL = value
-        if value != null and value.indexOf " " <= 0
+        if value != null and value.indexOf(" ") <= 0
           myURL = '<a href="http://'+value+'" target="_blank">'+value+'</a>'
         return myURL
     ,
       text: 'AutreThech'
-      #dataIndex: 'Techno'
-      hidden: true
-    ]
-    @callParent(arguments)
-)
+      dataIndex: 'Techno'
+      hidden: true  
+  ]

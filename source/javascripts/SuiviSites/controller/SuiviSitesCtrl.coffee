@@ -1,10 +1,10 @@
-Ext.define('SSudl.controller.SuiviSitesCtrl'
+Ext.define 'SSudl.controller.SuiviSitesCtrl',
   extend: 'Ext.app.Controller'
-  #stores: ['StoreSites'] #charge le magasin depuis le dossier store.
+  stores: ['StoreSites'] #charge le magasin depuis le dossier store.
   views: ['ListeSitesVue' ] #, 'FormEditSite'] #charge le fichier présent dans le dossier view
-  console.log('ctrl execution')
+  #console.log('ctrl execution')
   init: ->
-    console.log('init du controleur')
+    #console.log('init du controleur')
     @control(
       'viewport > panel':
         render: @onPanelRendered
@@ -17,4 +17,3 @@ Ext.define('SSudl.controller.SuiviSitesCtrl'
     console.log('Double click sur '+record.get('NCCENR'))
     view = Ext.widget('editRegion')
     view.down('form').loadRecord(record)
-)
