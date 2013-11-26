@@ -1,7 +1,7 @@
 Ext.define 'SSudl.controller.SuiviSitesCtrl',
   extend: 'Ext.app.Controller'
-  stores: ['StoreSites'] #charge le magasin depuis le dossier store.
-  views: ['ListeSitesVue' ] #, 'FormEditSite'] #charge le fichier présent dans le dossier view
+  stores: ['StoreCompLabo', 'StoreAutresSites'] #charge le magasin depuis le dossier store.
+  views: ['TabPanel', 'VueCompLabo', 'VueAutreSites' ] #, 'FormEditSite'] #charge le fichier présent dans le dossier view
   #console.log('ctrl execution')
   init: ->
     #console.log('init du controleur')

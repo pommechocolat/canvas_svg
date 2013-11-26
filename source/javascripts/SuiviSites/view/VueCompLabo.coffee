@@ -1,19 +1,17 @@
-#groupingFeature = Ext.create 'Ext.grid.feature.Grouping',
-#  groupHeaderTpl: 'Group: {name} ({rows.length})',
-#  startCollapsed: true
+groupingFeature = Ext.create 'Ext.grid.feature.Grouping',
+  groupHeaderTpl: '{columnName}: {name} ({rows.length})',
 
-Ext.define 'SSudl.view.ListeSitesVue',
+Ext.define 'SSudl.view.VueCompLabo',
   extend: 'Ext.grid.Panel'
-  alias: 'widget.listeSites'
+  alias: 'widget.listeCompLabo'
   
-  title: 'Touts les Sites web de l\'UL'
-  store: 'StoreSites'
+  #title: 'Touts les Sites web de l\'UL'
+  store: 'StoreCompLabo'
   viewConfig:
     enableTextSelection: true
-#    startCollapsed: true   
   features: [
-    ftype: 'grouping'
-    #ftype: 'groupingsummary'
+    #ftype: 'grouping'
+    groupingFeature
   ]
   columns: [
       text: 'Parent'
@@ -123,3 +121,7 @@ Ext.define 'SSudl.view.ListeSitesVue',
       dataIndex: 'Techno'
       hidden: true  
   ]
+  #initComponent: ->
+  #  console.log(@features[0])
+  #  @features[0].collapseAll()
+  #  #@callParent(arguments)

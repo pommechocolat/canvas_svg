@@ -8,9 +8,9 @@ Ext.application
     Ext.create 'Ext.container.Viewport',
       layout: 'fit',
       items: [
-        xtype: 'listeSites'
-      ,
-        xtype: 'panel'
-        title: 'tests'
-        html: 'test'
+        xtype: 'tab2'
+      #,
+      #  xtype: 'panel'
+      #  title: 'tests'
+      #  html: 'test'
       ]
