@@ -108,6 +108,10 @@ Ext.define 'SSudl.view.VueAutreSites',
       dataIndex: 'supannCodeEntite'
       hidden: true
     ,
+      text: 'Id Site'
+      dataIndex: 'id_site'
+      hidden: true
+    ,
       text: 'AutreAlias'
       dataIndex: 'urlEx'
       hidden: true

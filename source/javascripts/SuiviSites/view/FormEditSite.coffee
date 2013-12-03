@@ -1,8 +1,8 @@
-Ext.define('SSudl.view.formEditRegion'
+Ext.define('SSudl.view.FormEditSite'
   extend: 'Ext.window.Window'
   alias: 'widget.editSite'
   title: 'Edition d\'un site'
-  layout: 'fit'
+  #layout: 'fit'
   autoShow: true
   
   initComponent: ->
@@ -10,16 +10,28 @@ Ext.define('SSudl.view.formEditRegion'
       xtype: 'form'
       items: [
         xtype: 'textfield'
-        name: 'chefLieu'
-        fieldLabel: 'Préfecture'
+        name: 'Directeur'
+        fieldLabel: 'Directeur'
       ,
         xtype: 'textfield'
-        name: 'NCCENR'
-        fieldLabel: 'Nom'
+        name: 'realisation'
+        fieldLabel: 'Date de Réalisation'
+      ,
+        xtype: 'textfield'
+        name: 'Statut'
+        fieldLabel: 'Etat URL UL'
+      ,
+        xtype: 'textfield'
+        name: 'Aspect_UL'
+        fieldLabel: 'Etat migration site'
+      ,
+        xtype: 'textfield'
+        name: 'Commentaire'
+        fieldLabel: 'Commentaire'
       ]
     ]
     @buttons = [
-      text: 'Sauvegarde'
+      text: 'Modifier'
       action: 'Save'
     ,
       text: 'annuler'

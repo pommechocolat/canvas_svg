@@ -1,4 +1,4 @@
-<?
+<?php
   mysql_connect("localhost", "dn_un_web", "bCmphpjYh7SHtSfV") or die("Could not connect: " . mysql_error());
   mysql_select_db("dn_un_web");
   mysql_query("SET NAMES utf8");
