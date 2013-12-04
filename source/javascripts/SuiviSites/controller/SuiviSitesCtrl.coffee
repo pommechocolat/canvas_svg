@@ -33,7 +33,7 @@ Ext.define 'SSudl.controller.SuiviSitesCtrl',
     record.set(values)
     win.close()
     @getStoreCompLaboStore().sync()
-    nil
+    null
     #storeCompLabo = @getStoreCompLaboStore()
     #storeCompLabo.sync()
     #Ext.MessageBox.confirm 'confirm', 'Êtes vous sûr ?',
@@ -41,3 +41,7 @@ Ext.define 'SSudl.controller.SuiviSitesCtrl',
     #    console.log("Butt="+bouton)
         #console.log("Sotre="+storeCompLabo.name)
         #storeCompLabo.sync()
+    store = @getStoreCompLaboStore()
+    textDebug = moduleDebug.debug(store)
+    console.log(textDebug)
+      
