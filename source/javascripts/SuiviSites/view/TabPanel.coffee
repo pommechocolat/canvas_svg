@@ -14,5 +14,5 @@ Ext.define 'SSudl.view.TabPanel',
     autoEl:
       frameborder: 0
       tag: "iframe"
-      src: "http://num-app1.univ-lorraine.fr/DemandeSite/"
+      src: "http://num-app1.univ-lorraine.fr/DemandeSite/admin"
   ]

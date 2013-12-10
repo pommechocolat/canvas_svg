@@ -10,7 +10,7 @@
   mysql_connect("localhost", "dn_un_web", "bCmphpjYh7SHtSfV") or die("Could not connect: " . mysql_error());
   mysql_select_db("dn_un_web");
   mysql_query("SET NAMES utf8");
-  $update = "update sites_Excel set realisation='".$decodeRecord['realisation']."', Aspect_UL='".$decodeRecord['Aspect_UL']."', Statut='".$decodeRecord['Statut']."' where id_site='".$decodeRecord['id_site']."';";
+  $update = "update sites_Excel set realisation='".$decodeRecord['realisation']."', Aspect_UL='".$decodeRecord['Aspect_UL']."', Statut='".$decodeRecord['Statut']."', Commentaire='".$decodeRecord['Commentaire']."' where id_site='".$decodeRecord['id_site']."';";
   mysql_query($update);
 
   $arr['update']=$update;

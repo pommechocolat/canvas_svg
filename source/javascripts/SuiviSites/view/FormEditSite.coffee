@@ -2,7 +2,6 @@ Ext.define('SSudl.view.FormEditSite'
   extend: 'Ext.window.Window'
   alias: 'widget.editSite'
   title: 'Edition d\'un site'
-  #layout: 'fit'
   autoShow: true
   
   initComponent: ->

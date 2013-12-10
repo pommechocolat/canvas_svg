@@ -5,12 +5,10 @@ Ext.define 'SSudl.view.VueCompLabo',
   extend: 'Ext.grid.Panel'
   alias: 'widget.listeCompLabo'
   
-  #title: 'Touts les Sites web de l\'UL'
   store: 'StoreCompLabo'
   viewConfig:
     enableTextSelection: true
   features: [
-    #ftype: 'grouping'
     groupingFeature
   ]
   columns: [
@@ -22,12 +20,10 @@ Ext.define 'SSudl.view.VueCompLabo',
       text: 'Type Structure'
       width: 70
       dataIndex: 'supannTypeEntite'
-      #hidden: true
     ,
       text: 'Nom structure (composante/labo)'
       flex: 1
       dataIndex: 'structure'
-      #hidden: true
     ,
       text: 'Directeur'
       dataIndex: 'Directeur'
@@ -54,7 +50,6 @@ Ext.define 'SSudl.view.VueCompLabo',
         retour = ''
         if value
           alias = (JSON.parse value).Alias
-          #retour = alias.join ', '
           for item in alias
             retour = retour+'<a href="http://'+item+'" target="_blank">'+item+'</a></br>'
           return retour
@@ -124,8 +119,15 @@ Ext.define 'SSudl.view.VueCompLabo',
       text: 'AutreThech'
       dataIndex: 'Techno'
       hidden: true  
+    ,
+      text: 'Alias Domaines'
+      dataIndex: 'aliasDomaines'
+      hidden: true  
+      renderer: (value) ->
+        retour = ''
+        if value
+          alias = value.split ", "
+          for item in alias
+            retour = retour+'<a href="http://'+item+'" target="_blank">'+item+'</a></br>'
+          return retour
   ]
-  #initComponent: ->
-  #  console.log(@features[0])
-  #  @features[0].collapseAll()
-  #  #@callParent(arguments)

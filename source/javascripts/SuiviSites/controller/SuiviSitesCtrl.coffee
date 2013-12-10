@@ -11,25 +11,28 @@ Ext.define 'SSudl.controller.SuiviSitesCtrl',
       'listeAutres':
         itemdblclick: @editAutres
       'editSite button[action=Save]':
-         click: @updateRegion
-      
+         click: @updateSite
     )
   onPanelRendered: ->
    console.log('le Panel a été affiché')
   editCompLab: (grid, record)->
-    console.log('Double click sur '+record.get('supannCodeEntite'))
-    view = Ext.widget('editSite')
-    view.down('form').loadRecord(record)
+    @createVueForm('compLabo', record) 
   editAutres: (grid, record)->
-    console.log('Double click sur '+record)
+    @createVueForm('autres', record) 
+  createVueForm: (origine, record) ->
     view = Ext.widget('editSite')
+    view.down('form').jlmorig = origine
     view.down('form').loadRecord(record)
-  updateRegion: (button) ->
-    console.log('click sur le bouton Sauvegarder')
+  updateSite: (button) ->
     win = button.up('window')
     form = win.down('form')
     record = form.getRecord()
     values = form.getValues()
     record.set(values)
     win.close()
-    @getStoreCompLaboStore().sync()
+    if form.jlmorig=='autres'
+      console.log('MAJ autres')
+      @getStoreAutresSitesStore().sync()
+    else
+      console.log('MAJ CompLabo')
+      @getStoreCompLaboStore().sync()
