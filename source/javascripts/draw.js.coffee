@@ -1,3 +1,4 @@
+@rjlHyperTree = {}
 pere = new NoeudVisu
 fils = new NoeudVisu(155, 155, "#F66", 50, 50)
 ligne = new ArreteVisu(pere, fils)
