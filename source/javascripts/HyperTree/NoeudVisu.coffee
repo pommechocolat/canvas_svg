@@ -10,7 +10,6 @@ class rjlHyperTree.NoeudVisu
   drawSvg: (svg) ->
     recSvg= document.createElementNS('http://www.w3.org/2000/svg','rect')
     svg.appendChild(recSvg)
-    #svg.insertBefore(lineSvg, first)
     recSvg.setAttributeNS(null, 'width', @width)
     recSvg.setAttributeNS(null, 'height', @height)
     recSvg.setAttributeNS(null, 'x', @left())

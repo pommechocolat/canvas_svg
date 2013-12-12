@@ -16,3 +16,11 @@ ligne.drawSvg(svg)
 pere.drawSvg(svg)
 fils.drawSvg(svg)
 
+clickHandler = (e, message) -> 
+  alert message+" - "+e
+  alert moduleDebug.introspection(e)
+  console.log moduleDebug.debug(e)
+
+canvas.addEventListener "click", (e) => clickHandler(e, "click dans canvas")
+svg.addEventListener "click", (e) => clickHandler(e, "click dans svg")
+#addEventListener "click", (e) => clickHandler(e, "click dans la fenêtre")

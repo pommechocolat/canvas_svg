@@ -43,3 +43,9 @@ moduleDebug.debug = (obj, seen=null)->
         return (obj or 'null').toString() + printProps obj
     else
       console.log("type non traité : "+typeof obj)
+      
+moduleDebug.introspection = (obj) ->
+  text = 'type: '+typeof obj+' - '
+  for props, value of obj
+    text=text+props+" : "+value+' ; '
+  text
