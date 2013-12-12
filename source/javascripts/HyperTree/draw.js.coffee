@@ -1,7 +1,6 @@
-@rjlHyperTree = {}
-pere = new NoeudVisu
-fils = new NoeudVisu(155, 155, "#F66", 50, 50)
-ligne = new ArreteVisu(pere, fils)
+pere = new rjlHyperTree.NoeudVisu
+fils = new rjlHyperTree.NoeudVisu(155, 155, "#F66", 50, 50)
+ligne = new rjlHyperTree.ArreteVisu(pere, fils)
 
 
 # Canvas

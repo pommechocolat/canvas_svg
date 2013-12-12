@@ -1,4 +1,4 @@
-class @ArreteVisu
+class rjlHyperTree.ArreteVisu
 
   constructor: (@noeud1, @noeud2) ->
     @lineColor = "green"

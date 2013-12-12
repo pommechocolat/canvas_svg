@@ -1,4 +1,4 @@
-class @NoeudVisu
+class rjlHyperTree.NoeudVisu
   
   constructor: (@x=55, @y=55, @backgroundColor="#66F", @width=50, @height=50) ->
   
