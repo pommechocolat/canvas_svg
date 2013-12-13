@@ -2,8 +2,9 @@ Ext.define 'SSudl.controller.SuiviSitesCtrl',
   extend: 'Ext.app.Controller'
   stores: ['StoreCompLabo', 'StoreAutresSites'] #charge le magasin depuis le dossier store.
   views: ['TabPanel', 'VueCompLabo', 'VueAutreSites', 'FormEditSite'] #charge le fichier présent dans le dossier view
+  models: ['ModelSuiviSites']
   init: ->
-    @control(
+    @control
       'viewport > panel':
         render: @onPanelRendered
       'listeCompLabo':
@@ -12,7 +13,6 @@ Ext.define 'SSudl.controller.SuiviSitesCtrl',
         itemdblclick: @editAutres
       'editSite button[action=Save]':
          click: @updateSite
-    )
   onPanelRendered: ->
    console.log('le Panel a été affiché')
   editCompLab: (grid, record)->

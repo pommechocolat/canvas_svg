@@ -1,4 +1,4 @@
-Ext.define('SSudl.view.FormEditSite'
+Ext.define 'SSudl.view.FormEditSite',
   extend: 'Ext.window.Window'
   alias: 'widget.editSite'
   title: 'Edition d\'un site'
@@ -38,4 +38,3 @@ Ext.define('SSudl.view.FormEditSite'
       handler: @.close
     ]
     @callParent(arguments)
-)

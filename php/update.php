@@ -1,18 +1,28 @@
 <?php
   $nbEntree = 0;
-  #foreach($_REQUEST as $key => $value) {
-  #  $arr[$key]= $value;
-  #  $nbEntree++;
-  #}
-  $decodeRecord = json_decode(stripslashes($_REQUEST['records']), true);
-  $arr['decode']=$decodeRecord;
+  foreach($_REQUEST as $key => $value) {
+    //$arr[$key] = $value;
+    $nbEntree++;
+  }
+  $requestRecords = $_REQUEST['records'];
+  $arr['recordBrute'] = $requestRecords;
+  
+  if (get_magic_quotes_gpc()) {
+    $arr['magic'] = 'yes';
+    $arr['decodeRecor'] = stripslashes($requestRecords);
+  } else {
+    $arr['magic'] = 'no';
+    $arr['decodeRecor'] = $requestRecords;
+  }
+  $decodeRecord = json_decode($arr['decodeRecor'], true);
+  $arr['decode'] = $decodeRecord;
 
-  mysql_connect("localhost", "dn_un_web", "bCmphpjYh7SHtSfV") or die("Could not connect: " . mysql_error());
+  mysql_connect("localhost", "dn_un_web", "bCmphpjYh7SHtSfV") or die("Could not connect: " . mysql_error());  
   mysql_select_db("dn_un_web");
   mysql_query("SET NAMES utf8");
   $update = "update sites_Excel set realisation='".$decodeRecord['realisation']."', Aspect_UL='".$decodeRecord['Aspect_UL']."', Statut='".$decodeRecord['Statut']."', Commentaire='".$decodeRecord['Commentaire']."' where id_site='".$decodeRecord['id_site']."';";
   mysql_query($update);
-
+  
   $arr['update']=$update;
 
   send($arr, $nbEntree);

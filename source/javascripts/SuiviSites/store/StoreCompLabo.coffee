@@ -1,6 +1,6 @@
 Ext.define 'SSudl.store.StoreCompLabo',
   extend: 'Ext.data.Store'
-  fields: ['parent', 'supannTypeEntite', 'structure', 'Directeur', 'Statut', 'URL', 'techno', 'ServerAdmin', 'Alias', 'Commentaire', 'serveur', 'supannCodeEntite', 'Aspect_UL', 'urlEx', 'Techno', 'crdate', 'realisation', 'id_site', 'aliasDomaines']
+  model: 'SSudl.model.ModelSuiviSites'
   groupField: 'supannTypeEntite'
   autoLoad: true
   proxy:
