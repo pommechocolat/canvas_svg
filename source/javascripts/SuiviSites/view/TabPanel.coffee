@@ -15,4 +15,11 @@ Ext.define 'SSudl.view.TabPanel',
       frameborder: 0
       tag: "iframe"
       src: "http://num-app1.univ-lorraine.fr/DemandeSite/admin"
+  ,
+    title: 'Web Admin Zone (WAZ)'
+    xtype : "component"
+    autoEl:
+      frameborder: 0
+      tag: "iframe"
+      src: "https://websites.univ-lorraine.fr/index.php?id=24"
   ]
