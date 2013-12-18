@@ -22,4 +22,7 @@ Ext.define 'SSudl.view.TabPanel',
       frameborder: 0
       tag: "iframe"
       src: "https://websites.univ-lorraine.fr/index.php?id=24"
+  , 
+    title: 'Ajouter site'
+    xtype: 'addSite'
   ]
