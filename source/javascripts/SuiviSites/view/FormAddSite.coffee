@@ -2,7 +2,7 @@ Ext.define 'SSudl.view.FormAddSite',
   extend: 'Ext.form.Panel'
   alias: 'widget.addSite'
   
-  #store: 'StoreAddSite'
+  store: 'StoreAddSite'
   layout: 'anchor',
   defaults:
     anchor: '100%'

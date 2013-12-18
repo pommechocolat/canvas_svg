@@ -1,6 +1,6 @@
 Ext.define 'SSudl.controller.SuiviSitesCtrl',
   extend: 'Ext.app.Controller'
-  stores: ['StoreCompLabo', 'StoreAutresSites'] #charge le magasin depuis le dossier store.
+  stores: ['StoreCompLabo', 'StoreAutresSites', 'StoreAddSite'] #charge le magasin depuis le dossier store.
   views: ['TabPanel', 'VueCompLabo', 'VueAutreSites', 'FormEditSite', 'FormAddSite'] #charge le fichier présent dans le dossier view
   models: ['ModelSuiviSites']
   init: ->
@@ -31,6 +31,7 @@ Ext.define 'SSudl.controller.SuiviSitesCtrl',
     record = form.getRecord()
     values = form.getValues()
     record.set(values)
+    console.log(moduleDebug.debug(form))
     win.close()
     if form.jlmorig=='autres'
       console.log('MAJ autres')
@@ -40,5 +41,10 @@ Ext.define 'SSudl.controller.SuiviSitesCtrl',
       @getStoreCompLaboStore().sync()
   addSite: (button) ->
     console.log('Ajout d\'un site')
-    console.log(moduleDebug.debug(button.container))
+    form = button.up('form')
+    record = form.getRecord()
+    values = form.getValues()
+    #record.set(values)
+    console.log(moduleDebug.debug(values))
+
     
