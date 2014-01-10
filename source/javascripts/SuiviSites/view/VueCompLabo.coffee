@@ -134,8 +134,8 @@ Ext.define 'SSudl.view.VueCompLabo',
       hidden: true
     ,
       text: 'Commentaire'
+      width: 250
       dataIndex: 'Commentaire'
-      flex: 1
       renderer: (value, metaData) ->
         metaData.style='white-space: pre-wrap'
         return value
