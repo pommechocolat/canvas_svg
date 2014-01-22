@@ -132,3 +132,7 @@ Ext.define 'SSudl.view.VueAutreSites',
             retour = retour+'<a href="http://'+item+'" target="_blank">'+item+'</a></br>'
           return retour
   ]
+  initComponent: ->
+    console.log('on initialise la vue Autre')
+    console.log(@store)
+    @callParent(arguments)

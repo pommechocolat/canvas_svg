@@ -1,9 +1,10 @@
 Ext.define 'SSudl.controller.SuiviSitesCtrl',
   extend: 'Ext.app.Controller'
-  stores: ['StoreCompLabo', 'StoreAutresSites'] #charge le magasin depuis le dossier store.
-  views: ['TabPanel', 'VueCompLabo', 'VueAutreSites', 'FormEditSite'] #charge le fichier présent dans le dossier view
+  stores: ['StoreCompLabo', 'StoreAutresSites', 'StoreAddSite'] #charge le magasin depuis le dossier store.
+  views: ['TabPanel', 'VueCompLabo', 'VueAutreSites', 'FormEditSite', 'FormAddSite'] #charge le fichier présent dans le dossier view
+  models: ['ModelSuiviSites']
   init: ->
-    @control(
+    @control
       'viewport > panel':
         render: @onPanelRendered
       'listeCompLabo':
@@ -12,7 +13,8 @@ Ext.define 'SSudl.controller.SuiviSitesCtrl',
         itemdblclick: @editAutres
       'editSite button[action=Save]':
          click: @updateSite
-    )
+      'addSite button[action=AjouterSite]':
+         click: @addSite
   onPanelRendered: ->
    console.log('le Panel a été affiché')
   editCompLab: (grid, record)->
@@ -29,6 +31,7 @@ Ext.define 'SSudl.controller.SuiviSitesCtrl',
     record = form.getRecord()
     values = form.getValues()
     record.set(values)
+    console.log(moduleDebug.debug(form))
     win.close()
     if form.jlmorig=='autres'
       console.log('MAJ autres')
@@ -36,3 +39,12 @@ Ext.define 'SSudl.controller.SuiviSitesCtrl',
     else
       console.log('MAJ CompLabo')
       @getStoreCompLaboStore().sync()
+  addSite: (button) ->
+    console.log('Ajout d\'un site')
+    form = button.up('form')
+    record = form.getRecord()
+    values = form.getValues()
+    #record.set(values)
+    console.log(moduleDebug.debug(values))
+
+    

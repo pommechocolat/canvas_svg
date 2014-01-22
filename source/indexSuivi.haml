@@ -3,10 +3,11 @@
   %head
     %meta{:charset => "utf-8"}
     %title="Suivi des Sites Web de l'UL"
-    -# = stylesheet_link_tag "all", "normalize"    
+    -# = stylesheet_link_tag "all", "normalize"
     = stylesheet_link_tag "http://cdn.sencha.com/ext/gpl/4.2.0/resources/css/ext-all.css"
+    = stylesheet_link_tag "SuiviSites"
     = javascript_include_tag "http://cdn.sencha.com/ext/gpl/4.2.0/ext-all.js"
     -#= javascript_include_tag "http://cdn.sencha.com/ext/gpl/4.2.0/ext-all-debug.js"
-    -#= javascript_include_tag "debug"
+    = javascript_include_tag "debug"
     = javascript_include_tag "SuiviSites/appSuiviSites"
   %body
