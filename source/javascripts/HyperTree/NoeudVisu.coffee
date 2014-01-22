@@ -27,3 +27,7 @@ class rjlHyperTree.NoeudVisu
     
   top: ->
     @y-@height/ 2
+
+  click: (event) ->
+    console.log("centre Y"+getCenterY().to_s)
+    

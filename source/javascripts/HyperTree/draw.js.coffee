@@ -18,8 +18,9 @@ fils.drawSvg(svg)
 
 clickHandler = (e, message) -> 
   alert message+" - "+e
-  alert moduleDebug.introspection(e)
-  console.log moduleDebug.debug(e)
+  #e.target.click(e)
+  #alert moduleDebug.introspection(e.target)
+  console.log moduleDebug.debug(e.target)
 
 canvas.addEventListener "click", (e) => clickHandler(e, "click dans canvas")
 svg.addEventListener "click", (e) => clickHandler(e, "click dans svg")
