@@ -1,0 +1,13 @@
+!!! 5
+%html
+  %head
+    %meta{:charset => "utf-8"}
+    %title="Suivi des Sites Web de l'UL"
+    %link{:rel => "shortcut icon", :href => "/javascripts/spec/lib/jasmine_favicon.ico"}
+    = stylesheet_link_tag "jasmine.css"
+    = javascript_include_tag "debug"
+    = javascript_include_tag "spec/lib/jasmine", "spec/lib/jasmine-html"
+    = javascript_include_tag "http://cdn.sencha.com/ext/gpl/4.2.0/ext-all.js"
+    = javascript_include_tag "spec/SuiviSites/model/ModelSuiviSitesSpec"
+    = javascript_include_tag "spec/SuiviSites/appSuiviSites"
+  %body
